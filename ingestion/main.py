@@ -35,7 +35,6 @@ def fetch_monthly_data(year: int, month: int) -> dict:
     params = {
         'api-key': API_KEY,
         'format': 'json',
-        'limit': 100,
         'filters[year]': str(year),
         'filters[month]': str(month)
     }
