@@ -1,0 +1,6 @@
+{
+  "name": "KCC Data Pipeline",
+  "dockerFile": "../docker/dev.Dockerfile",
+  "context": "..",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
