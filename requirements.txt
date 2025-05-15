@@ -2,3 +2,4 @@ requests
 pandas
 duckdb
 pyspark
+python-dotenv
