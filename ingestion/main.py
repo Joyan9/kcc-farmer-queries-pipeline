@@ -1,6 +1,5 @@
 import os
 import requests
-import json
 from datetime import datetime
 import argparse
 from dotenv import load_dotenv
@@ -27,14 +26,14 @@ EARLIEST_YEAR = 2008  # earliest year available on API (as int)
 EARLIEST_MONTH = 12   # earliest month available on API (as int)
 
 # ----------------- Functions -----------------
-def fetch_monthly_data(year: int, month: int) -> dict:
-    """Fetch data for a specific year and month from the API."""
+def fetch_monthly_data(year: int, month: int) -> str:
+    """Fetch CSV data for a specific year and month from the API."""
     if not API_KEY:
         logger.error("KCC_API_KEY not set in environment variables.")
         raise ValueError("KCC_API_KEY not set in environment variables.")
     params = {
         'api-key': API_KEY,
-        'format': 'json',
+        'format': 'csv',
         'filters[year]': str(year),
         'filters[month]': str(month)
     }
@@ -42,15 +41,15 @@ def fetch_monthly_data(year: int, month: int) -> dict:
     if response.status_code != 200:
         logger.error(f"API error for {year}-{month:02d}: {response.text}")
     response.raise_for_status()
-    return response.json()
+    return response.text  # CSV data as string
 
-def save_raw_data(data: dict, year: int, month: int) -> None:
-    """Save fetched data as a JSON file in the appropriate directory."""
+def save_raw_data(data: str, year: int, month: int) -> None:
+    """Save fetched data as a CSV file in the appropriate directory."""
     dir_path = os.path.join(RAW_DATA_DIR, str(year), str(month).zfill(2))
     os.makedirs(dir_path, exist_ok=True)
-    file_path = os.path.join(dir_path, "data.json")
+    file_path = os.path.join(dir_path, "data.csv")
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write(data)
     logger.info(f"Saved to path: {file_path}")
 
 def get_month_year_range(start_year: int, start_month: int, end_year: int, end_month: int) -> List[Tuple[int, int]]:
