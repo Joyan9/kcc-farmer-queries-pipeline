@@ -1,24 +1,15 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-"ANDHRA PRADESH",KURNOOL,SANJAMALA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,జల్లులు  అవకాశం ఉంది 
-",2020-11-28T13:12:46.907,2020,11
-"ANDHRA PRADESH",KURNOOL,SANJAMALA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,జల్లులు  అవకాశం ఉంది 
-",2020-11-28T13:12:47.14,2020,11
-"ANDHRA PRADESH",KURNOOL,SANJAMALA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,జల్లులు  అవకాశం ఉంది 
-",2020-11-28T13:12:47.14,2020,11
-PUNJAB,AMRITSAR,MAJITHA-3,NA,AGRICULTURE,Cereals,Wheat,"Weed Management","Information regarding the control of grassy leaf weeds in wheat before first irrigation?
-","ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਘਾਹ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈਂ ਆਈਸੋਪ੍ਰੋਟੋਯੂਰੋਨ 75 ਡਬਲਯੂ ਪੀ (300 ਗ੍ਰਾਮ ਹਲਕੀਆਂ ਜਮੀਨਾਂ ਲਈਂ, 400 ਗ੍ਰਾਮ ਦਰਮਿਆਨੀਆਂ ਜਮੀਨਾਂ ਲਈਂ ਅਤੇ 500 ਗ੍ਰਾਮ ਭਾਰੀਆਂ ਜਮੀਨਾਂ ਲਈਂ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ 75 ਡਬਲਯੂ ਜੀ  (ਸਲਫੋਸਲਫੂਰਾਨ) ਨੂੰ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾ ਕੇ ਪਹਿਲੇ ਪਾਣੀ ਤੋਂ 2-3 ਦਿਨ ਪਹਿਲਾਂ ਛਿੜਕਾਅ ਕਰੋ ਜਿਹਨਾਂ ਖੇਤਾਂ ਵਿੱਚ ਕੋਈ ਵੀ ਚੌੜੇ ਪੱਤੇ ਵਾਲੀ ਫਸਲ ਕਣਕ ਨਾਲ ਰਲਾ ਕੇ ਬੀਜੀ ਹੋਵੇ ਉੱਥੇ ਸਲਫੋਸਲਫੂਰਾਨ ਦਾ ਛਿੜਕਾਅ ਨਾ ਕਰੋ ਜਿਹਨਾਂ ਖੇਤਾਂ ਵਿੱਚ ਸਲਫੋਸਲਫੂਰਾਨ ਦਾ ਛਿੜਕਾਅ ਕੀਤਾ ਹੋਵੇ ਉੱਥੇ ਸਾਉਣੀ ਵਿੱਚ ਚਰੀ ਜਾਂ ਮੱਕੀ ਦੀ ਬਿਜਾਈ ਨਾ ਕਰੋ ",2020-11-28T13:12:58.917,2020,11
-JHARKAND,PALAMU,"UTARI ROAD",NA,HORTICULTURE,Fruits,Mango,"	Plant Protection	","farmer asked query on leaf spots in mango","कॉपर ऑक्सिक्लोराइड 3 ग्राम 1 लीटर पानी में घोल बनाकर आम के पौधे पर छिड़काव करें I",2020-11-28T13:13:06.127,2020,11
-BIHAR,ARARIA,ARARIA,NA,AGRICULTURE,Others,Others,"Government Schemes","Contact to Agriculture Development Officer & Patwari or Registration at  Official  ","प्रधानमंत्री किसान सम्मान निधि योजना के लिए आप अपने कृषि विकास अधिकारी और लेखपाल अधिकारी से संपर्क करे और www.pmkisan.gov.in पर पंजीकरण करे  या फिर इस नंबर पर संपर्क करे 155261/1800115526
-",2020-11-28T13:13:43.243,2020,11
-RAJASTHAN,AJMER,KISHANGARH,NA,AGRICULTURE,Cereals,Wheat,Varieties,"TELL ME ABOUT VARITEIS OF WHEAT ?
-","गेंहू की किस्मे -RAJ-4120, RAJ-4037, RAJ 3077, RAJ 3777, PBW 343, PBW 550  के आर एल 210,राज 1482, HD-3086  
+"WEST BENGAL",NADIA,CHAKDAH,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","আবহাওয়ার পূর্বাভাস: আগামী পাঁচ দিন বৃষ্টিপাতের সম্ভাবনা নেই, আজকের প্রত্যাশিত সর্বোচ্চ তাপমাত্রা ৩৩ ডিগ্রী সেলসিয়াস এবং সর্বনিম্ন তাপমাত্রা  ২০ ডিগ্রী সেলসিয়াস, এবং বাতাসের গতি ১০ কিমি প্রতি ঘন্টা।",2020-11-12T08:11:09.597,2020,11
+PUNJAB,JALANDHAR,BHOGPUR,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","  ਮੌਸਮ -ਅਗਲੇ 2 ਦਿਨ ਮੀਂਹ ਦੀ ਕੋਈ ਸੰਭਾਵਨਾ ਨਹੀਂ ਹੈ ਅਤੇ ਮੌਸਮ ਸਾਫ ਰਹਿਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ  I ਵੱਧ ਤੋਂ ਵੱਧ ਤਾਪਮਾਨ 31 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਅਤੇ ਘੱਟ ਤੋਂ ਘੱਟ 12 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਰਹੇਗਾ ਅਤੇ ਹਵਾ ਦੀ ਗਤੀ 10-12  ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ ਹੈ  ",2020-11-12T08:11:28.783,2020,11
+HARYANA,JHAJJAR,MATANNAIL,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","आप के जिले में आज हल्के बादल छाए रहेंगे बरसात की कोई संभावना नहीं है। अधिकतम तापमान 32 डिग्री सेल्सियस और न्यूनतम तापमान 17 डिग्री सेल्सियस और हवा की गति 8-10 किलोमीटर प्रति घंटा रहेगी।",2020-11-12T08:11:42.637,2020,11
+KERALA,KANNUR,"0   ",NA,HORTICULTURE,Vegetables,"Cowpea (Vegetable)","	Plant Protection	","Fungal spots and yellowing in cowpea leaves
 
-",2020-11-28T13:16:15.98,2020,11
-"MADHYA PRADESH","EAST NIMAR",KHANDWA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","मौसम विभाग के अनुसार आपके खंडवा जिले में बारिश होने की कोई संभावना नजर नहीं आ रही है अधिकतम तापमान 28 डिग्री सेल्सियस और न्यूनतम तापमान 18 डिग्री सेल्सियस रहेगा",2020-11-28T13:18:16.35,2020,11
-KARNATAKA,BAGALKOT,HUNGUND,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ ( 20%)  ಹಾಗು ಮುಂದಿನ ಮೂರು ದಿನಗಳಲ್ಲಿ ಭಾಗಶಃ ಮೋಡ ಕವಿದ  ವಾತಾವರಣವಿದ್ದು,  ಸಾಧಾರಣ  ಮಳೆ ನಿರೀಕ್ಷೆ ಇದೆ  . ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಿ
-",2020-11-28T13:18:46.473,2020,11
-"JAMMU AND KASHMIR",PULWAMA,PULWAMA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","weather will be partly cloudy for today, there are 0% chances of rainfall for today (28/11/2020). in District-Pulwama Block-PULWAMA 
-max temp. will be ----      5°C 
-min. temp. will be-----     1°C 
-weather will be clear for today , the farmer is advised that he can do   all the field related and agriculture work for today.
-NOTE:  AVOID SOCIAL GATHERING AND HANDWASH SHOULD BE DONE ON A REGULAR BASIS.",2020-11-28T13:18:51.1,2020,11
+","It is recommended to spray Psuedomonas flourescense 20gram per litre of water",2020-11-12T08:12:12.773,2020,11
+TELANGANA,RANGAREDDY,MADGUL,NA,HORTICULTURE,Vegetables,Chillies,"Nutrient Management","CHILLI NUTRIENT MANAGEMENT "," 13 -0 -45 ఒక కిలో + అగ్రోమిం మాక్స్ 600 గ్రాములు/200 లీటర్లు నీటిలో కలిపి ఒక ఎకరానికి పిచికారీ చేసుకోండి  ",2020-11-12T08:12:44.77,2020,11
+ODISHA,GANJAM,GANJAM,NA,HORTICULTURE,Vegetables,Tomato,"Fertilizer Use and Availability","Fertiliser dose in one month old tomato","Fertiliser dose in one month old tomato: Advised to spray Insta 28-28-0 @ 100g per 15 litre of water ",2020-11-12T08:13:35.36,2020,11
+PUNJAB,FARIDKOT,"KOT KAPURA",NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","ਮੌਸਮ-  ਅਗਲੇ 2-3 ਦਿਨ ਮੌਸਮ ਸਾਫ ਰਹਿਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ I ਵੱਧ ਤੋਂ ਵੱਧ ਤਾਪਮਾਨ 29 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਅਤੇ ਘੱਟ ਤੋਂ ਘੱਟ ਤਾਪਮਾਨ 12 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਰਹੇਗਾ ਤੇ ਹਵਾ ਦੀ ਗਤੀ 8 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ ਰਹੇਗੀ",2020-11-12T08:13:37.87,2020,11
+ODISHA,SONEPUR,DUNGURIPALI,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","Weather forecast in Sonepur District at Dunguripali Block=There is no  rainfall in the next 4 days but partly cloudy weather will remain. Tomorrow's maximum temperature is 32°C and minimum 20°C and wind speed is likely run at 11 Km/Hr.",2020-11-12T08:13:41.287,2020,11
+RAJASTHAN,BARAN,"0   ",NA,HORTICULTURE,Vegetables,Onion,"	Plant Protection	","TELL ME ABOUT WEED CONTROL IN ONION ?","--आॅक्सीफ्लोरोफेन 600-1000 मिली/हेक्टेयर खरपतवार नाशक पौध की रोपाई के 3 दिन पश्चात 750 लीटर पानी में मिलाकर छिड़काव करना बहुत प्रभावी और उपयुक्त पाये गये हैं।",2020-11-12T08:13:46.67,2020,11
+HARYANA,BHIWANI,BHIWANI,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","आपके यहां मौसम आमतौर पर परिवर्तनशील रहेगा इस दौरान सुबह के समय हल्की धुंधभरा वातावरण रहने तथा उत्तर पश्चिमी हवाएं चलने से तापमान में हल्की गिरावट संभावित है लेकिन बरसात की कोई सभावना नहीं है,आज का अधिकतम तापमान 30 डिग्री सेल्सियस और न्यूनतम तापमान 13 डिग्री सेल्सियस और हवा की गति 6-15 किलोमीटर प्रति घंटा रहेगी ।
+
+",2020-11-12T08:16:01.78,2020,11

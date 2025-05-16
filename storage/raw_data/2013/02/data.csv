@@ -1,11 +1,11 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-TAMILNADU,VILLUPPURAM,"0   ",KHARIF,AGRICULTURE,Cereals,1137,"Fertilizer Use and Availability","top dressing  fertilizer management for paddy","Apply Urea 25 kg, potash 15 kg, neem cake 5 kg, mn mixture 5 kg/ ac in top dressing",2013-02-14T14:57:00,2013,2
-"ANDHRA PRADESH",KRISHNA,"0   ",NA,AGRICULTURE,Others,Others,0,"asked about herbicide influence on human body","suggest him consult doctor",2013-02-14T14:59:00,2013,2
-TELANGANA,MEDAK,"0   ",NA,AGRICULTURE,Cereals,1137,0,"rice growing",given,2013-02-14T14:59:00,2013,2
-HARYANA,HISSAR,HISAR-I,KHARIF,AGRICULTURE,Cereals,"FingerMillet  (Ragi/Mandika)","Fertilizer Use and Availability","How to improve growth  in barley crop  ?","Spray 500 gm. Zinc Sulphate 21% and 2.5 kg. Urea in 100 lt. of water per acre.",2013-02-14T15:00:00,2013,2
-RAJASTHAN,JAISALMER,"0   ",KHARIF,AGRICULTURE,Others,Others,29,"potasim sulphate  use of top drassing",NA,2013-02-14T15:00:00,2013,2
-TAMILNADU,SALEM,SALEM,KHARIF,HORTICULTURE,Fruits,Banana,75,"banana leaf spot","spray bavistin 1g/lit+teepol 0.5ml/lit",2013-02-14T15:00:00,2013,2
-"WEST BENGAL","EAST MEDINIPUR",EGRA-I,KHARIF,AGRICULTURE,Others,Others,29,"WANT TO KNOW ABOUT KISAN CREDIT CARD","CONTACT WITH LOCAL A.D.A.",2013-02-14T15:00:00,2013,2
-"MADHYA PRADESH",MANDSAUR,"0   ",RABI,AGRICULTURE,Cereals,Wheat,3,"fertilizer doses in wheat ?","apply 12-32-16  @ 75 kg acre . +after 25 days after sowing  100 kg urea .",2013-02-14T15:01:00,2013,2
-GUJARAT,VALSAD,"0   ",NA,HORTICULTURE,Fruits,1268,102,"irrigation in mango","2-3 irri at 15-20 days interval",2013-02-14T15:01:00,2013,2
-"HIMACHAL PRADESH",SOLAN,NALAGARH,RABI,AGRICULTURE,Cereals,Wheat,"Fertilizer Use and Availability","information regarding fertilizer dose of NPK 18:18:18 in wheat?","dose of NPK 18:18:18 in wheat are 1gm/lit.of water.",2013-02-14T15:01:00,2013,2
+TELANGANA,ADILABAD,"0   ",NA,HORTICULTURE,Vegetables,Others,94,"15 days coriander crop is it recomemded to spray","suggested not to manual weeding",2013-02-25T14:39:00,2013,2
+"ANDHRA PRADESH",KURNOOL,KOSIGI,NA,AGRICULTURE,Cereals,1075,29,"single stem bearing multi fruit","suggested to do thining",2013-02-25T14:39:00,2013,2
+"ANDHRA PRADESH",SRIKAKULAM,SRIKAKULAM,NA,HORTICULTURE,Vegetables,1280,76,"fruit borer","ekalux @ 500ml+ neem oil @1lit",2013-02-25T14:39:00,2013,2
+"ANDHRA PRADESH","EAST GODAVARI",GOKAVARAM,NA,HORTICULTURE,Vegetables,1282,76,"fruit borer","spraying of quinolphos 2.0 ml per one lit of water",2013-02-25T14:39:00,2013,2
+ODISHA,BALASORE,REMUNA,NA,HORTICULTURE,Vegetables,Cabbage,"	Plant Protection	","LEAF HOPPER","CHLORPYRIPHOS 2ML/LTR",2013-02-25T14:39:00,2013,2
+ODISHA,KENDRAPARA,KENDRAPADA,NA,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	",APHIDS,"DIMETHOATE 2ML/LTR WATER",2013-02-25T14:39:00,2013,2
+GUJARAT,AMRELI,AMRELI,KHARIF,HORTICULTURE,"Plantation Crops",Coconut,75,"ask for coconut drying control","provided information about it",2013-02-25T14:40:00,2013,2
+"JAMMU AND KASHMIR",JAMMU,"0   ",KHARIF,AGRICULTURE,Others,Others,1,"NAME OF VEGETABLES OF ZAID SEASON.","TOMATO, BHINDI, KERALA, BRINJAL, PUMPKINETC",2013-02-25T14:41:00,2013,2
+"JAMMU AND KASHMIR",BADGAM,"0   ",KHARIF,HORTICULTURE,Fruits,Apple,"Fertilizer Use and Availability","TIME OF FERTILIZERDOSE IN APPLE.","APPLY IN THE MONTH OF MARCH",2013-02-25T14:41:00,2013,2
+"JAMMU AND KASHMIR",ANANTNAG,ACHABAL,KHARIF,HORTICULTURE,Fruits,Apple,100,"DOSAGE OF COPPER.","SPRAY IN THE LAST WEEK OF FEB.",2013-02-25T14:41:00,2013,2

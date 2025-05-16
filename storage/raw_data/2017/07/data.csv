@@ -1,15 +1,11 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-"MADHYA PRADESH",SHAJAPUR,SHUJALPUR,JAYAD,AGRICULTURE,Others,Others,Weather,"farmer want to know information about how to weather forecast in Shajapur district?","Shujalpur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 34°C on Fri afternoon, min 24°C on Wed night). Mainly fresh winds.Shujalpur 4 – 7 Day Weather Forecast Summary: Mostly dry. Warm (max 36°C on Mon afternoon, min 26°C on Sat night). Mainly fresh winds.Shujalpur 7 – 10 Day Weather Forecast Summary: Heavy rain (total 46mm), heaviest during Thu afternoon. Warm (max 36°C on Wed afternoon, min 26°C on Thu night). Winds increasing (light winds from the N on Thu afternoon, fresh winds from the WSW by Fri night).",2017-07-05T11:07:48.51,2017,7
-"MADHYA PRADESH",GUNA,CHANCHODA,KHARIF,AGRICULTURE,Others,Others,Weather,"Weather forecasting for guna district of Madhya Pradesh?","Guna 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 33°C on Fri afternoon, min 26°C on Wed night). Winds decreasing (strong winds from the W on Wed morning, light winds from the WSW by Thu night). Guna 4 – 7 Day Weather Forecast Summary: Mostly dry. Warm (max 35°C on Sun afternoon, min 27°C on Mon night). Mainly fresh winds.",2017-07-05T11:08:02.64,2017,7
-ODISHA,KENDRAPARA,MARSAGHAI,NA,AGRICULTURE,Others,Others,Weather,"Rainfall forecast for Marsaghai block","Rainfall expected 13mm on 5 July, 11mm on 6 July, 18mm on 7 July, 19mm on 8 July, 4mm on 9 July and 6mm on 10 July 2017 in Marsaghai block",2017-07-05T11:08:05.16,2017,7
-MAHARASHTRA,NANDED,HADGAON,KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast ?","cloudy weather  rainfall chances today
-Temperature-29°C.
-Humidity-70%",2017-07-05T11:08:37.587,2017,7
-RAJASTHAN,BARMER,BARMER,NA,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","LIGHT RAIN MAY BE NEXT 2-3 DAYS",2017-07-05T11:08:51.373,2017,7
-KERALA,KOZHIKODE,KOZHIKODE,NA,HORTICULTURE,"Plantation Crops",Rubber,"	Plant Protection	","rubber nutrient management","recommended rubber nutrient management",2017-07-05T11:09:08.72,2017,7
-MAHARASHTRA,PARBHANI,SAILU,KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is CLOUDY and  of  Possibility LIGHT To MEDIUM Rainfall",2017-07-05T11:09:21.217,2017,7
-KARNATAKA,"BANGALORE RURAL",HOSKOTE,KHARIF,AGRICULTURE,Millets,"FingerMillet  (Ragi/Mandika)",Varieties,"VARIETIES OF RAGI","VARIETIES OF RAGI
-G.P.U-66, 28, INDOF-5, 9, M.R-6, P.R-202, H.R-911, K.M.R-301",2017-07-05T11:09:23.95,2017,7
-KARNATAKA,BIJAPUR,SINDAGI,NA,AGRICULTURE,Others,Others,Weather,"ASKING FOR SINDAGI WEATHER REPORT","Precipitation 57%
-Mainly cloudy with a shower or thunderstorm around",2017-07-05T11:09:26.167,2017,7
-"UTTAR PRADESH",SITAPUR,"RAMPUR MATHURA",KHARIF,AGRICULTURE,Others,Others,Weather,"mausam ki jankari.........?","kisan bhai aapke yaha agle 6 dino me barish ki sambhawna hai",2017-07-05T11:09:28.663,2017,7
+HARYANA,JIND,NARWANA,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather in ?","Some clouds and chance of rain fall today.",2017-07-15T12:50:31.147,2017,7
+TELANGANA,KARIMNAGAR,RAMAGUNDAM,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Weed Management","cotton weed management ;","RECOMMENDED TO SPRAY QUIZALOFOP-P-ETHYL   400 ML/200 LITRES OF WATER /ACRE",2017-07-15T12:50:48.203,2017,7
+RAJASTHAN,JALOR,RANIWARA,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY",2017-07-15T12:50:57.413,2017,7
+MAHARASHTRA,JALNA,GHANSAWANGI,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is CLOUDY and Possibility of Rainfall",2017-07-15T12:50:58.06,2017,7
+PUNJAB,MOGA,MOGA-II,NA,AGRICULTURE,Others,Others,Weather,"information regarding weather ?","weather is cloudy and some chances of rainfall today",2017-07-15T12:52:05.347,2017,7
+TELANGANA,MAHABOOBNAGAR,AIZA,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Weed Management","COTTON WEED MANAGEMENT","COTTON WEED MANAGEMENT; NOT RECOMMENDED",2017-07-15T12:52:27.5,2017,7
+HARYANA,ROHTAK,MAHAM,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather in ?","Some clouds and chance of rain fall today.",2017-07-15T12:53:15.63,2017,7
+MAHARASHTRA,JALGAON,JAMNER,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is CLOUDY and LIGHT Possibility of Rainfall",2017-07-15T12:53:50.49,2017,7
+BIHAR,MADHEPURA,GWALPARA,KHARIF,AGRICULTURE,Others,Others,Weather,"weather information","chance of rain today and tomorrow",2017-07-15T12:53:51.56,2017,7
+MAHARASHTRA,JALNA,GHANSAWANGI,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is Partly cloudy and Possibility of Rainfall.",2017-07-15T12:53:54.84,2017,7

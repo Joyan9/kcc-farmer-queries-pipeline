@@ -1,19 +1,11 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-ODISHA,CUTTACK,"0   ",NA,AGRICULTURE,0,Others,29,"PREAPARATION OF LIQUID COMPOST.","ANSWER GIVEN IN DETAIL.",2010-08-17T15:19:00,2010,8
-"HIMACHAL PRADESH",KANGRA,"0   ",JAYAD,"ANIMAL HUSBANDRY",0,964,"Dairy Production","How to improve milk our buffalo ?","Apply ostacalcium @ 40-45 ml and minral mixture @ 30-35 gm / day.",2010-08-17T15:20:00,2010,8
-MAHARASHTRA,AHMADNAGAR,"0   ",NA,AGRICULTURE,0,Others,"Agriculture Mechanization","weather information.","Mostly Cloudy28°C.",2010-08-17T15:20:00,2010,8
-DELHI,9999,"0   ",JAYAD,AGRICULTURE,0,2763,3,"pls.tell me,any control of termite in paddy","you should apply,one liter chaloropirophose with irrigation/acre",2010-08-17T15:21:00,2010,8
-"WEST BENGAL",HOOGHLY,"0   ",JAYAD,HORTICULTURE,0,Rose,"Cultural Practices","CULTURAL PRACTICS IN ROSE","GIVE INFORMATION IN DETAIL",2010-08-17T15:22:00,2010,8
-UTTARAKHAND,DEHRADUN,"0   ",KHARIF,HORTICULTURE,0,Cabbage,75,"INFORMATIUON REGARDING CONTROL OF BLIGHT IN CABBAGE","SPRAY THE CROP WITH MANCOZEB 75 WP 2 2.5 GM/LITRE OF WATER.",2010-08-17T15:27:00,2010,8
-KARNATAKA,"BANGALORE RURAL","0   ",NA,HORTICULTURE,0,Others,87,"cultivaqtion practices for rose","given the information",2010-08-17T15:29:00,2010,8
-"UTTAR PRADESH",BALLIA,"0   ",JAYAD,AGRICULTURE,0,1818,3,"cowpea in insect control","apply monocrotophas @2ml/lit. of water spray kare",2010-08-17T15:36:00,2010,8
-RAJASTHAN,JAIPUR,"0   ",JAYAD,AGRICULTURE,0,1136,3,"BAJRA CROP AFFECTED BY TERMITE.","CHLORPYRIPHOS 20 EC 4 L/HEC.WITH IRRIGATION.",2010-08-17T15:42:00,2010,8
-MAHARASHTRA,NASIK,"0   ",JAYAD,HORTICULTURE,0,Others,Weather,"WEATHER REPORT.","TODAY:-Partly cloudy
-Feels Like: +33TODAY:-Partly cloudy
-Feels Like: +33°
-Barometer: 1001.9 hPa 
-Dewpoint: +23°
-Humidity: 66%
-Visibility: 4 km
-As of 17/08 02:30 pm
-Observed at Nasik",2010-08-17T15:44:00,2010,8
+TAMILNADU,NAGAPATTINAM,"0   ",KHARIF,AGRICULTURE,0,Saffron,"Fertilizer Use and Availability","basal fertilizer management in turmeric","apply 25kg urea + 120kg super + 15kg potash / ac",2010-08-01T02:40:00,2010,8
+TAMILNADU,TIRUVANNAMALAI,TIRUVANNAMALAI,KHARIF,HORTICULTURE,0,Banana,76,"control measure for leafspot in banana","spray mancozeb 2gm / lit. of water",2010-08-01T04:16:00,2010,8
+TAMILNADU,TIRUVANNAMALAI,"0   ",KHARIF,AGRICULTURE,0,"Sunnhemp (Patua)","Fertilizer Use and Availability","top dressing fertilizer management","apply 80kg urea + 25kg potash / ac",2010-08-01T04:55:00,2010,8
+"MADHYA PRADESH",KATNI,"0   ",JAYAD,HORTICULTURE,0,Chillies,76,"what are control measure  of chilli white fly ?","spray  acetamiprid @ 5 ml /pump.",2010-08-01T06:13:00,2010,8
+"UTTAR PRADESH",GHAZIPUR,"0   ",JAYAD,HORTICULTURE,0,1282,76,"bhindi ke p0ati me kirda","apply melathiyan 2ml/liter ka spray",2010-08-01T06:18:00,2010,8
+"UTTAR PRADESH",ALLAHABAD,"0   ",JAYAD,AGRICULTURE,0,1137,2,"dhan ki patti lal ho rahi hai","spray zink sulphate 5 gm + urea 20 gm / l water",2010-08-01T06:22:00,2010,8
+"UTTAR PRADESH",KHERI,"0   ",JAYAD,AGRICULTURE,0,1137,3,"insect cntrol of rice?","spray to quinqlphase 25 ec 1.5 ml / liter water.",2010-08-01T06:24:00,2010,8
+"HIMACHAL PRADESH",SHIMLA,"0   ",JAYAD,"ANIMAL HUSBANDRY",0,"Bovine(Cow,Buffalo)","Dairy Production","HOW TO IMPROVE MILK OF OUR COW ?","GIVE OSTACALCIUM@40-45ML AND MINERAL MIXTURE@30-35GM/DAY.",2010-08-01T06:25:00,2010,8
+RAJASTHAN,HANUMANGARH,"0   ",JAYAD,AGRICULTURE,0,1064,5,"TELL ME VARIETIES OF MOONG.","SML-668,K-851,RMG-62,RMG-268.",2010-08-01T06:25:00,2010,8
+"UTTAR PRADESH",HARDOI,"0   ",JAYAD,AGRICULTURE,0,1075,3,"insect control in maize","apply indosulphan @ 2ml/liter of water",2010-08-01T06:34:00,2010,8

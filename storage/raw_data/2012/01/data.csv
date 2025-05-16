@@ -1,11 +1,12 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-MAHARASHTRA,WARDHA,"0   ",NA,AGRICULTURE,Pulses,1066,3,"attack of gram pod borer","spray quinolphos 25 ml in 10 lts of water",2012-01-04T16:38:00,2012,1
-KARNATAKA,BELGAUM,"0   ",NA,AGRICULTURE,Oilseeds,"Soybean (bhat)","Fertilizer Use and Availability","fertilizer application","information given",2012-01-04T16:39:00,2012,1
-MAHARASHTRA,AKOLA,BALAPUR,NA,HORTICULTURE,Fruits,1324,99,"control of flower drop","spraying of planofix 5-6 ml/ 10 lit of water",2012-01-04T16:39:00,2012,1
-GUJARAT,AMRELI,"KUNKAVAV -VADIA",KHARIF,AGRICULTURE,Cereals,1075,1,"Asking for sowing in maize","Prfer sowing in june-July",2012-01-04T16:41:00,2012,1
-GUJARAT,VADODARA,DABHOI,KHARIF,HORTICULTURE,Fruits,Banana,75,"Asking for wilt in Banana","Suggested to spray Mancozeb 25-30gm/pump.",2012-01-04T16:41:00,2012,1
-MAHARASHTRA,BHANDARA,"0   ",KHARIF,HORTICULTURE,Vegetables,1280,75,"defoliation in chilli","Spraying of planofix 5 ml/ 10 lit of water",2012-01-04T16:42:00,2012,1
-KARNATAKA,MANDYA,"0   ",NA,AGRICULTURE,Oilseeds,"Sunflower (suryamukhi)","Fertilizer Use and Availability","fertilizer application","information given",2012-01-04T16:42:00,2012,1
-MAHARASHTRA,LATUR,"0   ",NA,HORTICULTURE,Vegetables,1289,78,"ask varieties","pusa dipali,pusa katki pusa snow ball etc",2012-01-04T16:44:00,2012,1
-HARYANA,REWARI,REWARI,KHARIF,AGRICULTURE,Cereals,Wheat,22,"HOW TO CONTROL WEEDS IN WHEAT CROP ?","SPRAY TO TOPIC @ 160 GM IN 200 LITER OF WATER / ACRE .",2012-01-04T16:48:00,2012,1
-MAHARASHTRA,AHMADNAGAR,"0   ",NA,HORTICULTURE,Vegetables,"Spinach (Palak)",78,"varities of spinach","pusa jyoti, rm",2012-01-04T16:48:00,2012,1
+"JAMMU AND KASHMIR",JAMMU,"0   ",KHARIF,HORTICULTURE,Vegetables,1280,74,"SOWING TIME OF CHILLI ?",NA,2012-01-15T10:57:00,2012,1
+"JAMMU AND KASHMIR",JAMMU,AKHNOOR,KHARIF,HORTICULTURE,Vegetables,1289,75,"CONTROL OF CURD ROT IN CAULIFLOWER ?","SPRAY MANCOZEB 75WP @ 50GM IN 15 LITRE OF WATER PER KANAL .",2012-01-15T11:01:00,2012,1
+KARNATAKA,CHITRADURGA,"0   ",NA,AGRICULTURE,Others,Others,Weather,"weather report","Today
+ 28 °C Clear",2012-01-15T11:09:00,2012,1
+"JAMMU AND KASHMIR",GANDERBAL,"0   ",KHARIF,AGRICULTURE,417,7528,1,"SOWING TIME OF MELON ?","SOWING TIME OF  MELON STARTS FROM THE  MONTH OF MARCH .",2012-01-15T11:09:00,2012,1
+PUNJAB,"TARN TARAN","0   ",KHARIF,AGRICULTURE,Cereals,Wheat,"Fertilizer Use and Availability","deficiency of manganese in wheat corp ?","spray to manganese sulphate @ 1 kg in 200 litres of water/acre.",2012-01-15T11:10:00,2012,1
+"UTTAR PRADESH",ALLAHABAD,"0   ",KHARIF,AGRICULTURE,Pulses,1064,5,"moong ki var.batayen",NA,2012-01-15T11:14:00,2012,1
+"JAMMU AND KASHMIR",JAMMU,R.S.PURA,KHARIF,HORTICULTURE,Vegetables,Potato,75,"control of blight in potato?","spray the mancozeb 75 wp @ 500 gm in 200 litre of water/acre.",2012-01-15T11:14:00,2012,1
+HARYANA,KAITHAL,KAITHAL,KHARIF,HORTICULTURE,"Condiments and Spices",Turmeric,74,"sowing time of termerice crop ?","aprail- manth.",2012-01-15T11:16:00,2012,1
+"UTTAR PRADESH",BALLIA,GARWAR,KHARIF,AGRICULTURE,Cereals,Wheat,3,"insect in wheat",NA,2012-01-15T11:16:00,2012,1
+"UTTAR PRADESH",BALLIA,GARWAR,KHARIF,HORTICULTURE,Vegetables,2113,76,"insect in bitter gourd","mailatheyan ki dusting karen",2012-01-15T11:18:00,2012,1
