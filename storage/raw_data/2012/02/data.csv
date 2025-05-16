@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",BARABANKI,MAWAI,NA,HORTICULTURE,"Medicinal and Aromatic Plants",Mint,0,"MINT KE SAATH SAH FASAL","NO SINGLE MENTHA",2012-02-20T06:18:00,2012,2
+KARNATAKA,DHARWAD,"0   ",NA,HORTICULTURE,Fruits,Grape,75,"powdery mildew","spray kavach 2g/lt",2012-02-20T07:00:00,2012,2
+KARNATAKA,BANGALORE,"0   ",NA,AGRICULTURE,Others,Others,"Agriculture Mechanization","machinaries availability","information given",2012-02-20T07:19:00,2012,2
+KARNATAKA,CHIKMAGALUR,"0   ",NA,AGRICULTURE,Oilseeds,"Sunflower (suryamukhi)","Fertilizer Use and Availability","fertilizer recommendation","135:468:103kg urea,ssp,mop/ha",2012-02-20T07:30:00,2012,2
+"WEST BENGAL",BANKURA,BANKURA-I,KHARIF,AGRICULTURE,Cereals,1137,"Cultural Practices","CULTIVATION PRACTICES OF BORO PADDY.","ANSWER GIVEN IN DETAILS.",2012-02-20T07:31:00,2012,2
+KARNATAKA,SHIMOGA,"0   ",NA,HORTICULTURE,Vegetables,1280,99,"flower drop","spray borax 2g/lt",2012-02-20T07:37:00,2012,2
+KARNATAKA,BAGALKOT,"0   ",NA,HORTICULTURE,Vegetables,Carrot,74,"sowing season","aug-sept,oct",2012-02-20T07:47:00,2012,2
+"UTTAR PRADESH",JAUNPUR,BARASATHI,RABI,HORTICULTURE,Vegetables,2113,74,"KARELA SOWING TIME.","THE MONTH OF MARCH.",2012-02-20T08:16:00,2012,2
+JHARKAND,DUMKA,DUMKA,NA,HORTICULTURE,Vegetables,Potato,0,"LATE BLIGHT OF POTATO.","SPRAY ENDOFIL M-45 @ 2ML./LIT.OF WATER.",2012-02-20T08:25:00,2012,2
+KARNATAKA,DHARWAD,"0   ",NA,HORTICULTURE,Flowers,Rose,87,"rose cultivation practices","given package of practice of rose",2012-02-20T11:15:00,2012,2

@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"MADHYA PRADESH",DATIA,DATIA,NA,AGRICULTURE,Others,Others,"Market Information","farmer want to know information mandi rate ?","your number registered for mandi rate",2015-02-24T16:09:58.657,2015,2
+"UTTAR PRADESH","AMBEDKAR NAGAR",AKBARPUR,RABI,HORTICULTURE,"Condiments and Spices",Garlic,"	Plant Protection	","lahsun mai pilapn aaya hai","abhi 15 din baad lahsun ki khudai kara le",2015-02-24T16:10:37.273,2015,2
+ODISHA,KENDRAPARA,PATTAMUNDAI,NA,HORTICULTURE,Vegetables,"Bitter Gourd","	Plant Protection	","root rot in bitter gourd","root rot in bitter gourd recommended to apply redomil mz 2.5 gm/liter",2015-02-24T16:10:42.377,2015,2
+PUNJAB,MUKTSAR,MALOUT,RABI,AGRICULTURE,Cereals,Wheat,Weather,"INFORMATION REGARDING WEATHER ?","SOME CLOUDS AND SOME CHANCES OF RAINFALL.",2015-02-24T16:11:48.297,2015,2
+HARYANA,HISSAR,HANSI-I,RABI,AGRICULTURE,Others,Others,Weather,"Information regarding weather in hisar.?","Information regarding weather in hisar.?
+Some clouds no Chances of rain fall today.",2015-02-24T16:12:03.107,2015,2
+"UTTAR PRADESH",AGRA,"BARAULI AHIR",RABI,HORTICULTURE,Fruits,Lemon,"	Plant Protection	","NIBU ME AMARBELA HI","CATAI CHATAI KARE",2015-02-24T16:12:22.767,2015,2
+TAMILNADU,ERODE,GOPICHETTIPALAIYAM,RABI,HORTICULTURE,"Plantation Crops",Coconut,"	Plant Protection	","coconut rhinocerous beetle","Recommended for keep pheromone traps",2015-02-24T16:12:55.067,2015,2
+"MADHYA PRADESH",RAJGARH,RAJGARH,RABI,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","Ear head bugin in paddy Both nymphs and adults suck the sap from individual grains, which are in milky stage.","Dust any one of the following at 25 kg/ha twice first during flowering and second a week later. Quinalphos 1.5 D, Fenitrothion 2 D, Carbaryl 10 D and Malathion 5D.",2015-02-24T16:13:13.583,2015,2
+MAHARASHTRA,PUNE,INDAPUR,RABI,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),"	Plant Protection	","MITE ON BHENDI?","SULPHURE 1.5 GRAM/LITER",2015-02-24T16:13:19.503,2015,2
+"ANDHRA PRADESH","0   ","0   ",NA,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","paddy management","recommended for BENOMIL (BENLATE) 200 GRAMS PER ACRE",2015-02-24T16:13:23.71,2015,2

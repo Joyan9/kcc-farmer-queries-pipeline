@@ -1,0 +1,25 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"HIMACHAL PRADESH",KANGRA,PANCHRUKHI,NA,AGRICULTURE,Others,Others,"Government Schemes","Information regarding how to check pm kisan samman Nidhi installment status?
+","प्रधानमंत्री किसान सम्मान निधि की 14 वी किस्त 27 जुलाई 2023 को जारी कर दी गई है ,क़िस्त जानने के लिए दिए गये लिंक को खोले और  रजिस्ट्रेशन नंबर डालें , कैप्चर डाल के अपने खाते की जानकारी देख सकते है :- https://pmkisan.gov.in/BeneficiaryStatus_New.aspx",2023-07-31T11:38:15.22,2023,7
+CHHATTISGARH,MAHASAMUND,MAHASAMUND,NA,AGRICULTURE,Others,Others,"Government Schemes","Farmer's query about issue related to Pradhan Mantri Samman Nidhi Yojna ?","किसान भाई प्रधानमंत्री किसान सम्मान निधि योजना से संबंधित जानकारी हेतु   ग्रामीण कृषि विस्तार  अधिकारी  से संपर्क करें I
+
+",2023-07-31T11:38:25.423,2023,7
+RAJASTHAN,BHARATPUR,DEEG,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","ASKED ABOUT TO NEMETODE CONTROL IN PADDY 
+","निमेटोड (सूत्रकृमि) की रोकथाम के लिए निमेटोन दवा 3 लिटर प्रति हेक्टेयर की दर से सिंचाई के साथ देवें। 
+",2023-07-31T11:38:25.67,2023,7
+RAJASTHAN,TONK,DEOLI,NA,"ANIMAL HUSBANDRY",Animal,"Bovine(Cow,Buffalo)","Market Information","	Asked about to contact number Krishi Vigyan Kendra,Tabiji Farm, NH No.8,Distt. Ajmer","कृषि विज्ञान केंद्र, तबीजी फार्म, एनएच नंबर 8, जिला। अजमेर
+संपर्क विवरण डॉ. धमेंद्र सिंह भाटी, प्रमुख केवीके, संपर्क नंबर: +91-9414536224
+लैंडलाइन नंबर 0145-2970139",2023-07-31T11:38:37.59,2023,7
+"UTTAR PRADESH","AMBEDKAR NAGAR",BASKHARI,NA,HORTICULTURE,Vegetables,Radish,"	Plant Protection	","Information about black spot on leaves in radish crop...?","श्रीमान जी मूली की फसल में पत्तियों पर काले धब्बे की रोकथाम के लिए कॉपर ऑक्सिक्लोराइड 50 परसेंट डब्ल्यूपी 400 ग्राम प्रति एकड़ 200 लीटर पानी में घोल बनाकर छिड़काव करें |
+",2023-07-31T11:38:44.733,2023,7
+GUJARAT,"Gir Somnath",TALALA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","હવામાનનું અનુમાન તમારા વિસ્તારમાં આગામી પાંચ દિવસ આંશિક વાદળછાયું વાતાવરણ રહી શકે છે, છુટાછવાયા ઝાપટાં થઈ શકે તેવી સંભાવના છે  ",2023-07-31T11:38:51.053,2023,7
+"MADHYA PRADESH",MANDSAUR,MANDSAUR,NA,AGRICULTURE,Oilseeds,"Soybean (bhat)","Nutrient Management","Farmer want to know information about how to increase growth in soybean crop
+","सोयाबीन की खड़ी फसल मैं बढ़वार के लिए सागरिका 30-40ml मात्रा प्रति पम्प की दर से पत्तियों पर छिडकाव करे. |",2023-07-31T11:39:07.34,2023,7
+"MADHYA PRADESH",SHIVPURI,BADARWAS,NA,AGRICULTURE,Millets,"Maize (Makka)","Nutrient Management","Farmer  wants  to know information about fertilizer  schedule in maize crop ?","मक्का की फसल में सामान्य दशा में निम्नलिखित मात्र में उर्वरक प्रयोग करें। बुआई से पूर्व उरबरक 218 किलो यूरिया एवं 108 किलो डी.ए.पी. और 50 किलो मुरेट ऑफ पोटाश",2023-07-31T11:39:11.253,2023,7
+"UTTAR PRADESH",FIROZABAD,TUNDLA,NA,AGRICULTURE,Others,Others,"Government Schemes","Information About Pradhan mantri kisan samman nidhi yojna...?
+","महोदय प्रधानमंत्री  किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने जिले  के उप कृषि निर्देशक या ब्लॉक पर संपर्क करे |
+
+",2023-07-31T11:39:23.297,2023,7
+"UTTAR PRADESH",PILIBHIT,BARKHERA,NA,AGRICULTURE,Others,Others,"Government Schemes","Tell About Information of Pradhanmantri Kisan Samman Nidhi Yojana?
+","श्रीमान जी प्रधानमंत्री किसान सम्मान निधि योजना से संबंधित अधिक जानकारी के लिए अपने जिले के उप कृषि निदेशक के कार्यालय (कृषि भवन) से संपर्क करें अथवा अपने ब्लॉक पर राजकीय कृषि बीज भंडार पर बीज प्रभारी से संपर्क करें |
+",2023-07-31T11:39:53.61,2023,7

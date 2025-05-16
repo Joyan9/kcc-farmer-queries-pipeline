@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",BAREILLY,BHUTA,JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","Weed Management","control weed in sugarcane crop ?","kisan Bhai ap ganna me kharpatwar ki gudai krae",2018-06-17T17:52:17.027,2018,6
+RAJASTHAN,JODHPUR,OSIAN,KHARIF,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",Seeds,"TELL ME ABOUT OF SEED TREATMENT IN GROUNDNUT ?","USE CARBENDAZIM 2 GM PER KG SEED",2018-06-17T17:52:39.007,2018,6
+PUNJAB,BHATINDA,"TALWANDI SABO",NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather forecasting?","weather is cloudy and some chances of rainfall today",2018-06-17T17:53:49.037,2018,6
+CHHATTISGARH,RAIGARH,BARAMKELA,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Cultural Practices","Farmer wants s to know information about seed treatment of paddy?","Recommended for seed treatment of paddy treat the seed with thiram or captan or mancozab or monosan @2-2.5gram/kg of seed.",2018-06-17T17:53:51.593,2018,6
+"MADHYA PRADESH",DINDORI,KARANJIYA,KHARIF,AGRICULTURE,Oilseeds,"Soybean (bhat)",Varieties,"Farmer  wants  to know information about varieties of SOYBEAN crop ?","Recommended  for varieties of SOYBEAN J.S.335,P.K. 1024, M.A.U.S. 47, N.R.C. 7(ahilya-3), N.R.C.37, J.S. 9560, J.S. 9305, J.S.9752 are the popular varieties.",2018-06-17T17:54:11.563,2018,6
+HARYANA,"MAHENDRA GARH",KANINA,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"Information regarding weather in mahendragarh ?","weather in mahendragarh ?   
+Some clouds and chance of rain fall today.",2018-06-17T17:54:52.39,2018,6
+BIHAR,KAIMUR,CHAINPUR,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION","NO CHANCE OF RAIN IN YOUR AREA",2018-06-17T12:23:04.207,2018,6
+"HIMACHAL PRADESH",CHAMBA,SALUNI,KHARIF,HORTICULTURE,Vegetables,Cauliflower,"	Plant Protection	","information regarding how to control hails affected cauliflower crop ?","spray of zinc sulphate @ 500gm + biozyme @ 400ml/200 liter of water.",2018-06-17T12:23:38.01,2018,6
+"UTTAR PRADESH",BADAUN,SAMRER,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)",Varieties,"variety of paddy....?","variety of paddy-narendra 97,118, pusa basmati 1121,1509 pro agro 6444,6201",2018-06-17T12:23:40.867,2018,6
+BIHAR,JEHANABAD,HULASGANJ,NA,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),"	Plant Protection	","Hybrid variety of Bhindi -","Anokhi, Indranil, bhawani, Krishna",2018-06-17T12:24:37.073,2018,6

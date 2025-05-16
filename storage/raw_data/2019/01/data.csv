@@ -1,17 +1,23 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-RAJASTHAN,JHALAWAR,JHALRAPATAN,NA,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?
-","NO RAIN POSSIBILITY IN NEXT 5 DAYS  BUT CLOUDY SKY
-",2019-01-29T12:19:14.357,2019,1
-GUJARAT,Botad,BOTAD,NA,HORTICULTURE,Fruits,Citrus,"Cultural Practices","Ask  about general information	","suggested : All information provided  thanks for calling in kisan call center	",2019-01-29T12:19:25.26,2019,1
-TAMILNADU,ARIYALUR,ARIYALUR,NA,HORTICULTURE,Fruits,Mango,"Nutrient Management","Asking about Mango foliar application	","Recommended for spray potassium nitrate 5gm / lit	",2019-01-29T12:20:31.763,2019,1
-MAHARASHTRA,BULDANA,CHIKHLI,NA,AGRICULTURE,Pulses,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Fertilizer Use and Availability","FARMER ASKED ABOUT FLOWER DROPS OF GRAM ?","Spray Plano fix 5ml/15 Lit of Water.(NAA).
-",2019-01-29T12:20:45.227,2019,1
-"ANDHRA PRADESH",KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION :"," CLOUDY WEATHER",2019-01-29T12:23:16.41,2019,1
-RAJASTHAN,NAGAUR,JAYAL,NA,AGRICULTURE,0,0,"Market Information","TELL ME PEST CONTROL OF CUMIN","25/01/2019Mandi  : NagaurCommodity : Isabgul (Psyllium)(Modal Price): 8000/Quintal",2019-01-29T12:23:19.95,2019,1
-RAJASTHAN,BARMER,SINDHARI,NA,HORTICULTURE,"Condiments and Spices",Cumin,"Nutrient Management","TELL ME NUTRIENT MANAGEMENT  IN CUMIN ?","SPRAY SOLUBLE NPK  18:18:18 GRADE 10 GM/LTR WATER 
-",2019-01-29T12:23:20.683,2019,1
-"ANDHRA PRADESH",KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION :"," CLOUDY WEATHER
-",2019-01-29T12:23:30.09,2019,1
-"HIMACHAL PRADESH",UNA,HAROLI,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather forecast?
-","In your district  weather is  cloudy but no chances of rainfall.",2019-01-29T12:23:40.34,2019,1
-"WEST BENGAL",MURSHIDABAD,JALANGI,NA,HORTICULTURE,Vegetables,Onion,"	Plant Protection	","ASKING ABOUT THE CONTROL OF THRIPS IN ONION","RECOMMENDED FOR SPRAY   DIMETHOATE 30% EC @ 2 ML  / LIT OF WATER. ",2019-01-29T12:23:57.517,2019,1
+"MADHYA PRADESH",INDORE,INDORE,NA,AGRICULTURE,Others,Others,"Government Schemes","farmer want to know information about Bhavantar Yojna ?","
+For information on Kisan Bhai Bhavantar Yojana, number 18002332501,0755-2550495 Please contact.
+",2019-01-30T11:31:42.533,2019,1
+RAJASTHAN,BHILWARA,ASIND,NA,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?
+","NO RAIN POSSIBILITY IN NEXT 3 DAYS AND CLOUD  
+",2019-01-30T11:31:44.657,2019,1
+KARNATAKA,UTTARAKANNADA,SIRSI,NA,HORTICULTURE,"Plantation Crops",Arecanut,"	Plant Protection	","Grubs remain in the soil and feed on rootlets. Affected plants with yellow colour, drooping of immature nuts, and gradual drying of such plants.","After monsoon rain with help of light collect the emerged adults between 7.30 - 8.30 PM.
+Drench 10 ml. Chlorpyriphos 20 EC. in a lit. water to the base of the tree.",2019-01-30T11:32:26.917,2019,1
+GUJARAT,AMRELI,"0   ",NA,AGRICULTURE,Others,Others,"Government Schemes","Ask  about general information	","suggested : All information provided  thanks for calling in kisan call center	",2019-01-30T11:32:48.307,2019,1
+"MADHYA PRADESH",RAISEN,SILWANI,NA,AGRICULTURE,Pulses,"Lentil (Masur)","Fertilizer Use and Availability","Farmer needs information regarding control measure of fungal disease in  lentil   crop?","Recommended for control of fungal attack spray copper oxychloride 30-40gm/pump and streptocyclin 2 gram at 15 liter of water",2019-01-30T11:33:40.113,2019,1
+"UTTAR PRADESH",BASTI,BASTI,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Nutrient Management","Nutrient Managment in Wheat ?","kisan bhai aap NPK-19:19:19 1 kg/acre/120 liter pani ki dar se prayog kare .",2019-01-30T11:33:46.183,2019,1
+HARYANA,KARNAL,KARNAL,NA,AGRICULTURE,Others,Others,"Power, Roads etc.","Information regarding HAU Helpline No.?
+","H.A.U. Helpline no. 1800-180-3001 contact :-Monday ,Wednesday,and Friday (10 am to 1 pm)
+",2019-01-30T11:33:46.603,2019,1
+"MADHYA PRADESH","WEST NIMAR",BHAGVANPURA,NA,AGRICULTURE,Cereals,Wheat,"Fertilizer Use and Availability","Farmer wants to know information about how to increase growth of wheat crop?  
+","Recommended for to increase growth of wheat foliar application of iffco 0:52:34 water soluble fertilizer @ 100 gm/pump.
+",2019-01-30T11:34:35.01,2019,1
+KARNATAKA,GULBARGA,AFZALPUR,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Asked about Plant protection 
+","Recommended to spray Imidacloprid 17.8 SL.- 0.5 ml per lit. water and Recommended to spray Chlorpyriphos 20 EC.- 2.0 ml per lit. water
+
+",2019-01-30T11:34:52.873,2019,1
+UTTARAKHAND,NAINITAL,RAMNAGAR,NA,HORTICULTURE,Fruits,Plum,"	Plant Protection	","root knots problem with plum crop?","carbofuron 10 kg/acre + sand  8-10 kg/acre , sath me mix kre ",2019-01-30T11:35:00.97,2019,1

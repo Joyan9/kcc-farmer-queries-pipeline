@@ -1,11 +1,12 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-MAHARASHTRA,LATUR,"0   ",NA,HORTICULTURE,0,1296,78,"varities of potato.","kufri-sindhuri,chandramukhi,lavakar are the varities of potato.",2010-10-12T07:34:00,2010,10
-"JAMMU AND KASHMIR",GANDERBAL,"0   ",KHARIF,HORTICULTURE,0,Others,74,"WHICH VEGETABLES ARE SOWN AT THIS TIME?","SOWN ROUND RADISH, CARROT, SPINACH, PEA ETC ARE SOWN AT THIS TIME.",2010-10-12T07:34:00,2010,10
-"UTTAR PRADESH",BARABANKI,DARIYABAD,KHARIF,AGRICULTURE,0,"Peas (field peas/ garden peas/matar)",5,"PEA VARIETY BATAO.","ARKIL,BONBILE,AZAD PEA-3.",2010-10-12T07:36:00,2010,10
-"MADHYA PRADESH",KATNI,"0   ",JAYAD,AGRICULTURE,0,2763,3,"how to control aphid in paddy?",NA,2010-10-12T07:38:00,2010,10
-KERALA,IDUKKI,"0   ",NA,HORTICULTURE,0,Mushroom,87,"What is the optimum humidity and temperature fopr sucessful spawn running phase of oyster mushrooms","The best temperature and humidity for spawn running ranges from 28-30ºC and 80-85%, respectively.",2010-10-12T07:39:00,2010,10
-"UTTAR PRADESH",DEORIA,"0   ",JAYAD,AGRICULTURE,0,Others,29,"KCC Banwana chahte hai",NA,2010-10-12T07:49:00,2010,10
-"UTTAR PRADESH",SULTANPUR,"0   ",JAYAD,AGRICULTURE,0,1137,3,"dhan me gandhi kiet laga hai","apply to mailathiyane 5% 25 kg / hac .",2010-10-12T07:55:00,2010,10
-"UTTAR PRADESH",GHAZIPUR,"0   ",JAYAD,AGRICULTURE,0,1136,3,"insect control in bajra ?","apply to furadane 3g 25kg / hac.",2010-10-12T07:55:00,2010,10
-RAJASTHAN,HANUMANGARH,"0   ",JAYAD,HORTICULTURE,0,1285,78,"TELL ME VARITIES OF GARLIK","G-282,G-41,G-50",2010-10-12T08:00:00,2010,10
-RAJASTHAN,NAGAUR,"0   ",JAYAD,AGRICULTURE,0,"Indian rapeseed and mustard (yellow sarson)",5,"TELL ME VARITIES OF MUSTARD","T-59,PUSA BOLD,BIO-902,LAXMI,KRANTI",2010-10-12T08:00:00,2010,10
+BIHAR,GAYA,"BANKEY BAZAR",KHARIF,AGRICULTURE,0,Wheat,"Cultural Practices","Asking about cultivation of wheat .","Answer given detail to farmer.",2010-10-20T13:18:00,2010,10
+MAHARASHTRA,BEED,"0   ",JAYAD,HORTICULTURE,0,1279,76,"control of fruit borer ?",NA,2010-10-20T13:18:00,2010,10
+KARNATAKA,BAGALKOT,"0   ",NA,AGRICULTURE,0,Others,Weather,"rainfall data","Chance of T-storms 
+30% chance of precipitation",2010-10-20T13:18:00,2010,10
+RAJASTHAN,SIKAR,"0   ",KHARIF,HORTICULTURE,0,1268,76,"TELL ME CONTROL TARMAIET PEST IN MANGO.",NA,2010-10-20T13:22:00,2010,10
+GUJARAT,JAMNAGAR,"0   ",JAYAD,AGRICULTURE,0,"Cotton (Kapas)",3,"Mealy bug in Cotton.","Suggested to spray DDVP 8ml+Quinalphosh 20ml/pump.",2010-10-20T13:23:00,2010,10
+TAMILNADU,COIMBATORE,"0   ",JAYAD,HORTICULTURE,0,Marigold,75,"Leaf spot control measure in marigold","spray Bavistin 1 g / lit of water",2010-10-20T13:29:00,2010,10
+JHARKAND,GARHWA,"0   ",NA,AGRICULTURE,0,1137,3,"STEMBORER PEST OF PADDY.","SPRAY REGENT @2ML/LIT OF WATER.",2010-10-20T13:30:00,2010,10
+"UTTAR PRADESH",SULTANPUR,"0   ",JAYAD,AGRICULTURE,0,1066,3,"insect control in arhar","apply monocrotophos @ 2ml/liter of water",2010-10-20T13:31:00,2010,10
+"UTTAR PRADESH",BIJNOR,"0   ",KHARIF,AGRICULTURE,0,959,5,"lentil ki variety","pant masur-639, pantmasur-406, n.masur-5",2010-10-20T13:31:00,2010,10
+PUNJAB,SANGRUR,DHURI,JAYAD,AGRICULTURE,0,Wheat,18,"INFORMATION REGARDING SEED TREATMENT OF WHEAT CROP?","I TOLD THE KISAN SEED TREATMENT OF WHEAT CROP 1 GM RAXIL/1KG SEED.",2010-10-20T13:31:00,2010,10

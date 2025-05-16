@@ -1,12 +1,15 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-HARYANA,MEWAT,PUNAHANA,KHARIF,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","control of fruit borer in brinjal crop?","spray 75 gm spynoshed in 120 liter water /acre.",2016-07-31T15:13:45.8,2016,7
-"UTTAR PRADESH",SHAHJAHANPUR,KALAN,KHARIF,AGRICULTURE,Others,Others,Weather,"about asked weather information........?","es hapte mausam  me gambir  badal bane rahege thatha barsh ki sambhwna bani hai",2016-07-31T15:14:43.173,2016,7
-RAJASTHAN,JALOR,SANCHORE,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","LIGHT RAIN POSSIBILITY ON TODAY",2016-07-31T15:15:03.273,2016,7
-RAJASTHAN,CHURU,CHURU,NA,AGRICULTURE,Others,Others,"	Plant Protection	","tell me about pest control in moong","SPRAY OF DIMETHOATE  30% EC 2 ML PER LITER WATER",2016-07-31T15:15:06.163,2016,7
-"UTTAR PRADESH",JHANSI,MOTH,KHARIF,AGRICULTURE,Others,Others,"	Plant Protection	","PLESE GIVE ME WEATHER INFARMETION","aap ke yaha pure saptah halki se bhari varsha ki sambhawna ki ja rahi hai",2016-07-31T15:15:17.733,2016,7
-"UTTAR PRADESH",HATHRAS,SIKANDRARAO,KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about weather information ?","cloudy weather and possibility of rain till 5 august",2016-07-31T15:15:22.577,2016,7
-GUJARAT,BHAVNAGAR,GHOGHA,KHARIF,AGRICULTURE,Others,Others,"Cultural Practices","ASK ABOUT GENERAL INFORMATION","Suggested : All information provided -  Thanks for calling in kisaan call center",2016-07-31T15:15:33.94,2016,7
-GUJARAT,RAJKOT,JAMKANDORNA,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","Ask about heliothese (pink ball warm) in cotton","Suggested: Install 2 pharomon trap / vigha and spray DDVP 5 ml + Quinalphos 25 ml /pump at flowering stage",2016-07-31T15:15:46.72,2016,7
-"ANDHRA PRADESH",NELLORE,GUDUR,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT","A moderate thunderstorm is likely to take place in your area.",2016-07-31T15:16:06.507,2016,7
-MAHARASHTRA,AHMADNAGAR,RAHURI,NA,AGRICULTURE,Others,Others,Weather,"Asking About Weather Forecast?","Cloudy weather and rainfall chances.
-temperature-24c   humidity-68%",2016-07-31T15:16:12.853,2016,7
+"UTTAR PRADESH",HAMIRPUR,MUSKARA,KHARIF,AGRICULTURE,Others,Others,Weather,"PLESE GIVE ME WEATHER INFARMETION","pure saptah halki badali rahegi kabhi kabhi halki bude padne ki sambhawna ki ja rahi hai",2016-07-28T20:30:04.04,2016,7
+"UTTAR PRADESH",ALLAHABAD,MANDA,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"Asking about weather information ??","Apke yaha 28 july se 1 august ke madhy badaal chaye rahege baris ki sambhawana bni rahegi.",2016-07-28T20:30:23.953,2016,7
+"UTTAR PRADESH",ETAH,PATIYALI,JAYAD,AGRICULTURE,Others,Others,Weather,"Information of weather ?","kisan bhai 29-02 august tk bhari barish ki sambhavna hai",2016-07-28T20:30:25.563,2016,7
+GUJARAT,JUNAGADH,MALIA,KHARIF,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)","Cultural Practices","Ask about groundnut leaf yellow (chlorosis) problem","Suggested: 150 gm hirakashi powder (FeSo4) + 15 gm limbu na ful (Cytric Acid) / pump spray",2016-07-28T20:30:37.337,2016,7
+"MADHYA PRADESH",SHIVPURI,KARERA,KHARIF,HORTICULTURE,Vegetables,Tomato,"	Plant Protection	","Farmer needs information regarding in fungal control Trichoderma?","#. Trichoderma
+It is a deadly fungus Trichoderma biological soil and seed-borne diseases in plants controls.
+Seed treatment at a rate of 5-6 grams per Kilogam seed is used. Soil treatment of 100 kg in 1 kg Trichoderma well rotten manure mixed final Bkrni Use the time.
+Cutting and root treatment Trichoderma 15-20 liters of water added to 200 grams and 10 minutes in the solution of planting and cutting the roots of the plants treated.
+Trichoderma by 3 grams per liter of water solution at an interval of 10-15 days, 3-4 times over crop spraying airborne disease control.",2016-07-28T20:31:18.59,2016,7
+"UTTAR PRADESH",FATEHPUR,MALWAN,KHARIF,AGRICULTURE,Others,Others,Weather,"Weather information (Malaon / Fatehpur)","malwan ke antargat 29 july se 1 august tak pratidin hlki se samanya barish ki sambhawana hai tatha 2 august ko tej poorvi hawa ke saath tej barish bhi ho sakti hai.",2016-07-28T20:31:36.67,2016,7
+"MADHYA PRADESH",RAJGARH,ZIRAPUR,KHARIF,AGRICULTURE,Others,Others,"Government Schemes","FARMER WANT  TO KHOW RAGISTRATION IN KISAN CALL CENTRE ?","YOUR RAGISTRATION  DONE BY IN KISAN CALL CENTRE",2016-07-28T20:31:44.687,2016,7
+HARYANA,BHIWANI,LOHARU,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","how to control leaf carl in cotton crops?","spray500 ml trijophos +500ml nimbisidin in 200 lit in water / acre",2016-07-28T20:32:14.74,2016,7
+"MADHYA PRADESH","EAST NIMAR",PANDHANA,KHARIF,AGRICULTURE,Others,Others,"	Plant Protection	","Farmer need information regarding control measures of white fly in  soyabean crop.","Recommended for spray of imidaclorprid 17.8% SL 5 to 6 ml at 15 liter of water control of white fly in  crop.",2016-07-28T20:32:26.637,2016,7
+RAJASTHAN,BARMER,BARMER,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","RAIN POSSIBILITY IN NEXT 3-4 DAYS AND CLOUDY SKY",2016-07-28T20:32:33.99,2016,7

@@ -1,0 +1,23 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+CHHATTISGARH,Gariyaband,CHHURRA,NA,AGRICULTURE,Cereals,Wheat,"	Water Management	","Farmer needs information regarding Water Management in Wheat crop ?","प्रिय किसान भाई, गेहूं की फसल में सिंचाई प्रबंधन =  पहली सिंचाई =  शीर्ष जड़ निकलते समय
+  दूसरी सिचाई =  कल्ले आते समय,
+ तीसरी सिंचाई = तने में गठान बनते समय,
+ चौथी सिंचाई = फूल आने के पहले ,
+पांचवी सिंचाई = दूधिया अवस्था में,
+अंतिम सिंचाई = दाना भरते समय, सिंचाई करनी चाहिए |
+",2020-12-09T09:58:10.323,2020,12
+PUNJAB,AMRITSAR,AJNALA-1,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather"," ਮੌਸਮ-  ਆਉਣ ਵਾਲੇ 2 ਦਿਨ ਬੱਦਲ ਵਾਈ ਬਣ ਸਕਦੀ ਹੈ ਤੇ ਮੀਂਹ ਦੀ ਕੋਈ ਸੰਭਾਵਨਾ ਨਹੀਂ ਹੈ ਅੱਜ ਵੱਧ ਤੋਂ ਵੱਧ ਤਾਪਮਾਨ 23 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਅਤੇ ਘੱਟ ਤੋਂ ਘੱਟ 12 ਡਿਗਰੀ ਸੈਲਸੀਅਸ ਰਹੇਗਾ ਅਤੇ ਹਵਾ ਦੀ ਗਤੀ 7 ਕਿਲੋਮੀਟਰ ਪ੍ਰਤੀ ਘੰਟਾ ਹੈ ਪਰ ਆਉਣ ਵਾਲੀ 11 ਅਤੇ 12 ਤਰੀਕ ਨੂੰ ਬਾਰਿਸ਼ ਪੈਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ ",2020-12-09T09:59:26.473,2020,12
+BIHAR,MADHEPURA,PURANI,NA,HORTICULTURE,Vegetables,Potato,"	Plant Protection	","plant protection of potato crop ","इंडोफिल एम -45 @ २ मिली / लीटर पानी में घोल बनाकर आप छिड़काव करे ",2020-12-09T09:59:44.963,2020,12
+"MADHYA PRADESH",UMARIA,KARKELI,NA,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),"Seeds and Planting Material","farmer want to know about sowing time of bhindi ","ग्रीष्मकालीन भिंडी की बुवाई फरवरी-मार्च में तथा वर्षाकालीन भिंडी की बुवाई जून-जुलाई में की जाती है। यदि भिंडी की फसल लगातार लेनी है तो तीन सप्ताह के अंतराल पर फरवरी से जुलाई के मध्य अलग-अलग खेतों में भिंडी की बुवाई की जा सकती है।
+
+",2020-12-09T10:00:13.09,2020,12
+"UTTAR PRADESH",DEORIA,LAR,NA,AGRICULTURE,Others,Others,"Government Schemes","Please provide Know Beneficiary Status information under PM Kisan Samman Nidhi Yojana. ?
+","श्रीमान जी पीएम किसान सम्मान निधि योजना के अंतर्गत भुगतान की स्थिति: पहली किस्त के लिए राज्य सरकार द्वारा अनुमोदन के लिए लंबित है
+",2020-12-09T10:00:39.99,2020,12
+GUJARAT,JAMNAGAR,JODIYA,NA,HORTICULTURE,"Condiments and Spices",Cumin,"Fertilizer Use and Availability","Farmer asked weed control in Cumin crop 	","જીરૂના પાકમાં નીંદામણ નિયંત્રણ માટે ઓક્સાડાયાર્જિલ 6% EC (રાફ્ટ)  15-20 મિલી /પંપ છંટકાવ કરવો. ",2020-12-09T10:00:53.9,2020,12
+"ANDHRA PRADESH",PRAKASAM,KOMAROLU,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Weed Management","WEED MANAGEMENT ","RECOMMENDED NOT TO USE WEEDICIDE AFTER 25 DAYS",2020-12-09T10:01:03.79,2020,12
+MAHARASHTRA,YEVATMAL,UMARKHED,NA,AGRICULTURE,Pulses,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","ATTACK OF LEAF EATING CATERPILLAR IN GRAM? ","--क्लोरोपायरीफोस 30 मिलि /१५ लिटर पाण्यात घेवून फवारणी करावी.
+",2020-12-09T10:01:14.71,2020,12
+HARYANA,BHIWANI,"BAWANI KHERA",NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","आपके जिले में मौसम 11 दिसंबर तक परिवर्तनशील रहेगा,आंशिक रूप से हल्के धुंधले बादल छाए रहेंगे लेकिन बरसात की संभावना नहीं है,आज अधिकतम तापमान 27 डिग्री सेल्सियस व न्यूनतम तापमान 12 डिग्री सेल्सियस रहेगा जबकि हवा की गति 9 किलोमीटर से 15 किलोमीटर प्रति घंटा की रफ्तार से चलने की संभावना है |",2020-12-09T10:01:15.45,2020,12
+"MADHYA PRADESH",MORENA,AMBAH,NA,HORTICULTURE,Vegetables,Potato,"Nutrient Management","tell me about Gibrelic acid dose","जिब्रेलिक एसिड टेक्निकल 90%(प्रोजीब) 0.2 ग्राम प्रति 15 लीटर पानी अथवा 2 ग्राम प्रति एकड़ अथवा 5 ग्राम प्रति हेक्टेयर के हिसाब घोल बनाकर छिड़काव करें।
+जिब्रेलिक एसिड 0.001% एल  दवा 1 एम एल प्रति 3 लिटर पानी में घोल कर छिड़काव करें।",2020-12-09T10:01:17.17,2020,12

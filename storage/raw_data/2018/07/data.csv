@@ -1,39 +1,12 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-RAJASTHAN,BIKANER,"SRI DUNGARGARH",KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","RAIN POSSIBILITY IN NEXT 3-4 DAYS AND CLOUDY SKY",2018-07-22T10:15:06.977,2018,7
-BIHAR,NALANDA,BIHARSHARIF,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION","Cloudy weather in your area, chance of rain in your area.",2018-07-22T10:15:11.53,2018,7
-RAJASTHAN,CHURU,RATANGARH,KHARIF,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)","Nutrient Management","TELL ME NUTRIENT MANAGEMENT  ?","SPRAY OF FERUS SULPHATE 5 GM + CITRIC ACID 1 GM PER LITER WATER",2018-07-22T10:15:23.09,2018,7
-"MADHYA PRADESH",DATIA,BHANDER,KHARIF,AGRICULTURE,Others,Others,Weather,"Farmer want to know information about weather forecasting  for bhander teh.?","Bhander Weather Today (1–3 days)
-
-Heavy rain (total 127mm), heaviest during Mon afternoon. Warm (max 33°C on Sun afternoon, min 26°C on Mon night). Wind will be generally light.
-	Bhander Weather (4–7 days)
-
-Heavy rain (total 161mm), heaviest during Thu morning. Warm (max 32°C on Wed afternoon, min 25°C on Thu night). Mainly fresh winds.",2018-07-22T10:16:14.137,2018,7
-"MADHYA PRADESH",ASHOKNAGAR,MUNGAOLI,NA,AGRICULTURE,Others,Others,Weather,"Farmer needs information regarding for ashoknagar  dist. Of state madhya pradesh?","According to metrology department of india there is chance of light rainfall for next 5 days from today for your district",2018-07-22T10:17:19.593,2018,7
-"WEST BENGAL",NADIA,KALIGANJ,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"KALIAGANJ WEATHER","TODAY
-JUL 22
-32° /26°
-Heavy rain and a thunderstorm
-More 
-MON
-JUL 23
-32° /26°
-A shower and t-storm around
-More 
-TUE
-JUL 24
-33° /27°
-Sun through high clouds
-More 
-WED
-JUL 25
-34° /27°
-Sun through high clouds
-More 
-THU
-JUL 26
-34° /27°C
-Sun through high clouds",2018-07-22T10:17:26.677,2018,7
-"UTTAR PRADESH",RAEBARELI,HARCHANDPUR,KHARIF,AGRICULTURE,Others,Others,Weather,"Tell me about Weather information of Raebareli?","Kisan bhai Aaj apke shetra me badal chaye rahenge, barish hone ki sambhavna nahi hai.",2018-07-22T10:17:44.913,2018,7
-"MADHYA PRADESH",SAGAR,KHURAI,NA,AGRICULTURE,Others,Others,Weather,"farmer wants to weather information of sagar district ?","today is no rainfall in your district & cloudy weather sometime.",2018-07-22T10:18:02.993,2018,7
-RAJASTHAN,GANGANAGAR,ANUPGARH,KHARIF,AGRICULTURE,Pulses,"Green Gram (Moong Bean/ Moong)",Varieties,"TELL ME INSECT CONTROL IN MOONG","VARIETY OF MOONG =SML 668,GM-4, RMG 492, RMG 268, RMG 344",2018-07-22T10:18:22.32,2018,7
-MAHARASHTRA,BULDANA,SANGRAMPUR,KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","Weather forecast - The weather will remain cloudy for next week, there is a possibility of light to moderate rainfall.",2018-07-22T10:18:27.11,2018,7
+KARNATAKA,BIJAPUR,BIJAPUR,NA,AGRICULTURE,Others,Others,Weather,"crop insurance contact number","crop insurance	080-22074123 / 18004257919",2018-07-30T11:29:19.243,2018,7
+KARNATAKA,GADAG,GADAG,NA,AGRICULTURE,Pulses,"Green Gram (Moong Bean/ Moong)","	Plant Protection	","asked about leaf curl in greengram","spray-dimethoate 2ml/liter of water",2018-07-30T11:29:51.46,2018,7
+"UTTAR PRADESH",SITAPUR,BEHTA,KHARIF,AGRICULTURE,Others,Others,Weather,"Information of weather ...??","kisan bhai aaj se 4 august tak baris ki sambhavna hai",2018-07-30T11:29:52.613,2018,7
+MAHARASHTRA,NANDED,MODKHED,NA,AGRICULTURE,Millets,"Sorghum (Jowar/Great Millet)","	Plant Protection	","ATTACK OF SUCKING PEST ON SORGHUM?","Spray Actra 5 gm/15 Liter of Water(Thiomithoxom 25%)-Syngenta",2018-07-30T11:30:03.797,2018,7
+KARNATAKA,GADAG,SHIRAHATTI,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather report of shirahatti","Precipitation 55%
+Cloudy, occasional rain this afternoon",2018-07-30T11:30:17.807,2018,7
+TELANGANA,ADILABAD,JAINATH,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT:","A moderate thunderstorm is likely to take place in your area.",2018-07-30T11:30:25.513,2018,7
+MAHARASHTRA,GONDIYA,DEORI,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Fertilizer Use and Availability","ASKING ABOUT FERTILISER DOSE FOR PADDY?","APPLICATION OF 10:26:26 2 BAG + UREA 50 KG + MICRO NUTRIENTS 10 KG/ACRE",2018-07-30T11:30:47.12,2018,7
+"UTTAR PRADESH",BAREILLY,"FATEHGANJ WEST",KHARIF,AGRICULTURE,Others,Others,Weather,"Information about weather ?","The farmer's brother will remain in your area and there is possibility of rain from  30 july to 3 august!",2018-07-30T11:31:03.093,2018,7
+"UTTAR PRADESH",FATEHPUR,DHATA,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Weed Management","Weed management of paddy....?","kisan Bhai Bispiribac sodium 10 % 80 ml/ekad 150 liter pani ki dar se spray kare",2018-07-30T11:31:16.183,2018,7
+RAJASTHAN,CHITTAURGARH,"CHHOTI SADRI",NA,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","NO RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY",2018-07-30T11:31:24.03,2018,7

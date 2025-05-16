@@ -1,11 +1,11 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-"UTTAR PRADESH",AZAMGARH,ATRAULIA,JAYAD,HORTICULTURE,Vegetables,1279,76,"insect control in brinjal","apply monocrotophos @ 2ml/liter of water",2011-05-19T01:52:00,2011,5
-TAMILNADU,TIRUVANNAMALAI,CHEYYAR,JAYAD,HORTICULTURE,Vegetables,1279,76,"fruit borer in brijal","spray karate zeon 40gm/ac",2011-05-19T01:53:00,2011,5
-CHHATTISGARH,"RAJ NANDGAON","0   ",KHARIF,AGRICULTURE,Cereals,1137,0,"to know about seed rate of rice.?","plz...seed rate of rice are 80-100kg./hact.",2011-05-19T01:54:00,2011,5
-"UTTAR PRADESH",BANDA,"0   ",JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sunnhemp (Patua)",3,"KANSUVA LAGA HAI","CARBOFURAN @25KG/HAC",2011-05-19T01:59:00,2011,5
-"HIMACHAL PRADESH",MANDI,"MANDI SADAR",JAYAD,HORTICULTURE,Vegetables,1279,76,"how to control fruit borer of brinjal?","spray endosulfan @ 30ml in 15 litres of water.",2011-05-19T02:02:00,2011,5
-"MADHYA PRADESH",NEEMUCH,MANASA,RABI,AGRICULTURE,Pulses,1064,3,"how to control caterpillar in moong?","should be spray trizophos @35ml/pump.......",2011-05-19T02:07:00,2011,5
-HARYANA,BHIWANI,TOSHAM,JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",3,"CONTROL OF THRIPS IN COTTON CROP ?","SPRAY TO ROGOR @ 250 ML IN 150 LITRES OF WATER /ACRE .",2011-05-19T02:12:00,2011,5
-KARNATAKA,CHIKMAGALUR,CHICKMAGALUR,NA,HORTICULTURE,Fruits,Coconut,"Fertilizer Use and Availability",fertilizers,"information given",2011-05-19T02:12:00,2011,5
-HARYANA,HISSAR,HISAR-I,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","extra fertilizer dose in cotton crop ?","extra dose not applied .",2011-05-19T02:14:00,2011,5
-"UTTAR PRADESH",GHAZIABAD,"0   ",JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sunnhemp (Patua)",3,"dimak control in sugarcane","apply chloropariphas @ 4litre/ha. With irrigation water",2011-05-19T02:16:00,2011,5
+TAMILNADU,VILLUPPURAM,"0   ",KHARIF,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",3,"control measure for Bihar hairy caterpillar in groundnut","spray chlorpyriphos 2ml /liter of water",2011-05-30T06:32:00,2011,5
+"UTTAR PRADESH",DEORIA,"0   ",RABI,AGRICULTURE,Cereals,1137,18,"seed treatment?",NA,2011-05-30T06:32:00,2011,5
+"ANDHRA PRADESH","WEST GODAVARI",PEDAVEGI,NA,HORTICULTURE,Fruits,Citrus,0,"asked about citrus root rot disease","recommended to spray of mancozeb/cheshunt /bordaux paste",2011-05-30T06:34:00,2011,5
+GUJARAT,SABARKANTHA,VADALI,NA,AGRICULTURE,Others,Others,Weather,"Asking about Wheather information..??","I have given the data",2011-05-30T06:34:00,2011,5
+"HIMACHAL PRADESH",KULLU,NIRMAND,RABI,HORTICULTURE,Fruits,Apple,75,"How to control powdery mildew disease on Apple?","Spray Carbendazim 50 WP @ 100 gm  or Haxaconazol @ 100 ml in 200 litres of water.",2011-05-30T06:34:00,2011,5
+PUNJAB,MANSA,BUDHLADA,RABI,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","varieties of cotton ?","mrc-7017,mrc-7031,rch-134,rch-314.",2011-05-30T06:35:00,2011,5
+"UTTAR PRADESH",BARABANKI,"0   ",RABI,AGRICULTURE,Others,Others,15,"kisan credit card banbana hai?","contact nearest bank.",2011-05-30T06:35:00,2011,5
+"UTTAR PRADESH",BARABANKI,"0   ",RABI,AGRICULTURE,Cereals,1137,18,"seed treatment of rice?","apply carbandajim .",2011-05-30T06:35:00,2011,5
+"UTTAR PRADESH",SITAPUR,"0   ",RABI,AGRICULTURE,Others,Others,15,"hamare yaha block par seed galat rate par becha ja raha hai?","contact this no.0522,2205863.",2011-05-30T06:35:00,2011,5
+"UTTAR PRADESH",SAHARANPUR,SARSAWAN,JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sunnhemp (Patua)",3,"sugarcane ki goph me insect lage hai","spray cypermethrin @2ml/lit of water",2011-05-30T06:36:00,2011,5

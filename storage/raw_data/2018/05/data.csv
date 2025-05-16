@@ -1,16 +1,34 @@
 StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
-"UTTAR PRADESH","GAUTAM BUDDHA NAGAR",DANKAUR,JAYAD,HORTICULTURE,Vegetables,"Bottle Gourd ","Cultural Practices","black spot in bottle gourd.","ap carbendazim 12% maincozeb 63% 2 gram /liter paani me ghol banaakar chhidkav kare .",2018-05-19T06:30:51.603,2018,5
-"UTTAR PRADESH",MAINPURI,KARHAL,JAYAD,AGRICULTURE,Others,Others,Weather,"Asking about weather information ?","????? ??? 24 ?? ?? ???? ??? ????? ????? ?? ??? ???????? ???? ??,????? ????? ???? ?? ???? ??.",2018-05-19T06:32:12.34,2018,5
-TAMILNADU,VILLUPPURAM,KALLAKKURICHI,RABI,AGRICULTURE,Others,Others,"Nutrient Management","Asked about black gram villupuram market rate","Recommended for black gram villupuram market rate  Rs.4569/quintal",2018-05-19T06:33:06.51,2018,5
-MAHARASHTRA,SOLAPUR,MADHA,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast??","This week weather is CLOUDY NO Possibility of rainfall",2018-05-19T06:34:29.887,2018,5
-"UTTAR PRADESH",RAMPUR,SAIDNAGAR,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)",Weather,"Please give me weather information?","Aapke yahan 20 May se 24 May  tak barish hone ki sambhawna nhi hain",2018-05-19T06:37:52.077,2018,5
-ODISHA,DHENKANAL,GONDIA,NA,AGRICULTURE,Others,Others,Weather,"RAINFALL DATA OF GONDIA,DHENKANAL","RAINFALL DATA OF GONDIA,DHENKANAL
-19/05/18-1.8MM
-20/05/18-0MM
-21/05/18-0MM
-22/05/18-0MM
-23/05/18-6.2MM",2018-05-19T06:38:37.817,2018,5
-BIHAR,KISHANGANJ,KISHANGANJ,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION","Cloudy weather in your area,but no chance of rain.",2018-05-19T06:39:32.083,2018,5
-"UTTAR PRADESH",BALRAMPUR,"REHERA BAZAAR",JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Termite control in sugarcane?","kisan bhai aap ganna me Chlorpyriphos 20% EC 1 liter/acre ki dar se sichai ke pani ke sath bund bund kar prayog kare",2018-05-19T06:42:44.847,2018,5
-"UTTAR PRADESH",BAREILLY,"AALAMPUR JAFARABAD",JAYAD,AGRICULTURE,Others,Others,Weather,"ASKED ABOUT WEATHER FORECASTING ?","Kisan Bhai This week you are likely to have a clear weather",2018-05-19T06:43:52.22,2018,5
-"UTTAR PRADESH",VARANASI,BARAGAON,JAYAD,AGRICULTURE,Others,Others,Weather,"Information about weather condition...?","There will be cloudy weather and no possibility of rain till 24 May , High wind speed may occur",2018-05-19T06:45:33.603,2018,5
+PUNJAB,SANGRUR,SUNAM,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)","Cultural Practices","INFORMATION REGARDING THE TRANSPLANTING OF PADDY SEEDLINGS ?","THE TRANSPLANTING OF PADDY SEEDLINGS IS ON AND AFTER 20TH JUNE .",2018-05-10T09:22:00.543,2018,5
+"UTTAR PRADESH",MORADABAD,"BHAGATPUR TANDA",NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","ganne me kida laga hai","Apply - cartap hydrochloride 4 G @ 10kg /acre",2018-05-10T09:22:19.057,2018,5
+"WEST BENGAL",NADIA,KRISHNAGAR-I,JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"ASKING ABOUT WEATHER REPORT IN NADIA DISTRICT.","WEATHER REPORT (ACCORDING TO I.M.D)IN NADIA DISTRICT ARE SUNNY TO HAZY SUNSHINE. POSSIBILTY OF LIGHT TO MODERATE RAIN UPTO 14/05/2018.",2018-05-10T09:23:04.02,2018,5
+"WEST BENGAL",BARDDHAMAN,BURDWAN-II,JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"WEATHER REPORT OF BARDHAMAN DISTRICT","Humid with intervals of clouds and sunshine; an afternoon shower or heavy thunderstorm in the area",2018-05-10T09:23:28.293,2018,5
+"JAMMU AND KASHMIR",BADGAM,CHADOORA,KHARIF,AGRICULTURE,Others,Others,"	Plant Protection	","Regarding Spray of Paushak in Apple trees?","Spray Paushak @2ml in 1 litre of water at Walnut size stage",2018-05-10T09:23:37.75,2018,5
+MAHARASHTRA,PARBHANI,SAILU,NA,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)","	Plant Protection	","ASKED ABOUT SUCKING PEST ATTACK ON groungnut?","Spray Tata mida 07 ml /15 liter water(Imida 17.8 sl)-Tata Rallis",2018-05-10T09:24:06.09,2018,5
+"UTTAR PRADESH","KANSHIRAM NAGAR",Sahawar,JAYAD,AGRICULTURE,Others,Others,Weather,"Plz give me weather information..?","kisan bhai aaj se 15 may tak mausam me hlke se baadel hai mausam saaf rahega baarish ki koi sambhavna nahi hai .",2018-05-10T09:24:16.913,2018,5
+GUJARAT,JAMNAGAR,KALAVAD,NA,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)","Cultural Practices","Ask about groundnut information","all information provided - thanks for calling in kisan call centre",2018-05-10T09:24:48.077,2018,5
+"JAMMU AND KASHMIR",BADGAM,CHADOORA,KHARIF,AGRICULTURE,Others,Others,Weather,"Regarding Weather Forecast?","TODAY
+MAY 10
+23° /7°C
+Nice with plenty of sun
+ 
+FRI
+MAY 11
+26° /10°
+Nice with plenty of sun
+More 
+SAT
+MAY 12
+25° /10°
+A thunderstorm in spots
+More 
+SUN
+MAY 13
+22° /9°
+An afternoon thunderstorm
+More 
+MON
+MAY 14
+20° /10°
+A shower in the afternoon",2018-05-10T09:26:15.35,2018,5
+"HIMACHAL PRADESH",KULLU,KULLU,RABI,HORTICULTURE,Vegetables,Tomato,"	Plant Protection	","information regarding how to control stem rot in tomato plants ?","spray of blitox @ 600 gm in 200 liter of water.",2018-05-10T09:26:29.583,2018,5
