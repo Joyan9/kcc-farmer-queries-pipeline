@@ -15,6 +15,7 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+FAILED_LOG = "failed_months.log"
 
 # ----------------- Config & Constants -----------------
 load_dotenv()
@@ -74,10 +75,40 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--start-month", type=int, help="Start Month (1-12)")
     parser.add_argument("--end-year", type=int, help="End Year (e.g., 2024)")
     parser.add_argument("--end-month", type=int, help="End Month (1-12)")
+    parser.add_argument("--retry-failed", action="store_true", help="Retry failed months from log")
     return parser.parse_args()
+
+def log_failed_month(year, month, error_msg):
+    with open(FAILED_LOG, "a") as f:
+        f.write(f"{year},{month},{error_msg}\n")
+
+def retry_failed_months():
+    if not os.path.exists(FAILED_LOG):
+        logger.info("No failed months to retry.")
+        return
+
+    with open(FAILED_LOG, "r") as f:
+        failed = [line.strip().split(",")[:2] for line in f if line.strip()]
+
+    # Optionally, clear the log before retrying
+    open(FAILED_LOG, "w").close()
+
+    for year, month in failed:
+        try:
+            logger.info(f"Retrying {year}-{month}")
+            data = fetch_monthly_data(int(year), int(month))
+            save_raw_data(data, int(year), int(month))
+        except Exception as e:
+            logger.error(f"Retry failed for {year}-{month}: {e}")
+            log_failed_month(year, month, str(e))
 
 def main():
     args = parse_args()
+
+    if args.retry_failed:
+        retry_failed_months()
+        return
+
 
     # Determine the default end date (last complete month)
     now = datetime.now()
@@ -98,6 +129,8 @@ def main():
             save_raw_data(data, year, month)
         except Exception as e:
             logger.error(f"Error for {year}-{month:02d}: {e}")
+            log_failed_month(year, month, str(e))
+
 
 if __name__ == "__main__":
     main()
