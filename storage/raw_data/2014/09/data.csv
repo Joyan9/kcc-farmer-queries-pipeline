@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+TELANGANA,WARANGAL,GOVINDARAOPET,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","asked about cotton boll drop","recommended 1.5 grams bureaux/lit of water",2014-09-09T19:47:52.683,2014,9
+TAMILNADU,TIRUVANNAMALAI,CHEYYAR,KHARIF,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Termite control for all crops","recommended for Spray chlorpyriphos 2 ml /litre of water",2014-09-09T19:48:17.853,2014,9
+"MADHYA PRADESH",RAJGARH,ZIRAPUR,KHARIF,AGRICULTURE,Pulses,"Black Gram (urd bean)","	Plant Protection	","How to control of fungal attack in urd crop?","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.",2014-09-09T19:48:34.027,2014,9
+"UTTAR PRADESH",ALIGARH,BIJAULI,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","DHAN KI BALI FATI HAI KYA KARE","PROPICONAZOAL KA SPRAY KAR DE 400 ML",2014-09-09T19:48:40.433,2014,9
+UTTARAKHAND,DEHRADUN,CHAKRATA,KHARIF,HORTICULTURE,Vegetables,"Beans ","	Plant Protection	","bean me muchcher laga hai","imidachlorprid 17.8 sl .5 ml /liter pani ke sath spray",2014-09-09T19:49:00.287,2014,9
+"MADHYA PRADESH",NEEMUCH,JAWAD,KHARIF,HORTICULTURE,Vegetables,Chillies,"	Plant Protection	","Farmer want to information about how to control of sucking pest in crop?","Apply phorate 10 % G @ 10 kg/ha or spray any one of the following insecticide",2014-09-09T19:50:51.27,2014,9
+"HIMACHAL PRADESH",UNA,UNA,RABI,AGRICULTURE,Others,Others,Weather,"Information regarding Weather Today in Una Distt. ?","Weather Today in Una Distt. are : Mostaly Cloudy 5-10 % Chance of Rain.",2014-09-09T19:51:17.593,2014,9
+TELANGANA,WARANGAL,RAGHUNATHPALLE,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Nutrient Management","zinc deficiency","recommended zinc sulphate 2g/l",2014-09-09T19:52:27.083,2014,9
+RAJASTHAN,CHURU,SUJANGARH,KHARIF,AGRICULTURE,"Fodder Crops",Guar,"	Plant Protection	","TELL ME LOW GROWTH OF GUWAR","SPRAY SOLUBLE NPK   19:19:19   GRADE 10 GM/LTR WATER",2014-09-09T19:53:17.817,2014,9
+"WEST BENGAL",BIRBHUM,DUBRAJPUR,KHARIF,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","BACTERIAL WILT IN BRINJAL","ADVICE TO APPLY STREPTOCYCLINE @ 1GM/ 8 LIT OF WATER",2014-09-09T19:53:48.72,2014,9

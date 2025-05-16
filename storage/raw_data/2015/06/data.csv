@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+RAJASTHAN,JHUNJHUNU,CHIRAWA,KHARIF,AGRICULTURE,Millets,"Pearl Millet (Bajra/Bulrush Millet/Spiked Millet)",Weather,"TELL ME WEATHER INFORMATION ?","RAINFALL MAY BE ON 23 JUNE IN YOUR DIST.",2015-06-18T17:12:45.227,2015,6
+RAJASTHAN,JALOR,SANCHORE,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",Weather,"TELL ME ABOUT WEATHER INFORMATION ?","NO RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY",2015-06-18T17:12:52.727,2015,6
+"HIMACHAL PRADESH",KULLU,KULLU,KHARIF,HORTICULTURE,Vegetables,Cauliflower,"Fertilizer Use and Availability","How much Fertililizer Dose Urea in Cauliflower ?","Fertililizer Dose Urea in Cauliflower are : 2 Kg /Kanal .",2015-06-18T17:13:17.273,2015,6
+HARYANA,JIND,UCHANA,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)","Bio-Pesticides and Bio-Fertilizers","information regardingh seed rate of paddy ?","information regardingh seed rate of paddy ?
+seed rate of paddy :-8-10 kg /ecre.",2015-06-18T17:13:18.12,2015,6
+MAHARASHTRA,PARBHANI,PURNA,KHARIF,AGRICULTURE,Others,Others,Weather,"Weather Information ?","Cloudy weather Possibility of Medium rainfall with thunderstorm.",2015-06-18T17:13:28.547,2015,6
+MAHARASHTRA,NANDED,DHARMABAD,KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about Weather information?","Cloudy weather Possibility of High to Medium Rainfall",2015-06-18T17:13:28.76,2015,6
+MAHARASHTRA,AHMADNAGAR,SHEVGAON,NA,HORTICULTURE,Vegetables,Onion,"Vegetative Propagation and Tissue Culture","Asked varieties of onion?","varieties of onion- niphad selection,bASAVANT 780,PANCHAGANGA,PHULE SAMARTH",2015-06-18T17:14:18.093,2015,6
+ODISHA,SONEPUR,TARBHA,NA,AGRICULTURE,Others,Others,"	Plant Protection	","WEATHER REPORT OF SONEPUR DIST","RAINFALL DATA FROM JUNE 19-9MM,JUNE 20-15MM,JUNE 21-21MM,JUNE 22-25MM,JUNE 23-17MM Rainfall (mm)",2015-06-18T17:14:29.22,2015,6
+"MADHYA PRADESH",SHAJAPUR,SHAJAPUR,KHARIF,AGRICULTURE,Others,Others,Weather,"farmer want to weather information of shajapur district?","rainfall chance in your district and weather will some cloudy at next5 days",2015-06-18T17:14:32.22,2015,6
+"UTTAR PRADESH",MAINPURI,SULTANGANJ,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)","Weed Management","herbicide for paddy nursery","400 mili pretilachlor 50%/acre",2015-06-18T17:14:36.76,2015,6

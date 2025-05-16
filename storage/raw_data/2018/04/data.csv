@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,HISSAR,HANSI-I,KHARIF,AGRICULTURE,Others,Others,Weather,"Information regarding weather in Hisar?","Hazy sunshine and no chance of rainfall today.",2018-04-29T15:17:18.64,2018,4
+"MADHYA PRADESH",UJJAIN,BADNAGAR,NA,AGRICULTURE,Others,Others,"Government Schemes","Farmer wants to know information about poultry farm?","Recommended for to know information about poultry farm contact to 9827015205 (mr.bhadoriya ji bhopal) or your animal hospital/veterinary doctor",2018-04-29T15:17:34.143,2018,4
+"UTTAR PRADESH",SITAPUR,SIDHAULI,JAYAD,AGRICULTURE,Others,Others,Weather,"tell me weather information..?","agle 2-3 dino ke ander barish  ki sambhawna hai",2018-04-29T15:17:38.077,2018,4
+PUNJAB,GURDASPUR,"SRIHARGOBIND PUR",NA,AGRICULTURE,Cereals,Wheat,Weather,"information regarding weather forecasting?","weather is clear and no chances of rainfall today",2018-04-29T15:17:42.913,2018,4
+"UTTAR PRADESH",BULANDSHAHAR,SHIKARPUR,JAYAD,HORTICULTURE,Vegetables,"Colocasia (Arvi, Arbi)","Nutrient Management","nutrient management in colocasia.","spray of N:p:k 19:19:19 1 KILO  + MULTIPLUX micronutrient  250 GRAAM +180 litre water /ACRE",2018-04-29T15:19:23.363,2018,4
+MAHARASHTRA,HINGOLI,BASMAT,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","Today's weather Partly cloudy and no Possibility of Rainfall.",2018-04-29T15:19:38.453,2018,4
+"UTTAR PRADESH",LALITPUR,JAKHAURA,NA,AGRICULTURE,Others,Others,Weather,"weather information ?","kisan bhai is sptah badal dikhai de rhe hai aap ke yha lekin barish ki koi sambhavna nhi hai",2018-04-29T15:19:47.19,2018,4
+HARYANA,SIRSA,DABWALI,NA,HORTICULTURE,Vegetables,Chillies,"Bio-Pesticides and Bio-Fertilizers","how to control sundi in chilli?","spray malathion 2 ml dissolved in 1 ltr water",2018-04-29T15:20:12.417,2018,4
+HARYANA,HISSAR,NARNAUND,KHARIF,AGRICULTURE,Others,Others,Weather,"Information regarding weather in Hisar  ?","Hazy sunshine and no chance of rainfall today.",2018-04-29T15:20:42.963,2018,4
+"UTTAR PRADESH",JAUNPUR,"MACHCHALI SHAHAR",JAYAD,AGRICULTURE,Pulses,"Black Gram (urd bean)",Weather,"Weather information..?","There is a possibility of heavy rains in your area for the week.",2018-04-29T15:21:59.12,2018,4

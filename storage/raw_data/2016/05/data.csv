@@ -1,0 +1,13 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+KARNATAKA,GULBARGA,ALAND,NA,AGRICULTURE,Others,Others,Weather,Aland,"Hi 101°
+RealFeel® 109°
+Precipitation 50%",2016-05-12T20:10:37.013,2016,5
+BIHAR,PURNEA,DAGRAUA,JAYAD,AGRICULTURE,Others,Others,"	Field Preparation	","WEATHER INFORMATION","Today and tomorrow little chance of rain",2016-05-12T20:10:37.643,2016,5
+"MADHYA PRADESH","EAST NIMAR",PANDHANA,JAYAD,AGRICULTURE,Others,Others,"Government Schemes","Farmer wants to know information about govt. schemes of horticulture?","Recommended for to know about govt. schemes of horticulture please contact rural horticulture extension officer.",2016-05-12T20:11:32.74,2016,5
+"UTTAR PRADESH",BAGHPAT,BINAULI,KHARIF,HORTICULTURE,Fruits,"Jack Fruit","Fertilizer Use and Availability","ASKING ABOUT FRUITING PROBLEM IN JACKFRUIT","SOIL DRENCHING WITH VERMI COMPOST",2016-05-12T20:11:40.653,2016,5
+"MADHYA PRADESH",PANNA,GUNOUR,NA,AGRICULTURE,Pulses,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Cultural Practices","farmer want to know information about govt. schemes?","recommended for to know about govt. schemes please contect rural agriculture extension officer ..",2016-05-12T20:12:49.48,2016,5
+BIHAR,BHOJPUR,JAGDISHPUR,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION","Cloudy weather in your area, chance of rain in your area",2016-05-12T20:12:50.193,2016,5
+"UTTAR PRADESH",BANDA,MAHUVA,JAYAD,AGRICULTURE,Pulses,"Black Gram (urd bean)",Weather,"Weather information ?","17 may tak mausam saf rahne ki sambhawna hai",2016-05-12T20:12:54.917,2016,5
+"UTTAR PRADESH",FAIZABAD,SOHAWAL,JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Early shoot borer attack in sugarcane crop?","kisan bhai ap ganne me Cartap Hydrochloride 4G 8-10 Kg/acre ki dar se bikher kar sinchai karen",2016-05-12T20:13:18.14,2016,5
+"UTTAR PRADESH",BADAUN,BISAULI,JAYAD,AGRICULTURE,Others,Others,Weather,"Give me weather information...?","13,14 aur 15 may ko halki bunda bandi hone ki sambhavna hai",2016-05-12T20:13:26.28,2016,5
+MAHARASHTRA,GONDIYA,"ARJUNI MORGAON",NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","Cloudy weather, NO Possibility of Rainfall.",2016-05-12T20:13:30.003,2016,5

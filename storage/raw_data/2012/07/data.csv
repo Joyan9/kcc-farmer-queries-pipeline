@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+ASSAM,TINSUKIA,GUIJAN,JAYAD,AGRICULTURE,Cereals,1137,"Cultural Practices","ASKING ABOUT CULTIVATION PRACTICES OF PADDY.","GIVEN IN DETAILS.",2012-07-06T19:58:00,2012,7
+HARYANA,SIRSA,RANIA,JAYAD,AGRICULTURE,Others,Others,Weather,"WEATHER OF SIRSA .","CLEAR WEATHER .",2012-07-06T19:58:00,2012,7
+HARYANA,PANIPAT,"0   ",JAYAD,AGRICULTURE,Pulses,1064,5,"improved varieties of moong ?","improved varieties of moong:k-851,asha,muskan,pusa baisakhi .",2012-07-06T19:58:00,2012,7
+"MADHYA PRADESH",MANDSAUR,GAROTH,JAYAD,HORTICULTURE,Vegetables,"Dolichos Bean",78,"variety of cluster bean ?","Application of fertilizers 
+Apply FYM 25 t/ha, Azospirillum and Phosphobacteria each 2 kg/ha, N 25, P 50 and K 25 kg/ha as basal. 25 kg N/ha is applied as top dressing on 30 days after sowing.",2012-07-06T20:00:00,2012,7
+MAHARASHTRA,PARBHANI,"0   ",NA,AGRICULTURE,Others,Others,Weather,rainfall,"7 July",2012-07-06T20:02:00,2012,7
+TAMILNADU,THANJAVUR,THIRUVAIYARU,JAYAD,HORTICULTURE,Vegetables,1282,102,"bhindi spacing","spacing of 45 x 30 cm",2012-07-06T20:02:00,2012,7
+PUNJAB,LUDHIANA,LUDHIANA-1,JAYAD,AGRICULTURE,Cereals,1137,12,"INFORMATION  REGARDING TRASPLANTING TIME OF RICE?","TIME OF TRANSPLANTING:- 10 JUNE.",2012-07-06T20:04:00,2012,7
+"UTTAR PRADESH",UNNAO,BIGHAPUR,NA,AGRICULTURE,Oilseeds,"Oil palm",22,"weed controle in sesamum","aLachlore 1.25 Litre / hectare",2012-07-06T20:05:00,2012,7
+"MADHYA PRADESH","WEST NIMAR","0   ",JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",3,"how to control sucking pest in cotton?","should be spray metasystox @35ml/pump.",2012-07-06T20:06:00,2012,7
+GUJARAT,KACHCHH,"0   ",NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","ask cotton sowing after fertilizer","I suggest uria fertilizer after sowing 45day",2012-07-06T20:07:00,2012,7

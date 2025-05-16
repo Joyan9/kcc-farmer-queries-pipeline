@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,JIND,NARWANA,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather in ?","Some clouds and chance of rain fall today.",2017-07-15T12:50:31.147,2017,7
+TELANGANA,KARIMNAGAR,RAMAGUNDAM,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Weed Management","cotton weed management ;","RECOMMENDED TO SPRAY QUIZALOFOP-P-ETHYL   400 ML/200 LITRES OF WATER /ACRE",2017-07-15T12:50:48.203,2017,7
+RAJASTHAN,JALOR,RANIWARA,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY",2017-07-15T12:50:57.413,2017,7
+MAHARASHTRA,JALNA,GHANSAWANGI,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is CLOUDY and Possibility of Rainfall",2017-07-15T12:50:58.06,2017,7
+PUNJAB,MOGA,MOGA-II,NA,AGRICULTURE,Others,Others,Weather,"information regarding weather ?","weather is cloudy and some chances of rainfall today",2017-07-15T12:52:05.347,2017,7
+TELANGANA,MAHABOOBNAGAR,AIZA,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Weed Management","COTTON WEED MANAGEMENT","COTTON WEED MANAGEMENT; NOT RECOMMENDED",2017-07-15T12:52:27.5,2017,7
+HARYANA,ROHTAK,MAHAM,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather in ?","Some clouds and chance of rain fall today.",2017-07-15T12:53:15.63,2017,7
+MAHARASHTRA,JALGAON,JAMNER,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is CLOUDY and LIGHT Possibility of Rainfall",2017-07-15T12:53:50.49,2017,7
+BIHAR,MADHEPURA,GWALPARA,KHARIF,AGRICULTURE,Others,Others,Weather,"weather information","chance of rain today and tomorrow",2017-07-15T12:53:51.56,2017,7
+MAHARASHTRA,JALNA,GHANSAWANGI,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is Partly cloudy and Possibility of Rainfall.",2017-07-15T12:53:54.84,2017,7

@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+RAJASTHAN,BUNDI,HINDOLI,JAYAD,AGRICULTURE,Oilseeds,"Soybean (bhat)",27,"SOYABEAN CROP IS AFFECTED BY WATERLODGING PROBLEM.","YOU CAN USE UREA ASD TOP DRESSING.",2011-08-11T12:33:00,2011,8
+KARNATAKA,CHITRADURGA,"0   ",NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",22,"weed management","spray 2,4,d 3gm/l",2011-08-11T12:33:00,2011,8
+PUNJAB,9999,"0   ",JAYAD,"ANIMAL HUSBANDRY",Animal,"Bovine(Cow,Buffalo)","Dairy Production","PROBLEM OF HEATING IN COW ?",NA,2011-08-11T12:34:00,2011,8
+GUJARAT,PORBANDAR,RANAVAV,JAYAD,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",22,"asking about weedicide after germination in grooundnut","i have suggejst not to spray weedicide",2011-08-11T12:41:00,2011,8
+HARYANA,SIRSA,SIRSA,JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",2,"INFORMATION REGARDING CONTROL OF BUKANI IN RICE CROP ?",NA,2011-08-11T12:41:00,2011,8
+"UTTAR PRADESH",FARRUKHABAD,"0   ",JAYAD,AGRICULTURE,Cereals,1075,3,"insect control in maize","spray to monocrotophase 2 ml / liter water.",2011-08-11T12:41:00,2011,8
+PUNJAB,MUKTSAR,GIDDERBAHA,JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",3,"Control of jassid in cotton ?",NA,2011-08-11T12:41:00,2011,8
+MAHARASHTRA,OSMANABAD,"0   ",JAYAD,AGRICULTURE,Oilseeds,"Soybean (bhat)",3,"control of leaf roler  ?","apply fenval rate @ 30 ml/pump.",2011-08-11T12:41:00,2011,8
+"JAMMU AND KASHMIR",BARAMULLA,"0   ",JAYAD,HORTICULTURE,Vegetables,1275,75,"CONTROL OF COLLOR ROT IN BOTTLE GOURD ?","SPRAY INDOFIL M45 @ 2.5ML/LITRE OF WATER.",2011-08-11T12:42:00,2011,8
+GUJARAT,JUNAGADH,BHESAN,KHARIF,HORTICULTURE,Vegetables,Cabbage,0,"Asking for red leaf spot in Cabbage.","Suggested to spray Mancozeb 25-30gm/pump.",2011-08-11T12:42:00,2011,8

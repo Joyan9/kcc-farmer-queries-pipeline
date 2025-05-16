@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",BAGHPAT,BINAULI,RABI,AGRICULTURE,"Sugar and Starch Crops","Sunnhemp (Patua)",5,"vari, of sugarcane","kosa-8436, 88230, 95255, kosa-767,",2013-03-26T19:19:58,2013,3
+"HIMACHAL PRADESH",MANDI,KARSOG,JAYAD,HORTICULTURE,Fruits,Apple,93,"How much pink Bud spray in apple plant ?","Spray with chloropyripos @ 400 ml in 200 litre of water .",2013-03-26T19:26:06,2013,3
+RAJASTHAN,TONK,MALPURA,KHARIF,HORTICULTURE,Vegetables,"Curry Leaf",76,"INSECT DAMAGE IN CUCURBITS .","SPRAY ACEPHATE @ 2 ML PER LITER OF WATER .",2013-03-26T19:26:52,2013,3
+"MADHYA PRADESH",BHOPAL,BERASIA,RABI,AGRICULTURE,Others,Others,15,"Govt. Subsidy on Tube-well?","Govt. Subsidy on Tube-well- ST&SC - Rs.- 40,000/",2013-03-26T19:28:25,2013,3
+KARNATAKA,GULBARGA,JEVARGI,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",0,"Cotton which is 1 month crop,rangoli like pictures are seen on the leaves in many plants.No chemical was sprayed till now.","This is due to leaf roller insect.Spray Rogar @ 2 ml or Monocrotophos @ 1.5 ml/lt.water.",2013-03-26T19:29:10,2013,3
+HARYANA,PANCHKULA,BARWALA,KHARIF,AGRICULTURE,Others,8329,Weather,"Information regarding weather?","Some clouds, no chance of rainfall.",2013-03-26T19:29:28,2013,3
+"UTTAR PRADESH","AMBEDKAR NAGAR","RAM NAGAR",NA,AGRICULTURE,Pulses,1808,3,"CHANEME KIDA LAG RAHA AHI","Apply QUNOLPHOSE @ 2.0 ML /Lt of water",2013-03-26T19:29:44,2013,3
+"UTTAR PRADESH",VARANASI,CHIRAIGAON,KHARIF,HORTICULTURE,Vegetables,"Bottle Gourd ",75,"control of drop flowering in bitter gourd","pilanofics 1ml/3 liter water mixed spray",2013-03-26T19:31:16,2013,3
+HARYANA,PANIPAT,PANIPAT,KHARIF,HORTICULTURE,"Condiments and Spices",Turmeric,89,"information regarding training for turmeric?","contact KVK, Ujaha (Panipat) 0180-2669330.",2013-03-26T19:33:17,2013,3
+"UTTAR PRADESH",ETAH,ALIGANJ,NA,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",1,"groundnut ka sowing time kya hai.","march me lga skte or june- july me kr sakte hai.",2013-03-26T19:35:03,2013,3

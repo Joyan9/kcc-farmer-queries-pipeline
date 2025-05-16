@@ -1,0 +1,25 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"ANDHRA PRADESH",VISAKHAPATNAM,BUTCHAYYAPETA,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT "," DRY WEATHER, NO CHANCE OF RAINFALL IN YOUR AREA 
+ ",2019-05-19T15:49:11.883,2019,5
+RAJASTHAN,BIKANER,LUNKARANSAR,NA,HORTICULTURE,Fruits,Mango,"	Plant Protection	","TELL ME ABOUT THE NUTRIENT MANEGEMENT IN CITRUS ?","
+??????? ???? ???? 100 ????? ????? ???? ?? ????? ?? ??? ??? ??????
+",2019-05-19T15:50:33.457,2019,5
+HARYANA,HISSAR,UKLANA,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",Varieties,"Information regarding  varieties of  BT Cotton?
+","BT Cotton varieties -Rasi-134, Rasi-138, Rasi-650, Rasi-653. Rasi-776,Rasi-773,Ankur -3028, Sriram-6488,6588, Bayar-7007.
+",2019-05-19T15:50:44.563,2019,5
+PUNJAB,GURDASPUR,"FATEHGARH CHURIAN",NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Sowing Time and Weather","Information  regarding yield of paddy varieties?
+","Soak the selected seed in 10 litres of water containing 20 gm bavistan (Carbendazim) 50WP and 1 gm. Streptocycline for 8-10 hours before sowing.dry the seed in shade and sow the seed immediately.
+",2019-05-19T15:51:06.59,2019,5
+"UTTAR PRADESH",SAHARANPUR,GANGOH,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","information for shoot borare control in sugercane crop?","kisan bhai aap cloropiryphosh 20% ec ki matraa- 1 litar /acre, 180 litar pani ke sath gholakar sprey kare ",2019-05-19T15:51:11.787,2019,5
+TELANGANA,MAHABOOBNAGAR,DEVARAKADARA,NA,HORTICULTURE,Vegetables,Onion,"Vegetative Propagation and Tissue Culture","ONION WHITE COLOUR VARIETIES","RECOMMENDED  ONION WHITE COLOUR VARIETIES:PUSA WHITE ROUND,PUSA WHITE FLAT",2019-05-19T15:51:24.297,2019,5
+CHHATTISGARH,MAHASAMUND,MAHASAMUND,NA,HORTICULTURE,Vegetables,Chillies,"	Plant Protection	","Farmer wants to know information about control of White Fly on Chilies crop?
+","For control of White Fly on Chilies crop, farmer can spray Diafenthiuron 50% SP @ 100-150 gram per acre mixed with 150-200 liter of water.
+",2019-05-19T15:52:53.187,2019,5
+MAHARASHTRA,SATARA,SATARA,NA,AGRICULTURE,Others,Others,"Government Schemes","ASKING ABOUT SUBSIDY ON AGRICULTURAL EQUIPMENTS?
+","25-50 % SUBSIDY ON AGRICULTURAL EQUIPMENT MORE DETAIL PLEASE VISIT YOUR TAHASIL AGRICULTURE OFFICER. 
+",2019-05-19T15:52:59.317,2019,5
+KARNATAKA,DAVANAGERE,HARAPPANAHALLI,NA,AGRICULTURE,Others,Others,Weather,"Asked about weather report 
+","Partly sunny; hot, low humidity; air quality will be unhealthy for sensitive groups",2019-05-19T15:53:14.7,2019,5
+"HIMACHAL PRADESH",KULLU,NIRMAND,NA,HORTICULTURE,Fruits,Apple,"	Plant Protection	","Information regarding control of flower/fruit dropping in apple ? 
+","Control of flower/fruit dropping in apple :spray 45 ml Planofix in 200 litre water.
+",2019-05-19T15:54:01.92,2019,5

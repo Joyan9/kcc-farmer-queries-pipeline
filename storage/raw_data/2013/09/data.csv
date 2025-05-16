@@ -1,0 +1,13 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,PARBHANI,PATHRI,JAYAD,AGRICULTURE,Others,Others,0,weather,"Partly cloudy and light rain.",2013-09-02T19:38:56,2013,9
+UTTARAKHAND,NAINITAL,RAMNAGAR,JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","dhan me fudka laga hai","&#2350;&#2379;&#2344;&#2379;&#2325;&#2381;&#2352;&#2379;&#2335;&#2379;&#2347;&#2377;&#2360; @ 1.5 &#2319;&#2350;&#2319;&#2354; / &#2354;&#2368;&#2335;&#2352; &#2346;&#2366;&#2344;&#2368; &#2350;&#2375; &#2350;&#2367;&#2354;&#2366;&#2325;&#2352; &#2360;&#2381;&#2346;&#2381;&#2352;&#2375; &#2325;&#2352;&#2375;",2013-09-02T19:39:00,2013,9
+"WEST BENGAL",BARDDHAMAN,"0   ",JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","CONTROL OF STEM BORER IN RICE","APPLY CARBOFURAN 3G @3KG/BIGHA.OR FREPONIL @1ML/LIT OF WATER",2013-09-02T19:39:49,2013,9
+PUNJAB,"FATEHGARH SAHIB",AMLOH,JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","INFORMATION REGARDING CONTROL OF SHEATH BLIGHT IN RICE CROP ?","SPRAY TILT 25EC @ 200ML OR BAVISTIN 50WP @ 200gm IN 200LITRES OF WATER/ACRE.THE 
+
+FIRST SPRAY SHOULD BE GIVEN AT BOOT STAGE AND SECOND AFTER 15DAYS INTERVAL.",2013-09-02T19:40:46,2013,9
+TAMILNADU,DHARMAPURI,HARUR,JAYAD,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","Shoot & fruit borer in brinjal","Spray Quinalphos 2 ml/lit",2013-09-02T19:41:03,2013,9
+PUNJAB,JALANDHAR,NAKODAR,NA,AGRICULTURE,Others,Others,Weather,"information regarding weather?","no chance of heavy rain in upcoming 48 hours.",2013-09-02T19:41:26,2013,9
+"UTTAR PRADESH",PILIBHIT,BARKHERA,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","dhan me tana bhedak ki problem","Cartap Hydrochloride 50 SP-400 gr /acre",2013-09-02T19:42:01,2013,9
+GUJARAT,RAJKOT,JASDAN,NA,AGRICULTURE,Others,Others,Weather,"Ask about weather","varsad nathi",2013-09-02T19:44:22,2013,9
+RAJASTHAN,BARMER,SIWANA,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT","NO RAIN POSSIBILITY IN NEXT 5 DAYS",2013-09-02T19:45:32,2013,9
+MAHARASHTRA,BEED,"0   ",JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","fertilizer info.","myagneshiyam salphet spray",2013-09-02T19:46:49,2013,9

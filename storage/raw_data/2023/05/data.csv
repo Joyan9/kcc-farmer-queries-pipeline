@@ -1,0 +1,19 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+BIHAR,BANKA,FULLIDUMAR,NA,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"Farmer asked query on Weather","किसान भाई आपके क्षेत्र में कल हल्की बरसात की संभावना दिखाई दे रही है |आज  अधिकतम तापमान  35डिग्री सेल्सियस न्यूनतम तापमान 25 डिग्री सेल्सियस और हवा की गति 9 किलोमीटर प्रति घंटे से चलने की संभावना है| पुरवा हवा चलने की संभावना है| ",2023-05-25T12:07:03.237,2023,5
+RAJASTHAN,CHURU,TARANAGAR,NA,HORTICULTURE,Fruits,Bail,"	Plant Protection	","ASKED ABOUT TO CONTROL OF FLOWER DROPING BAIL PLAT ?","प्लानोफिक्स (नेप्थलीन ऐसिटिक एसिड) 4.5% एस.एल दवा 1 एम एल प्रति 4 लिटर पानी में घोल कर छिड़काव करें।
+",2023-05-25T12:07:06.45,2023,5
+BIHAR,SITAMARHI,BAJPATTI,NA,AGRICULTURE,Others,Others,"Government Schemes","Query Related to Pradhan Mantri Kisan Samman Nidhi Yojna ","किसान भाई प्रधानमंत्री किसान सम्मान निधि योजना का चौदहवी (14th) क़िस्त जून से जुलाई के बीच आपको दिया जाएगा | ",2023-05-25T12:07:08.493,2023,5
+UTTARAKHAND,CHAMPAWAT,LOHAGHAT,NA,AGRICULTURE,Pulses,"Black Gram (urd bean)","Cultural Practices","What is the maturity of Urad variety Virat?","उड़द की किस्म विराट की समय अवधि लगभग 55-60 दिन की है |",2023-05-25T12:07:44.25,2023,5
+"ANDHRA PRADESH",KURNOOL,ADONI,NA,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",Weather,"Farmer asked query on Weather","CLOUDY WEATHER,CHANCE OF SHOWERS IN YOUR AREA 
+ మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది, జల్లులు పడే అవకాశం ఉంది
+ ",2023-05-25T12:08:37.04,2023,5
+"ANDHRA PRADESH",KURNOOL,PATTIKONDA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","
+WEATHER REPORT : CLOUDY WEATHER ,CHANCE OF RAIN IN YOUR AREA 
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది 
+",2023-05-25T12:08:41.753,2023,5
+GUJARAT,SURAT,OLPAD,NA,AGRICULTURE,Others,Others,"Government Schemes"," Ask about information of  PM - KISAN e KYC 	","પી.એમ કિસાન રજિસ્ટર્ડ ખેડૂતો માટે eKYC ફરજિયાત છે. eKYC , બાયોમેટ્રિક કરવા માટે નજીકના CSC કેન્દ્રોનો સંપર્ક કરો  વધુ માહિતી માટે https://exlink.pmkisan.gov.in/aadharekyc.aspx પર ક્લિક કરો ",2023-05-25T12:09:02.593,2023,5
+HARYANA,GURGAON,GURGAON,NA,HORTICULTURE,Fruits,Lemon,"Nutrient Management","FARMER ASKED ABOUT THE NUTRIENT MANAGEMENT IN LEMON ?","सूक्ष्म पोषक तत्व 100 ग्राम प्रति पौधे के हिसाब से जड़ो में डालें।
+",2023-05-25T12:09:05.963,2023,5
+RAJASTHAN,HANUMANGARH,BHADRA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","मौसम का पूर्वानुमान आपके क्षेत्र में अगले तीन दिनों में वर्षा होने की संभावना है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान 38 डिग्री सेल्सियस और न्यूनतम तापमान 22 डिग्री सेल्सियस और हवा सामान्य से अधिक (18 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2023-05-25T12:09:13.187,2023,5
+JHARKAND,DEOGHAR,SARATH,NA,AGRICULTURE,Others,Others,"Government Schemes","Information about Prime Minister Kisan Samman Nidhi Scheme beneficiary status ?  ","महोदय जी प्रधानमंत्री किसान सम्मान निधि योजना से संबंधित अधिक जानकारी के लिए आप अपने प्रखंड के कृषि पदाधिकारी से संपर्क करें",2023-05-25T12:10:24.043,2023,5

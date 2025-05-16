@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"JAMMU AND KASHMIR",BANDIPORE,SUMBAL,KHARIF,HORTICULTURE,Vegetables,Chillies,"	Plant Protection	","HOW TO CONTROL DARK SPOTTING ON CHILLES?","SPRAY PROPINEB @ 3 GM PER LITRE OF WATER",2015-08-03T11:13:49.59,2015,8
+TAMILNADU,THENI,THENI,KHARIF,HORTICULTURE,"Condiments and Spices",Coriander,"Cultural Practices","coriander weed management","recommended  for spray Fluchloralin 280 ml / 200 lit of water.",2015-08-03T11:14:20.523,2015,8
+HARYANA,"MAHENDRA GARH",KANINA,KHARIF,AGRICULTURE,"Fodder Crops",Guar,"	Plant Protection	","information regarding improved  grouth  in guar ?.","improved grouth in paddy ? answer:-spray_2.5 kg urea + 500 gm zink in 100 litre water / acre.",2015-08-03T11:14:22.997,2015,8
+"ANDHRA PRADESH","Y S R ",PULIVENDLA,NA,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","Brinjal shoot rot and fruit rot","RECOMMENDED TO SPRAY PROPINOPHOS (CURECRON, PROFEX,DON, BOLERO)  400 ML PER ACRE",2015-08-03T11:14:34.137,2015,8
+RAJASTHAN,TONK,MALPURA,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME WEATHER INFORMATION","RAIN POSSIBILITY IN NEXT 2-3 DAYS",2015-08-03T11:15:06.573,2015,8
+KARNATAKA,BAGALKOT,MUDHOL,NA,HORTICULTURE,"Condiments and Spices",Turmeric,"	Plant Protection	",DISEASE,"CARBENDIZIM  2 GM /1 LITER",2015-08-03T11:15:44.753,2015,8
+KARNATAKA,CHAMARAJANAGAR,GUNDLUPET,NA,HORTICULTURE,Fruits,Banana,"Market Information","banana market rate","BINNY MILL (F&V)	Elakki Bale	Average	842	Quintal	1000	2800",2015-08-03T11:16:40.6,2015,8
+"ANDHRA PRADESH",KURNOOL,ALUR,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT KURNOOL","PLEASANT ND SUNNY WEATHER",2015-08-03T11:16:43.793,2015,8
+"UTTAR PRADESH",SHAHJAHANPUR,JAITPUR,KHARIF,"ANIMAL HUSBANDRY",Animal,"Bovine(Cow,Buffalo)","Disease Reporting","pashu samsya ke liye?","ap 18001805141 par call kare.",2015-08-03T11:16:52.553,2015,8
+TRIPURA,"WEST TRIPURA",MOHANPUR,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","CONTROL MEASURE OF BLAST","TOP DRESS WITH 4KG UREA PER BIGHA FOLLOWED BY BAVISTINE @ 1GM/LTR WATER",2015-08-03T11:17:30.42,2015,8

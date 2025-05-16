@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",MIRZAPUR,"0   ",KHARIF,HORTICULTURE,0,1282,76,"baigan mein insect control .","apply endosulphon @ 1.5 ml/lit of water .",2010-02-24T20:12:00,2010,2
+TAMILNADU,SIVAGANGA,"0   ",NA,AGRICULTURE,0,"Groundnut (pea nut/mung phalli)",3,"control measure for red hairy caterpiller.",NA,2010-02-24T20:14:00,2010,2
+TAMILNADU,TIRUVANNAMALAI,"0   ",NA,HORTICULTURE,0,Marigold,76,"control measure for leaf feeders.","spray monocrotophos 2ml/lit.",2010-02-24T20:14:00,2010,2
+HARYANA,JIND,"0   ",KHARIF,HORTICULTURE,0,Onion,76,"CONTRROL OF THRIPS IN ONION CROP ?","SPRAY OF MALATHION 50EC @ 300ML IN 300 LITERS OF WATER PER ACRE.",2010-02-24T20:23:00,2010,2
+PUNJAB,"SHAHID BHAGAT SINGH NAGAR (Nawanshahr)",NAWANSHAHR,KHARIF,AGRICULTURE,0,Wheat,2,"INFORMATION REGARDING CONTROL OF KARNAL BUNT IN WHEAT ?","SPRAY TILT 25EC @ 200ML IN 200LITRES OF WATER/ACRE.",2010-02-24T20:24:00,2010,2
+MAHARASHTRA,PARBHANI,"0   ",KHARIF,AGRICULTURE,0,Others,29,DISSCONECTED.,DISSCONECTED.,2010-02-24T20:28:00,2010,2
+UTTARAKHAND,CHAMOLI,"0   ",NA,HORTICULTURE,0,1279,76,"baigan mein  keeda  laga hai","spray of monocrotophos  ka  1.5ml/lit  water",2010-02-24T20:34:00,2010,2
+MAHARASHTRA,PARBHANI,"0   ",NA,HORTICULTURE,0,1268,"Fertilizer Use and Availability","fertiliser dose of mango","apply 5 kg compost + 350 gm suphala + 200 gm urea/ tree",2010-02-24T20:37:00,2010,2
+"UTTAR PRADESH",BADAUN,"0   ",RABI,AGRICULTURE,0,"Sunnhemp (Patua)",3,"ganne me deemak lag jati hai","apply to chlorden powder @ 25-30 kg/ha",2010-02-24T20:48:00,2010,2
+"UTTAR PRADESH",JAUNPUR,"0   ",KHARIF,AGRICULTURE,0,Wheat,2,"gehu peela ho raha hai","spray to multiplux @ 2 litre/800 litre of water/ha",2010-02-24T20:48:00,2010,2

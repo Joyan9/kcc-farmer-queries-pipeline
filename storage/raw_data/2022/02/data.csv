@@ -1,0 +1,17 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+GUJARAT,KHEDA,KAPADVANJ,NA,AGRICULTURE,Others,Others,"Cultural Practices","ask about general information ","	કિસાન કોલ સેન્ટરમાં કોલ કરવા બદલ ધન્યવાદ.",2022-02-09T09:03:34.53,2022,2
+GUJARAT,AMRELI,DHARI,NA,AGRICULTURE,Others,Others,"Government Schemes","Ask about ongoing government scheme	 ","કૃષિ સંબંધિત  ચાલુ યોજનાઓ ની વધુ જાણકારી માટે https://ikhedut.gujarat.gov.in/Public/frm_Public_SchemeDetails.aspx પર જુવો ",2022-02-09T09:03:49.367,2022,2
+"UTTAR PRADESH",GONDA,RUPAIDEEH,NA,AGRICULTURE,Cereals,Wheat,"	Plant Protection	","Remedy to control brown fungus in wheat..?","महोदय आप प्रोपिकोनाज़ोल 25 % EC @ 200 मिली/एकर की दर से 200 लीटर पानी में घोल बनाकर छिड़काव करें|",2022-02-09T09:04:36.12,2022,2
+MAHARASHTRA,WARDHA,ASHTI,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","हवामान विभागाच्या अंदाजानुसार आपल्या तालुक्यात,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील   पावसाची शक्यता नाही. तापमान -कमाल ३०  अंश सेल्सियस आणि किमान १२ अंश सेल्सियस,वाऱ्याचा वेग -तासी ११  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे.",2022-02-09T09:04:45.06,2022,2
+"MADHYA PRADESH",SATNA,MAJHGAWAN,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","मौसम विभाग के अनुसार आपके जिला सतना में विकासखंड मझगंवा में आज वर्षा की संभावना बनी हुई है आने वाले 2 दिन बादलों वाला मौसम बना रहेगा बरसात की संभावना नहीं रहेगी तापमान अधिकतम 25 डिग्री सेंटीग्रेड न्यूनतम 13 डिग्री सेंटीग्रेड रहने की संभावना है हवा की गति 10 से 15 किलोमीटर प्रति घंटे की रफ्तार से चलने की संभावना है
+",2022-02-09T09:05:04.62,2022,2
+CHHATTISGARH,DURG,PATAN,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","दुर्ग जिले के पाटन विकासखंड में 5 दिनों में हल्की वर्षा की संभावना है आज का अधिकतम तापमान 28 न्यूनतम तापमान 13 डिग्री सेल्सियस हवा की गति 6 किलोमीटर प्रति घंटे की दर से चलने की संभावना है |",2022-02-09T09:05:35.57,2022,2
+"WEST BENGAL",BARDDHAMAN,MANGOLKOTE,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather",,2022-02-09T09:05:48.783,2022,2
+"UTTAR PRADESH",MUZAFFARNAGAR,PURKAJI,NA,AGRICULTURE,Cereals,Wheat,Weather,"Information about the weather forecast of Block-Muzaffarnagar in District -Muzaffarnagar ..?
+"," श्रीमान जी आपके क्षेत्र में 8 फरवरी से 13 फरवरी तक पूरे सप्ताह बादल छाए रहने की संभावना है,9 फरवरी को हल्की बूंदाबांदी के साथ में हल्की बारिश की संभावना है, आज का अधिकतम तापमान 17°C, न्यूनतम तापमान 13°C है हवाएं आपके क्षेत्र में 4-7 किलोमीटर प्रति घंटे की गति से चलने की संभावना है, मौसम के अनुसार कृषि कार्य करें |
+",2022-02-08T17:57:48.01,2022,2
+HARYANA,"YAMUNA NAGAR",RADAUR,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather"," आप के जिले में आजकल मौसम (परिवर्तनशील)आंशिक रूप से बादल छाये रहेंगे ,9 जनवरी को कहीं कहीं हल्की बरसात की सम्भावना है । अधिकतम तापमान 23 डिग्री सेल्सियस और न्यूनतम तापमान 10 डिग्री सेल्सियस और हवा की गति 10-20 किलोमीटर प्रति घंटा रहेगी ।
+",2022-02-08T17:58:35.357,2022,2
+TAMILNADU,TIRUPATTUR,"0   ",NA,HORTICULTURE,"Condiments and Spices",Coriander,"Cultural Practices","Asked About  coriander sowing season
+","கேள்வி : கொத்து மல்லி விதைப்பு பருவம் மற்றும் இரகங்கள் பதில் ; பருவம் :ஜூன் - ஜூலை மற்றும் அக்டோபர் - நவம்பர். பொதுவாக பயிரிடும் இரகங்கள் : கோ 1, கோ 2, கோ 3, கோ (சி.ஆர்) 4, ஜி ஏ யூ 1, யூ டி 1, யூ டி 2, யூ டி 20 மற்றும் யூ டி 21.விதைகளை 20 x 15 செ.மீ இடைவெளியில் விதைக்கவேண்டும்.
+",2022-02-08T17:58:56.463,2022,2

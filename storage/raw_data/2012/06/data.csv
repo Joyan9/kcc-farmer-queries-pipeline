@@ -1,0 +1,13 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,OSMANABAD,"0   ",JAYAD,AGRICULTURE,Oilseeds,"Linseed (alsi)",Weather,"about mansoon","mansoon comes in 22 to23 jun date in maharastra",2012-06-15T10:26:00,2012,6
+KARNATAKA,HASSAN,SAKALESHPUR,NA,HORTICULTURE,Fruits,Banana,"Fertilizer Use and Availability","fertilizer application","info given",2012-06-15T10:26:00,2012,6
+KARNATAKA,SHIMOGA,"0   ",NA,AGRICULTURE,Others,Others,Weather,"weather report","Today
+44 °C
+Partly Cloudy",2012-06-15T10:26:00,2012,6
+CHANDIGARH,CHANDIGARH,CHANDIGARH,JAYAD,AGRICULTURE,Others,Others,"Soil Testing","information regarding soil test?","i told farmer you cane soil test in nearest kvk?",2012-06-15T10:27:00,2012,6
+KARNATAKA,BIJAPUR,"0   ",NA,AGRICULTURE,Cereals,1075,1,"sowing season",may-june,2012-06-15T10:27:00,2012,6
+KARNATAKA,HASSAN,"0   ",NA,HORTICULTURE,"Condiments and Spices",Ginger,"Market Information","market price","no internet connection",2012-06-15T10:27:00,2012,6
+KARNATAKA,KOLAR,"0   ",NA,AGRICULTURE,Others,Others,29,subsidy,"contact number given",2012-06-15T10:27:00,2012,6
+KARNATAKA,HAVERI,"0   ",NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",2,"spray reddning","spray mgso4 10g/lt",2012-06-15T10:27:00,2012,6
+KARNATAKA,BIJAPUR,"0   ",NA,HORTICULTURE,Vegetables,1280,76,"leaf curl","spray confidor 0.5m/lt",2012-06-15T10:27:00,2012,6
+KARNATAKA,MYSORE,HUNSUR,NA,HORTICULTURE,Fruits,Coconut,"Market Information","copra market price","TIPTUR Copra Medium 1341 Quintal  5409 5667",2012-06-15T10:27:00,2012,6

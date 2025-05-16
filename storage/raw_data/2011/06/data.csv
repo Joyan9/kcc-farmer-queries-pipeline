@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+KARNATAKA,CHITRADURGA,"0   ",NA,AGRICULTURE,Others,Others,Weather,"weather report","Overcast. High: 32 °C. Wind WSW 13 - 18 km/h. Heat Index: 35 °C.",2011-06-20T10:57:00,2011,6
+TAMILNADU,THIRUVALLUR,"0   ",JAYAD,AGRICULTURE,Cereals,1137,"Fertilizer Use and Availability","top dressing fertilizer management in paddy","apply urea 25kg + potash 15kg / ac",2011-06-20T11:02:00,2011,6
+TAMILNADU,NAMAKKAL,ERUMAPATTY,JAYAD,HORTICULTURE,Fruits,Banana,75,"sigatako leaf spot control measure in banana","spray mancozeb 2gm / lit",2011-06-20T11:10:00,2011,6
+"UTTAR PRADESH",SULTANPUR,MOTIGARPUR,JAYAD,HORTICULTURE,Fruits,Banana,76,"insect control in banana",NA,2011-06-20T11:12:00,2011,6
+KARNATAKA,BELGAUM,"0   ",NA,AGRICULTURE,Others,Others,"Soil Testing","soil test","information given",2011-06-20T11:13:00,2011,6
+"HIMACHAL PRADESH",HAMIRPUR,BIJHRI,JAYAD,HORTICULTURE,Vegetables,1279,76,"how to control fruit borer of brinjal?","spray endosulfan @ 30ml in 15 litres of water.",2011-06-20T11:14:00,2011,6
+"UTTAR PRADESH",JAUNPUR,"0   ",JAYAD,HORTICULTURE,Vegetables,"Ash Gourd (Petha)",78,"var. of ash gourd","co 1,2,summer king long ,large yallow,large red",2011-06-20T11:16:00,2011,6
+GUJARAT,JAMNAGAR,"0   ",NA,HORTICULTURE,Vegetables,1280,75,"ASKING About chilli dien back","i suggest to spray mancozeb 25 gm/10 ;il water",2011-06-20T11:17:00,2011,6
+"JAMMU AND KASHMIR",JAMMU,MARH,NA,HORTICULTURE,Vegetables,1279,76,"CONTROL OF BORER IN BRINJAL?","SPRAY  SEVIN @ 2 GM / LITRE OF WATER",2011-06-20T11:20:00,2011,6
+ODISHA,BALANGIR,MURIBAHAL,NA,HORTICULTURE,Vegetables,Others,102,"LEAF EATING CATTERPILAR PEST OF COUNTRYBEAN.","SPRAY MALATHION @2.5ML/LIT OF WATER.",2011-06-20T11:24:00,2011,6

@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+TAMILNADU,TIRUNELVELI,PALAYANKOTTAL,KHARIF,HORTICULTURE,Vegetables,1282,76,"control mesure for white fly in bhendi","spray ouinolphos 2ml/lit of water",2011-12-22T18:42:00,2011,12
+"HIMACHAL PRADESH",KULLU,KULLU,KHARIF,HORTICULTURE,Vegetables,Cabbage,76,"How to control cater pillar of cabbage ?","spray decis@20ml/10litres of water.",2011-12-22T18:44:00,2011,12
+"UTTAR PRADESH",ALLAHABAD,"0   ",KHARIF,HORTICULTURE,Vegetables,1296,75,"fungal disease in potato","apply  mancozeb @2gm /lit. of water",2011-12-22T18:57:00,2011,12
+"UTTAR PRADESH",PRATAPGARH,GAURA,KHARIF,HORTICULTURE,Fruits,1268,76,"insect control in mango","apply moncrotophos @2ml /lit. of water",2011-12-22T18:57:00,2011,12
+"UTTAR PRADESH",RAEBARELI,"0   ",KHARIF,AGRICULTURE,Cereals,Wheat,22,"gulli danda ka control batayen","spray to isoproturan @ 1-1.5 kg/700-800 litre of water/ha",2011-12-22T19:05:00,2011,12
+"UTTAR PRADESH",BAGHPAT,BINAULI,KHARIF,AGRICULTURE,Cereals,Wheat,5,"wheat ki late variety","k-7903,k-9106,golden halana,pvw-373,huw-234,nw-2036",2011-12-22T19:06:00,2011,12
+RAJASTHAN,RAJSAMAND,RAILMAGRA,KHARIF,HORTICULTURE,Fruits,Citrus,99,"TELL ME CONTROL FLOWER DROPING IN LEMON.","SPRAY PALANOFIX 1ML/4LITTER WATER",2011-12-22T19:06:00,2011,12
+"UTTAR PRADESH",SONBHADRA,"0   ",KHARIF,AGRICULTURE,Cereals,Wheat,22,"gehu ka mama ka control batayen","spray to sulphosulfuran @ 33g/600-800 litre of water/ha",2011-12-22T19:27:00,2011,12
+"UTTAR PRADESH",CHANDAULI,"0   ",KHARIF,AGRICULTURE,Cereals,Wheat,5,"var.of wheat late","dvw 14,pvw 16,226,373,malviya 234,",2011-12-22T19:31:00,2011,12
+"UTTAR PRADESH",RAEBARELI,SATAON,KHARIF,AGRICULTURE,Cereals,Wheat,5,"var. of wheat late","dvw 14,pvw 16,226,373,malviya 234",2011-12-22T19:31:00,2011,12

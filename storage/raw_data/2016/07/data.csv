@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,MEWAT,PUNAHANA,KHARIF,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","control of fruit borer in brinjal crop?","spray 75 gm spynoshed in 120 liter water /acre.",2016-07-31T15:13:45.8,2016,7
+"UTTAR PRADESH",SHAHJAHANPUR,KALAN,KHARIF,AGRICULTURE,Others,Others,Weather,"about asked weather information........?","es hapte mausam  me gambir  badal bane rahege thatha barsh ki sambhwna bani hai",2016-07-31T15:14:43.173,2016,7
+RAJASTHAN,JALOR,SANCHORE,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","LIGHT RAIN POSSIBILITY ON TODAY",2016-07-31T15:15:03.273,2016,7
+RAJASTHAN,CHURU,CHURU,NA,AGRICULTURE,Others,Others,"	Plant Protection	","tell me about pest control in moong","SPRAY OF DIMETHOATE  30% EC 2 ML PER LITER WATER",2016-07-31T15:15:06.163,2016,7
+"UTTAR PRADESH",JHANSI,MOTH,KHARIF,AGRICULTURE,Others,Others,"	Plant Protection	","PLESE GIVE ME WEATHER INFARMETION","aap ke yaha pure saptah halki se bhari varsha ki sambhawna ki ja rahi hai",2016-07-31T15:15:17.733,2016,7
+"UTTAR PRADESH",HATHRAS,SIKANDRARAO,KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about weather information ?","cloudy weather and possibility of rain till 5 august",2016-07-31T15:15:22.577,2016,7
+GUJARAT,BHAVNAGAR,GHOGHA,KHARIF,AGRICULTURE,Others,Others,"Cultural Practices","ASK ABOUT GENERAL INFORMATION","Suggested : All information provided -  Thanks for calling in kisaan call center",2016-07-31T15:15:33.94,2016,7
+GUJARAT,RAJKOT,JAMKANDORNA,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","Ask about heliothese (pink ball warm) in cotton","Suggested: Install 2 pharomon trap / vigha and spray DDVP 5 ml + Quinalphos 25 ml /pump at flowering stage",2016-07-31T15:15:46.72,2016,7
+"ANDHRA PRADESH",NELLORE,GUDUR,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT","A moderate thunderstorm is likely to take place in your area.",2016-07-31T15:16:06.507,2016,7
+MAHARASHTRA,AHMADNAGAR,RAHURI,NA,AGRICULTURE,Others,Others,Weather,"Asking About Weather Forecast?","Cloudy weather and rainfall chances.
+temperature-24c   humidity-68%",2016-07-31T15:16:12.853,2016,7

@@ -1,0 +1,18 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+KARNATAKA,"BANGALORE RURAL",KANAKAPURA,NA,AGRICULTURE,Others,Others,Weather,weather,"Tomorrow
+
+81 °F 
+
+Chance of T-storms
+70% chance of precipitation",2013-10-27T21:44:08,2013,10
+ODISHA,MAYURBHANJ,BETNOTI,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	",BPH,CARBARYL,2013-10-27T21:44:32,2013,10
+RAJASTHAN,JODHPUR,BAP,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ","	Plant Protection	","THRIPS ON CASTOR","SPRAY OF ACEPHATE 75% SP 2 GM PER LITER WATER",2013-10-27T21:54:12,2013,10
+"ANDHRA PRADESH",GUNTUR,NEKARIKALLU,NA,AGRICULTURE,Others,Others,0,"weather report","rain addressed tomorrow evening",2013-10-27T22:01:46,2013,10
+MAHARASHTRA,YEVATMAL,UMARKHED,JAYAD,HORTICULTURE,"Condiments and Spices",Turmeric,"	Plant Protection	","Blight ?","Spray Redomil gold 25 gm / 15 lit of water",2013-10-27T22:02:44,2013,10
+BIHAR,SIWAN,SISWAN,KHARIF,HORTICULTURE,Vegetables,Potato,"Fertilizer Use and Availability","FERTILIZER DOSES IN POTATO","FERTILIZER DOSES IN POTATO COMP 20-25 TAN N.P.K @ 150:90:100 KG./HECT.",2013-10-28T06:09:09,2013,10
+KARNATAKA,RAICHUR,SINDHANUR,NA,HORTICULTURE,Vegetables,Chillies,0,chilli,"Spray general tonic 4ml/lit or  biozyme 2ml/lit -for vegetative growth
+Ulala 10/15ltr
+spray 19 all fertilizers 2-3 grams/ liter",2013-10-28T06:10:44,2013,10
+KARNATAKA,TUMKUR,CHIKNAYAKANHALLI,NA,AGRICULTURE,Others,Others,0,coconuut,"apply neem oil",2013-10-28T06:11:32,2013,10
+JHARKAND,HAZARIBAGH,"0   ",KHARIF,HORTICULTURE,Vegetables,Potato,"	Plant Protection	","early blight","spray saaf @2gm /lit of water",2013-10-28T06:15:06,2013,10
+UTTARAKHAND,"UDHAM SINGH NAGAR","0   ",KHARIF,AGRICULTURE,Cereals,Wheat,"Cultural Practices","gehu me urvark kitna de?","&#2327;&#2375;&#2361;&#2370;&#2306; &#2348;&#2379;&#2357;&#2366;&#2312; &#2325;&#2375; &#2360;&#2350;&#2351; DAP -70kg ,MOP - 40kg &#2346;&#2381;&#2352;&#2340;&#2367; &#2319;&#2325;&#2396; &#2342;&#2375;&#2306;",2013-10-28T06:23:13,2013,10

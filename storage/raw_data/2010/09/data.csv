@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,BEED,"0   ",JAYAD,AGRICULTURE,0,"Soybean (bhat)",3,"attack of semilooper on soyabean.","spraying of cloropyriphos 20 ml in 10 lit water.",2010-09-01T10:35:00,2010,9
+MAHARASHTRA,AHMADNAGAR,"0   ",JAYAD,AGRICULTURE,0,"Cotton (Kapas)",3,"attack of white fly on cotton.","spraying of imidacloprid 5 ml in 10 lit water.",2010-09-01T10:35:00,2010,9
+"HIMACHAL PRADESH",UNA,UNA,KHARIF,AGRICULTURE,0,Others,8,"How much subsides in poly house ?","Subsides in poly house are :80 %.",2010-09-01T10:37:00,2010,9
+ODISHA,NAWAPARA,"0   ",NA,AGRICULTURE,0,1137,2,"BLAST DISEASE OF PADDY.","SPRAY TRICYCLAZOLE @1GM/LIT OF WATER.",2010-09-01T10:37:00,2010,9
+"UTTAR PRADESH",MUZAFFARNAGAR,"0   ",JAYAD,AGRICULTURE,0,1137,3,"insect in rice","monocrotophos @2ml/lit of water ka spray",2010-09-01T10:37:00,2010,9
+"MADHYA PRADESH",BETUL,"0   ",JAYAD,AGRICULTURE,0,1137,3,"what is give you information insec controller of rice?","quinolphos-30ml/pump spray crop in rice.",2010-09-01T10:38:00,2010,9
+"UTTAR PRADESH",RAMPUR,"0   ",JAYAD,AGRICULTURE,0,1137,2,"CONTROL OF TANA CHEDAK?","APPLY CARBOFURAN 3G @25KG/HA.",2010-09-01T10:40:00,2010,9
+"UTTAR PRADESH",BANDA,"0   ",JAYAD,HORTICULTURE,0,1268,75,"CONTROL OF DEEMAK?","APPLY CHLOROPAYARIPHAS.",2010-09-01T10:40:00,2010,9
+KARNATAKA,RAICHUR,"0   ",NA,AGRICULTURE,0,Others,3,"leaf eatting caterpiller","monocrotophas 2ml/lt of water",2010-09-01T10:41:00,2010,9
+TAMILNADU,ERODE,"0   ",JAYAD,AGRICULTURE,0,1137,3,"control measure for leaf folder in paddy","spray monocrotophos 2 ml /lit of water",2010-09-01T10:43:00,2010,9

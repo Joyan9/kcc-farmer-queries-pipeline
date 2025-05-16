@@ -1,0 +1,13 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+GUJARAT,RAJKOT,JASDAN,JAYAD,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",0,"ask for groundnut ful kharva","sugg to boom flower 20 ml/pump",2013-07-16T13:19:27,2013,7
+RAJASTHAN,BARMER,DHORIMANNA,NA,AGRICULTURE,Others,Others,0,"GIVE ME WEATHER INFORMATION","NO RAINFALL POSSIBILITY IN NEXT 5 DAYS",2013-07-16T13:20:15,2013,7
+MAHARASHTRA,CHANDRAPUR,CHANDRAPUR,JAYAD,AGRICULTURE,Others,Others,0,"Weather Report ?","&#2346;&#2366;&#2314;&#2360;&#2366; &#2330;&#2368; &#2358;&#2325;&#2381;&#2351;&#2340;&#2366; &#2310;&#2361;&#2375;.",2013-07-16T13:20:45,2013,7
+MAHARASHTRA,NASIK,NANDGAON,NA,AGRICULTURE,Millets,"Maize (Makka)","Fertilizer Use and Availability","Sucking Pest? White Fly A hrips Attack ?","Actra 5 gm/15 Lit of Water.",2013-07-16T13:20:54,2013,7
+MAHARASHTRA,NANDURBAR,NANDURBAR,NA,"ANIMAL HUSBANDRY",Animal,"Bovine(Cow,Buffalo)","Dairy Production","TO START DAIRY FARM","&#2332;&#2367;&#2354;&#2381;&#2361;&#2366; &#2313;&#2342;&#2381;&#2351;&#2379;&#2327; &#2325;&#2375;&#2306;&#2342;&#2381;&#2352;&#2366;&#2354;&#2366; &#2349;&#2375;&#2335; &#2342;&#2381;&#2351;&#2366;",2013-07-16T13:21:34,2013,7
+ODISHA,BHADRAK,CHANDABALI,NA,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","root rot","ridomil 2ml/ lit spray",2013-07-16T13:22:23,2013,7
+"ANDHRA PRADESH","0   ","0   ",NA,AGRICULTURE,Others,Others,0,"asked about market price of sunflower and maize","given information",2013-07-16T13:23:02,2013,7
+HARYANA,KURKSHETRA,PEHOWA,JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)","Cultural Practices","how to control fungal diseases in paddy crop  ?","how to control fungal diseases in paddy crop-spray of Bavistin @ 400 gm/200 liter water/acre .
+.
+spray of Bavistin @ 400 gm/200 liter water/acre .",2013-07-16T13:23:07,2013,7
+MAHARASHTRA,AKOLA,MURTIJAPUR,JAYAD,AGRICULTURE,Oilseeds,"Soybean (bhat)","Bio-Pesticides and Bio-Fertilizers","YELLOWING OF SOYABEAN","&#2346;&#2367;&#2325;&#2366;&#2354;&#2366; &#2340;&#2375;&#2332;&#2346;&#2339;&#2366; &#2351;&#2375;&#2339;&#2381;&#2351;&#2366;&#2325;&#2352;&#2367;&#2340;&#2366; &#2408; % &#2351;&#2370;&#2352;&#2367;&#2351;&#2366; &#2330;&#2368; &#2347;&#2357;&#2366;&#2352;&#2339;&#2368; &#2325;&#2352;&#2366; &#2408;&#2406;&#2406; &#2327;&#2381;&#2352;&#2366;&#2350; &#2407;&#2406; &#2354;&#2367;&#2335;&#2352; &#2346;&#2366;&#2339;&#2381;&#2351;&#2366;&#2350;&#2343;&#2375;",2013-07-16T13:24:49,2013,7
+GUJARAT,JUNAGADH,MALIA,JAYAD,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)",0,"ask about root wilt in gnut","suggested bavistin 25 gm per pump",2013-07-16T13:25:11,2013,7

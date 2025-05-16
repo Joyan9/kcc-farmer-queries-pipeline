@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+RAJASTHAN,SIKAR,"DANTA RAMGARH",RABI,AGRICULTURE,Others,Others,6,"I WANT TO PURCHES EARTHWORM.","APPLAY AT ADH.SIKAR.",2012-04-26T06:13:00,2012,4
+RAJASTHAN,SIKAR,PIPRALI,RABI,HORTICULTURE,Vegetables,1275,76,"BOTTEL GOURD CROP AFFECTED BY FRUIT FLY.","SPRAY MELATHION 50 EC 2 ML/L WATER.",2012-04-26T06:13:00,2012,4
+"HIMACHAL PRADESH",SOLAN,DHARAMPUR,KHARIF,HORTICULTURE,Vegetables,"Pea (Vegetable)",75,"How to control Powdery Mildew of Pea ?","Spray Kerathean @ 10 ml /20 Liters of water.",2012-04-26T06:39:00,2012,4
+"HIMACHAL PRADESH",SOLAN,SOLAN,JAYAD,AGRICULTURE,Others,Others,8,"How much subsides in Poly House ?","Subsides in poly House are :80 %.",2012-04-26T06:46:00,2012,4
+"HIMACHAL PRADESH",KULLU,ANNI,KHARIF,HORTICULTURE,Fruits,1325,76,"how to control fruit fly in pomegranate.?","spray Monocrtophose@1ml/L of water.",2012-04-26T06:54:00,2012,4
+HARYANA,SONEPAT,"0   ",RABI,HORTICULTURE,Vegetables,1280,76,"control of thrips in chilli ?","spray to malathion @ 400 ml in 200 litres of water /acre .",2012-04-26T07:03:00,2012,4
+MAHARASHTRA,NASIK,"0   ",RABI,HORTICULTURE,Vegetables,1282,74,"INFORMATION REGARDING TO THE SOWING TIME OF BHINDI?","THE SOWING TIME OF[RAINY SEASON] BHINDI -: JUN.-JULY.",2012-04-26T07:13:00,2012,4
+HARYANA,JHAJJAR,"0   ",JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",5,"improved varities of cotton ?","rashi-134. rashi-138. rashi-317.",2012-04-26T07:13:00,2012,4
+RAJASTHAN,JALOR,"0   ",RABI,HORTICULTURE,Fruits,Grape,76,"PROBLME OF LEAF- MINAR IN   GRAPE  CROP","USE-MALATHIYON  50EC 1ML/LITERWATER BY SPRAY",2012-04-26T07:19:00,2012,4
+TAMILNADU,VILLUPPURAM,"0   ",JAYAD,AGRICULTURE,Cereals,1137,3,"stem borer control measure in paddy","spray quinalphos 2ml + neem oil 3ml / lit of water",2012-04-26T07:19:00,2012,4

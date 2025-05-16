@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+DELHI,"New Delhi (Connaught Place)","0   ",JAYAD,9999,0,9999,9999,"Test Call","Test Call",2009-10-21T08:31:35,2009,10
+KARNATAKA,BELGAUM,"0   ",JAYAD,9999,0,9999,9999,qty,"details given",2009-10-21T08:59:10,2009,10
+KARNATAKA,KOLAR,"0   ",JAYAD,9999,0,9999,9999,"rainfall data","details given",2009-10-21T09:04:56,2009,10
+KARNATAKA,DHARWAD,"0   ",JAYAD,9999,0,9999,9999,qty,"details given",2009-10-21T09:50:02,2009,10
+KARNATAKA,KOLAR,"0   ",JAYAD,HORTICULTURE,0,Ber,29,"Wrong Number","Wrong Number",2009-10-21T10:32:25,2009,10
+RAJASTHAN,BARMER,"0   ",KHARIF,HORTICULTURE,0,Ber,29,"Wrong Number","Wrong Number",2009-10-21T11:19:13,2009,10
+GUJARAT,Mehsana,"0   ",JAYAD,HORTICULTURE,0,Ber,29,"Wrong Number","Wrong Number",2009-10-21T11:20:19,2009,10
+GUJARAT,BHARUCH,"0   ",JAYAD,9999,0,9999,9999,"Asking about","Blank Call",2009-10-21T11:40:58,2009,10
+RAJASTHAN,DHAULPUR,"0   ",JAYAD,HORTICULTURE,0,Ber,29,"Wrong Number","Wrong Number",2009-10-21T12:10:13,2009,10
+KERALA,9999,"0   ",JAYAD,9999,0,9999,9999,"blank call","blank call",2009-10-21T12:26:44,2009,10

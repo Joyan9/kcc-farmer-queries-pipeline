@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+TAMILNADU,ERODE,AMMAPET,KHARIF,AGRICULTURE,Others,Others,15,"govt scheme subsidy availability","contact to block level ADA office",2013-01-29T19:47:00,2013,1
+"UTTAR PRADESH",RAEBARELI,"0   ",KHARIF,HORTICULTURE,Vegetables,1296,75,"blight control in potato","spray mancozeb 75% @ 2.0gm/lit of water",2013-01-29T19:50:00,2013,1
+"UTTAR PRADESH",BARABANKI,"SIRAULI GAUSPUR",KHARIF,AGRICULTURE,Oilseeds,"Indian rapeseed and mustard (yellow sarson)","	Plant Protection	","sarson ki fhali safed ho rahi hai","spray sulphur 80% @ 2gm/lit, of water",2013-01-29T19:50:00,2013,1
+"UTTAR PRADESH",SITAPUR,MAHMUDABAD,KHARIF,AGRICULTURE,Others,Others,Weather,"mausam jankari de","barsat ki sambhavana nahi hai",2013-01-29T19:51:00,2013,1
+"UTTAR PRADESH",SHAHJAHANPUR,TILHAR,KHARIF,AGRICULTURE,Others,Others,29,"neelgay paresan kar rahi hai","proper jankari di  gai",2013-01-29T19:51:00,2013,1
+GUJARAT,SURENDRANAGAR,"0   ",JAYAD,AGRICULTURE,Others,Others,29,"ask for the market informTION","provided all the information",2013-01-29T19:51:00,2013,1
+TAMILNADU,TIRUVANNAMALAI,CHENGAM,KHARIF,AGRICULTURE,"Sugar and Starch Crops","Sunnhemp (Patua)",3,"early shoot borer in sugarcane","spray chlorpyriphos  2 ml/lit of water",2013-01-29T19:52:00,2013,1
+"WEST BENGAL",JALPAIGURI,DHUPGURI,KHARIF,HORTICULTURE,Vegetables,1296,75,"LEAF YELLOWING IN POTATO","SPRAY MANCOZEB 75% WP @2.5GM/LIT. OF WATER",2013-01-29T19:52:00,2013,1
+GUJARAT,JAMNAGAR,JAMNAGAR,NA,HORTICULTURE,"Condiments and Spices",Cumin,0,pest,"profenophos 20ml/pump",2013-01-29T19:53:00,2013,1
+KARNATAKA,MANDYA,"0   ",NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",0,"Cotton which is 1 month crop,rangoli like pictures are seen on the leaves in many plants.No chemical was sprayed till now.","This is due to leaf roller insect.Spray Rogar @ 2 ml or Monocrotophos @ 1.5 ml/lt.water.",2013-01-29T19:54:00,2013,1

@@ -1,0 +1,21 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+NA,NA,NA,NA,HORTICULTURE,Fruits,Citrus,"Nutrient Management","Information regarding fertilizer doses in kinnow?
+","--ਕਿੰਨੂੰ ਦੇ ਬਾਗ ਵਿਚ ਪੋਟਾਸ਼ ਮਿੱਟੀ ਟੈਸਟ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪਾਓ,ਇਸ ਤੋਂ ਇਲਾਵਾ  ਸਿਫਾਰਸ਼ ਖਾਦਾਂ ਕਿੰਨੂੰ ਲਈ -(1-3 ਸਾਲ)-ਰੂੜੀ -10-30 kg,ਯੂਰੀਆ -240-730 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਬੂਟਾ ,(4-7 ਸਾਲ ) -ਰੂੜੀ 40-80 kg ,ਯੂਰੀਆ -960-1680 ਗ੍ਰਾਮ ਅਤੇ ਸੁਪਰ ਫਾਸਫੇਟ-1360-2400ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਬੂਟਾ ,(8ਸਾਲ ਜਾਂ ਉਪਰ)-ਰੂੜੀ -100 kg ,ਯੂਰੀਆ -1940 ਗ੍ਰਾਮ ਅਤੇ ਸੁਪਰ ਫਾਸਫੇਟ 2730 ਗ੍ਰਾਮ।ਸਾਰੀ ਰੂੜੀ ਖਾਦ ਦਸੰਬਰ ਮਹੀਨੇ ਵਿਚ ਪਾ ਦਿਓ। ਨਾਈਟਰੋਜਨ ਤੱਤ ਵਾਲੀ ਖਾਦ ਦਾ ਪਹਿਲਾ ਹਿਸਾ ਅਤੇ ਪੂਰੀ ਸੁਪਰਫਾਸਫੇਟ ਫਰਵਰੀ ਮਹੀਨੇ ਵਿਚ ਪਾ ਦਿਓ ਬਾਕੀ ਬਚੀ ਨਾਇਟਰੋਜਨ ਤੱਤ ਵਾਲੀ ਖਾਦ ਅਪ੍ਰੈਲ ਤੋਂ ਮਈ ਵਿਚ ਪਾਓ ।",2021-08-31T16:29:05.66,2021,8
+"UTTAR PRADESH",KHERI,NIGHASAN,NA,HORTICULTURE,Vegetables,Chillies,"	Plant Protection	","Information about the flower dropping problem in chili plant..?","श्रीमान जी मिर्च के पौधे में फूल को गिरने से बचाने के लिए प्लानोफिक्स 1 ml प्रति 4 लीटर पानी में  घोलकर छिड़काव करें |
+",2021-08-31T16:29:13.96,2021,8
+NA,NA,NA,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","Asked about pest management in paddy
+","suggested to spray chlorpyriphos 2ml/lit ",2021-08-31T16:29:17.797,2021,8
+"MADHYA PRADESH",VIDISHA,VIDISHA,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","मौसम विभाग के अनुसार आपके जिला विदिशा  में अगले 7 दिनों में हल्की बारिश होने की संभावना है और 7 दिनों तक हल्के बादल बने रहने की संभावना है और अगले तीन दिनों का अधिकतम तापमान 31°C और न्यूनतम तापमान 24°C बने रहने की संभावना है/शेओपुर 
+",2021-08-31T16:29:21.34,2021,8
+HARYANA,HISSAR,ADAMPUR,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","आप के जिले में आज हल्के बादल छाए रहेंगे और हलकी बरसात की संभावना  है,  अधिकतम तापमान 35 डिग्री सेल्सियस और न्यूनतम तापमान 24 डिग्री सेल्सियस और हवा की गति 11-17 किलोमीटर प्रति घंटा रहेगी ।
+",2021-08-31T16:29:31.493,2021,8
+HARYANA,HISSAR,ADAMPUR,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","आप के जिले में आज हल्के बादल छाए रहेंगे और हलकी बरसात की संभावना  है,  अधिकतम तापमान 35 डिग्री सेल्सियस और न्यूनतम तापमान 24 डिग्री सेल्सियस और हवा की गति 11-17 किलोमीटर प्रति घंटा रहेगी ।
+",2021-08-31T16:29:31.493,2021,8
+HARYANA,SIRSA,ODHAN,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","Information regarding how to control white fly, thrips  in cotton?
+","कपास की फसल में हरा तेला , चिट्टी मक्खी - मच्छर की रोकथाम के लिए आप 500  मिली मेटासिस्टोक्स (ऑक्सी डमेटन मैथिल ) 25 EC दवा + 500 एम एल निमिसिडीन या उलाला  50 EC (Flonicamid ) 80 ग्राम को 200  लीटर पानी में घोल बनाकर स्प्रे करे |
+",2021-08-31T16:29:37.127,2021,8
+NA,NA,NA,NA,"ANIMAL HUSBANDRY",Animal,"Bovine(Cow,Buffalo)","Animal Nutrition","Asking about need for azolla seeds","கேள்வி; அசோலா விதைகள் தேவை   பதில்; வேளாண்மை அறிவியல் நிலையம் போன்;04561-281759",2021-08-31T16:29:38.997,2021,8
+"ANDHRA PRADESH",KURNOOL,VELDURTHI,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Nutrient Management","farmer askrd about nutrient management in paddy","urea-30kgs
+murate of potash-15kgs for one acre",2021-08-31T16:29:40.603,2021,8
+"JAMMU AND KASHMIR",PULWAMA,PULWAMA,NA,HORTICULTURE,Fruits,Apple,"	Plant Protection	","GUMMOSIS ON APPLE TREE?
+","SPRAY COPPER OXYCHLORIDE  @ 3 GRAM PER LITRE OF WATER IN APPLE TREE TO CONTROL THE OOZINESS AND GUMMOSIS.",2021-08-31T16:29:41.557,2021,8

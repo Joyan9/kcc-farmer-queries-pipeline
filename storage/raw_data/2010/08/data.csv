@@ -1,0 +1,19 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+ODISHA,CUTTACK,"0   ",NA,AGRICULTURE,0,Others,29,"PREAPARATION OF LIQUID COMPOST.","ANSWER GIVEN IN DETAIL.",2010-08-17T15:19:00,2010,8
+"HIMACHAL PRADESH",KANGRA,"0   ",JAYAD,"ANIMAL HUSBANDRY",0,964,"Dairy Production","How to improve milk our buffalo ?","Apply ostacalcium @ 40-45 ml and minral mixture @ 30-35 gm / day.",2010-08-17T15:20:00,2010,8
+MAHARASHTRA,AHMADNAGAR,"0   ",NA,AGRICULTURE,0,Others,"Agriculture Mechanization","weather information.","Mostly Cloudy28°C.",2010-08-17T15:20:00,2010,8
+DELHI,9999,"0   ",JAYAD,AGRICULTURE,0,2763,3,"pls.tell me,any control of termite in paddy","you should apply,one liter chaloropirophose with irrigation/acre",2010-08-17T15:21:00,2010,8
+"WEST BENGAL",HOOGHLY,"0   ",JAYAD,HORTICULTURE,0,Rose,"Cultural Practices","CULTURAL PRACTICS IN ROSE","GIVE INFORMATION IN DETAIL",2010-08-17T15:22:00,2010,8
+UTTARAKHAND,DEHRADUN,"0   ",KHARIF,HORTICULTURE,0,Cabbage,75,"INFORMATIUON REGARDING CONTROL OF BLIGHT IN CABBAGE","SPRAY THE CROP WITH MANCOZEB 75 WP 2 2.5 GM/LITRE OF WATER.",2010-08-17T15:27:00,2010,8
+KARNATAKA,"BANGALORE RURAL","0   ",NA,HORTICULTURE,0,Others,87,"cultivaqtion practices for rose","given the information",2010-08-17T15:29:00,2010,8
+"UTTAR PRADESH",BALLIA,"0   ",JAYAD,AGRICULTURE,0,1818,3,"cowpea in insect control","apply monocrotophas @2ml/lit. of water spray kare",2010-08-17T15:36:00,2010,8
+RAJASTHAN,JAIPUR,"0   ",JAYAD,AGRICULTURE,0,1136,3,"BAJRA CROP AFFECTED BY TERMITE.","CHLORPYRIPHOS 20 EC 4 L/HEC.WITH IRRIGATION.",2010-08-17T15:42:00,2010,8
+MAHARASHTRA,NASIK,"0   ",JAYAD,HORTICULTURE,0,Others,Weather,"WEATHER REPORT.","TODAY:-Partly cloudy
+Feels Like: +33TODAY:-Partly cloudy
+Feels Like: +33°
+Barometer: 1001.9 hPa 
+Dewpoint: +23°
+Humidity: 66%
+Visibility: 4 km
+As of 17/08 02:30 pm
+Observed at Nasik",2010-08-17T15:44:00,2010,8

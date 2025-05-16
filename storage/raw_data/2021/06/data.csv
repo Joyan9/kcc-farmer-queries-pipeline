@@ -1,0 +1,21 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,KAITHAL,KAITHAL,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Nutrient Management","Information regarding how to control white /yellow leaf of paddy ?
+","--आप धान की पीली या सफेद पत्तियों  की रोकथाम के  लिए 5  ग्राम फेरस सल्फेट को प्रति लीटर पानी में  मिलाकर.छिड़काव करें ।
+",2021-06-01T08:57:16.757,2021,6
+"MADHYA PRADESH",JABALPUR,MAJHOULI,NA,AGRICULTURE,Pulses,"Black Gram (urd bean)","	Water Management	","farmer wants to know information about water management of black gram crop ?","किसान भाई उड़द की फसल में फूल और फल ली दोनों की स्थिति पर फसल है और खेत में नमी है तो आप अभी पानी ना दें I",2021-06-01T08:58:20.933,2021,6
+"UTTAR PRADESH",MAHOBA,KABRAI,NA,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"Information about Weather forecast of Block Kabrai in District Mahoba....?
+","महोदय आपके  यहाँ   01 जून से 06 जून तक जानकारी दे रहे है|,जिसमे आपके  यहाँ  प्रत्येक दिन हलकी  बूंदा  बांदी  होने  की  संभावना है|, लेकिन  आंशिक  रूप  से  बादल  छाये  रहेंगे|, आज  का  आपेक्षित  अधिकतम  तापमान  ( 32°C  और  न्यूनतम  तापमान  30°C और  हवा  की  गति  11  किलोमीटर  / घंटा  ) चलने  की  संभावना  है| , और  आप  मौसम के अनुसार कृषि कार्य को  करे |",2021-06-01T08:59:14.07,2021,6
+"JAMMU AND KASHMIR",JAMMU,BHALWAL,NA,AGRICULTURE,Millets,"Maize (Makka)","Market Information","Information regarding MSP of maize ?","किसान भाई मक्की का MSP 1850 रुपये / क्विंटल है। ",2021-06-01T09:06:01.357,2021,6
+"UTTAR PRADESH",AURAIYA,"ERWA KATRA",NA,AGRICULTURE,Pulses,"Black Gram (urd bean)","	Plant Protection	","Information about disease control in urd............?","-- सर आप इमिडाक्लोप्रिड 17.8% SL 80-100 ml /एकर 200 लीटर पानी में दवा का छिड़काव करे",2021-06-01T09:08:25.297,2021,6
+"UTTAR PRADESH",SHAHJAHANPUR,MIRZAPUR,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Government Schemes","information of proper timing for sowing Cauliflower ……?
+","महोदय आप  फूलगोभी   की  बुआई  अगेती  प्रजातियों  के  लिए  जून  के  दूसरे  सफ्ताह  से  जुलाई  के  पहले  सफ्ताह  तक  उपयुक्त होता  है  , जब  की  पछेती  प्रजातियों  की  बुआई  अक्टूबर  महीने  में  करे  |
+",2021-06-01T09:08:31.833,2021,6
+"MADHYA PRADESH",SHAHDOL,SOHAGPUR,NA,AGRICULTURE,Millets,"FingerMillet  (Ragi/Mandika)","Sowing Time and Weather","Farmer wants to know about seed rate and sowing time of finger millet crop?","बीजदर एवं बोने का उचित समय:-बीज दर 12-15 किलो प्रति हेक्टेयर रखते है। कतार पद्धति में दो कतारों के बीच की दूरी 22.5 से.मी. एवं पौधे से पौधे की दूरी 10 से.मी. रखे।
+सीधी बोआई जून के अंतिम सप्ताह से जुलाई मध्य तक |",2021-06-01T09:09:45.45,2021,6
+"MADHYA PRADESH",ASHOKNAGAR,MUNGAOLI,NA,AGRICULTURE,Others,Others,"Government Schemes","Farmer wants to know about procurement of grain at minimum support price at government level ? 
+","मध्य प्रदेश शासन द्वारा समर्थन मूल्य मैं खरीदी से संबंध की समस्या के लिए कमल सुविधा केंद्र समस्याओं के समाधान हेतु दूरभाष क्र. 0755-2558823 पर संपर्क करें या उपार्जन के काम से जुड़ी समस्या के समाधान के लिए राज्य स्तरीय कंट्रोल रूम बनाया गया है इसका नंबर 075 5 255 1471 है ।   
+",2021-06-01T09:11:00.423,2021,6
+"MADHYA PRADESH",SHAHDOL,SOHAGPUR,NA,AGRICULTURE,Millets,"FingerMillet  (Ragi/Mandika)","Fertilizer Use and Availability","Farmer wants to know information about fertilizer management in finger millet crop? 
+","रागी की फसल में उर्वरक - 52 किलो यूरिया 80 किलो सिंगल सुपर फासफेट 14 किलो म्यूरेट ऑफ पोटाश्यिम की मात्रा प्रति एकड़ में प्रयोग करें।
+",2021-06-01T09:12:40.513,2021,6
+"UTTAR PRADESH",MORADABAD,KUNDARKI,NA,HORTICULTURE,Vegetables,Tomato,"	Plant Protection	","information about insect control in Tomato..........?","कीट नियंत्रण के लये PROPARGITE 57% EC 300-400 ml /एकर 200 लीटर पानी में घोलकर स्प्रे करे",2021-06-01T09:13:08.813,2021,6

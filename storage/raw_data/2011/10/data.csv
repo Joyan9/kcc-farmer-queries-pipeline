@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+ODISHA,PURI,BRAHMAGIRI,NA,HORTICULTURE,Fruits,Coconut,75,"erophidmite disease of coconut","root feeding 7.5 ml neemajal+ water 7.5 ml/plant",2011-10-19T11:29:00,2011,10
+RAJASTHAN,NAGAUR,"0   ",KHARIF,HORTICULTURE,Vegetables,1279,99,"PROBLEM OF FLOWER- DROPING  IN  BRINJAL CROP","PLANO-FIX- 4ML/LITERWATER BY SPRAY",2011-10-19T11:30:00,2011,10
+KARNATAKA,KOPPAL,"0   ",NA,AGRICULTURE,Cereals,1576,2,"fruit rot","spray coper oxi chloride 1g/l",2011-10-19T11:33:00,2011,10
+KARNATAKA,MANDYA,"0   ",NA,AGRICULTURE,Cereals,2051,2,weeding,"spray anachlor 2g/l",2011-10-19T11:33:00,2011,10
+KARNATAKA,DHARWAD,"0   ",NA,HORTICULTURE,Fruits,1268,87,"improvement ot tree","spray bhoom flavour 1g/l",2011-10-19T11:33:00,2011,10
+KARNATAKA,HAVERI,"0   ",NA,HORTICULTURE,Fruits,Marigold,100,dosage,"apply dap",2011-10-19T11:33:00,2011,10
+KARNATAKA,BIDAR,"0   ",NA,HORTICULTURE,Vegetables,1279,95,weeding,"spray anachlor 1g/l",2011-10-19T11:33:00,2011,10
+"UTTAR PRADESH",BARABANKI,"0   ",KHARIF,HORTICULTURE,Vegetables,1279,75,"control of fruit borar?","apply metasistacs @1ml/lt of water spray",2011-10-19T11:34:00,2011,10
+"UTTAR PRADESH",BARABANKI,"0   ",KHARIF,AGRICULTURE,Pulses,"Peas (field peas/ garden peas/matar)",5,"var.of pea?","sapna,prakash,jai etc.",2011-10-19T11:34:00,2011,10
+GUJARAT,AMRELI,SAVERKUNDLA,JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",29,"asking asking about flower drop and white fly","suggested to spary NAA 3 ml + tryazophos 20 ml /pump",2011-10-19T11:34:00,2011,10

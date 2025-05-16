@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",AGRA,"0   ",JAYAD,HORTICULTURE,0,Turmeric,102,"planting distence of turmeric","45cm x 25cm",2010-07-23T14:19:00,2010,7
+"UTTAR PRADESH",SAHARANPUR,"0   ",JAYAD,HORTICULTURE,0,1282,76,"insect in okra.","phosphomidan @ 1.0 ml/lit of water ka spray karen.",2010-07-23T14:29:00,2010,7
+PUNJAB,HOSHIARPUR,"0   ",RABI,HORTICULTURE,0,1324,75,"INFORMATION REGARDIN CONTROL OF  LEAF CURL IN PAPAYA ?","I TOLD HIM TO SPRAY 250 ML.OF MALATHION IN 250 LITERS OF WATER/ACRE.",2010-07-23T14:30:00,2010,7
+TAMILNADU,TIRUVANNAMALAI,"0   ",KHARIF,AGRICULTURE,0,1137,3,"stem borer control measure in paddy","spray fipronil 20gm/ac",2010-07-23T14:35:00,2010,7
+GUJARAT,SABARKANTHA,"0   ",JAYAD,AGRICULTURE,0,"Groundnut (pea nut/mung phalli)",3,"Ask for the heliothis in groundnut.","prefer to spray quinalphose 20 ml /pump.",2010-07-23T14:35:00,2010,7
+TAMILNADU,PERAMBALUR,VEPPANTHATTAI,KHARIF,HORTICULTURE,0,Turmeric,"Fertilizer Use and Availability","Top dressing fertiliser management in turmeric","apply N, K at 25 and 18 kg/ha applied on 30, 60, 90, 120 and 150 days after planting.",2010-07-23T14:35:00,2010,7
+PUNJAB,MANSA,"0   ",RABI,HORTICULTURE,0,1280,76,"INFORMATION REGARDING CONTROL OF THRIPS IN CHILLI ?",NA,2010-07-23T14:36:00,2010,7
+"UTTAR PRADESH","SIDDHARTH NAGAR","0   ",JAYAD,"ANIMAL HUSBANDRY",0,964,"Disease Management","buffalo ne jair nahi dali ,24 hour ho gaye hai biyaye huye hongaye",NA,2010-07-23T14:36:00,2010,7
+"UTTAR PRADESH","KUSHI NAGAR","0   ",JAYAD,AGRICULTURE,0,1066,5,"arhar ki vari.","narendra arhar-1. 2. amar. bahar.",2010-07-23T14:38:00,2010,7
+RAJASTHAN,KARAULI,"0   ",JAYAD,HORTICULTURE,0,Aonla,99,"AONLA PLANTS ARE AFFECTED BY FLOWERS DROPING PROBLEM.","USE PLANOFIX 1 ML. PER 4 LITER WATER BY FOLIOR SPRAY.",2010-07-23T14:38:00,2010,7

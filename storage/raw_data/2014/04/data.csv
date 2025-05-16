@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+CHHATTISGARH,BASTAR,DARBHA,NA,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","How to control flower drop problem in brinjal crop","Spray Plano fix 4 to 5 Ml at 15 liter of water.",2014-04-13T18:18:07,2014,4
+ODISHA,GANJAM,RANGEILUNDA,NA,HORTICULTURE,Vegetables,"Ridge Gourd","	Plant Protection	","LEAF ROT & HOLE","APPLY TRIAZOPHUS 1ML/LITRE SPRAY",2014-04-13T18:18:44,2014,4
+MAHARASHTRA,BEED,"0   ",NA,HORTICULTURE,Vegetables,Tomato,"	Plant Protection	",blight?,"Spray M-45 30 gm/15 Lit of Water.",2014-04-13T18:19:06,2014,4
+"WEST BENGAL","WEST MEDINIPUR",GARBETA-III,RABI,AGRICULTURE,Cereals,"Paddy (Dhan)",Seeds,"ASKING FOR HYB PADDY USE AS A SEED.","NOT POSSIABLE USE AS A SEED.",2014-04-13T18:19:06,2014,4
+"MADHYA PRADESH",SEHORE,NASRULLAGANJ,NA,AGRICULTURE,Pulses,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",0,"HOW TO CONTROL SACCHARUM SPONTANIUM WEEDS FROM THE FIELD?","USE ONLY SUMMER DEEP PLOUGHING AND PICK THE RAZHIOMS FROM THE FIELD.",2014-04-13T18:19:17,2014,4
+TAMILNADU,TIRUPUR,Kundadam,RABI,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Field Preparation	","sugarcane cultivation practices details","explain the sugarcane cultivation practices details",2014-04-13T18:19:20,2014,4
+PUNJAB,MUKTSAR,MUKTSAR,NA,AGRICULTURE,Pulses,"Green Gram (Moong Bean/ Moong)",0,"INFORMATION REGARDING FOR CONTROL OF VARIETY OF MOONG ?","VARIETY OF MOONG ARE SML-832 AND ITS YIELD IS 4.6 Q/ACRE.",2014-04-13T18:20:28,2014,4
+MAHARASHTRA,NASIK,SINNAR,NA,HORTICULTURE,Vegetables,Tomato,"	Plant Protection	",variety?,"phule raja",2014-04-13T18:21:25,2014,4
+"MADHYA PRADESH",SINGRAULI,MAJHAULI,RABI,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),"	Plant Protection	","aphid control in bhindi ?","imedachloprid 7ml/pump",2014-04-13T18:21:35,2014,4
+"UTTAR PRADESH",GONDA,BABHANJOT,RABI,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","Fertilizer Use and Availability","ganne me khad ki jankari den","180-80-40 kilogram/hai ka prayog karen",2014-04-13T18:23:20,2014,4

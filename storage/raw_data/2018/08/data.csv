@@ -1,0 +1,13 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,JIND,UCHANA,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","information regardingh how to control fangle disease in cotton ?","information regardingh how to control fangle disease in cotton ?
+control are:-spray-stereptocyclien@6-8 gram+coc coper oxi cloried)@600-800 gram in 150-200 leetr water per acer.",2018-08-31T15:03:04.313,2018,8
+"UTTAR PRADESH","KANPUR CITY",GHATAMPUR,KHARIF,AGRICULTURE,Millets,"Sorghum (Jowar/Great Millet)","	Plant Protection	","control for stem borer in jowar crop ?","Cartap Hydrochloride 4 % GR 8 kilo/acre ka bhurkaw kren",2018-08-31T15:03:13.143,2018,8
+MAHARASHTRA,AMRAVATI,"NANDGAON KH",KHARIF,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast ?","This Week weather is cloudy,possiblity of light rainfall.",2018-08-31T15:03:19.85,2018,8
+HARYANA,BHIWANI,SIWANI,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","Information regarding control of whitefly. Jassid  in cotton ?","Spray 300 ml rogor (dimethoate 30 EC )OR  metasystoks(oxydemeton methyl 25 EC) + 1 Liter nimisidin  or bufrozin 25 SC @300 ml in 250 liter water per acre  or ulala @80 gram in 200 liter per acre .",2018-08-31T15:03:36.65,2018,8
+RAJASTHAN,BIKANER,"SRI DUNGARGARH",KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","RAIN POSSIBILITY IN NEXT 3-4 DAYS OR CLOUDY SKY",2018-08-31T15:04:04.25,2018,8
+MAHARASHTRA,NANDED,DHARMABAD,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","redenning in cotton","redenning in cotton -  spray d a p  magnessium sulfate",2018-08-31T15:04:16.76,2018,8
+RAJASTHAN,JALOR,SANCHORE,KHARIF,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?","RAIN POSSIBILITY IN NEXT 3-4 DAYS",2018-08-31T15:04:36.027,2018,8
+KARNATAKA,DAVANAGERE,HARAPPANAHALLI,NA,AGRICULTURE,Others,Others,Weather,"asked about weather  report","Precipitation 40%
+A thunderstorm in spots this evening; otherwise, rather cloudy",2018-08-31T15:04:41.64,2018,8
+"UTTAR PRADESH","SANT RAVIDAS NAGAR BHADOHI",AURAI,KHARIF,HORTICULTURE,Vegetables,Mushroom,"Cultural Practices","mushroom training information","priya madam mushroom ki kheti ke liye jila krishi vigyan kendra (0542–2635236) bhadohi par sampark kare",2018-08-31T15:04:58.223,2018,8
+GUJARAT,PATAN,HARIJ,NA,AGRICULTURE,Others,Others,"Market Information","Ask about Gernal information","all information provided - thanks for calling in kisan call centre",2018-08-31T15:05:28.74,2018,8

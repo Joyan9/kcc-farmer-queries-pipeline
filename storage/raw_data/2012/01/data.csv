@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,WARDHA,"0   ",NA,AGRICULTURE,Pulses,1066,3,"attack of gram pod borer","spray quinolphos 25 ml in 10 lts of water",2012-01-04T16:38:00,2012,1
+KARNATAKA,BELGAUM,"0   ",NA,AGRICULTURE,Oilseeds,"Soybean (bhat)","Fertilizer Use and Availability","fertilizer application","information given",2012-01-04T16:39:00,2012,1
+MAHARASHTRA,AKOLA,BALAPUR,NA,HORTICULTURE,Fruits,1324,99,"control of flower drop","spraying of planofix 5-6 ml/ 10 lit of water",2012-01-04T16:39:00,2012,1
+GUJARAT,AMRELI,"KUNKAVAV -VADIA",KHARIF,AGRICULTURE,Cereals,1075,1,"Asking for sowing in maize","Prfer sowing in june-July",2012-01-04T16:41:00,2012,1
+GUJARAT,VADODARA,DABHOI,KHARIF,HORTICULTURE,Fruits,Banana,75,"Asking for wilt in Banana","Suggested to spray Mancozeb 25-30gm/pump.",2012-01-04T16:41:00,2012,1
+MAHARASHTRA,BHANDARA,"0   ",KHARIF,HORTICULTURE,Vegetables,1280,75,"defoliation in chilli","Spraying of planofix 5 ml/ 10 lit of water",2012-01-04T16:42:00,2012,1
+KARNATAKA,MANDYA,"0   ",NA,AGRICULTURE,Oilseeds,"Sunflower (suryamukhi)","Fertilizer Use and Availability","fertilizer application","information given",2012-01-04T16:42:00,2012,1
+MAHARASHTRA,LATUR,"0   ",NA,HORTICULTURE,Vegetables,1289,78,"ask varieties","pusa dipali,pusa katki pusa snow ball etc",2012-01-04T16:44:00,2012,1
+HARYANA,REWARI,REWARI,KHARIF,AGRICULTURE,Cereals,Wheat,22,"HOW TO CONTROL WEEDS IN WHEAT CROP ?","SPRAY TO TOPIC @ 160 GM IN 200 LITER OF WATER / ACRE .",2012-01-04T16:48:00,2012,1
+MAHARASHTRA,AHMADNAGAR,"0   ",NA,HORTICULTURE,Vegetables,"Spinach (Palak)",78,"varities of spinach","pusa jyoti, rm",2012-01-04T16:48:00,2012,1

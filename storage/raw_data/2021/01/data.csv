@@ -1,0 +1,20 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",JHANSI,MOTH,NA,HORTICULTURE,Vegetables,"Pea (Vegetable)","	Plant Protection	","Give information about aphid insect problem in pea crop ?","श्रीमान जी मटर की फसल में मेलाथियान 5%  डीपी  5 किलोग्राम प्रति एकड़ प्रयोग करें |",2021-01-25T15:39:11.8,2021,1
+RAJASTHAN,CHITTAURGARH,NIMBAHERA,NA,HORTICULTURE,"Condiments and Spices",Garlic,"	Plant Protection	","TELL ME ABOUT INSECT CONTROL IN GARLIC ?
+","इमिडाक्लोप्रिड  17.8 एस.एल. 0.5 एम.एल. प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2021-01-25T15:39:48.68,2021,1
+HARYANA,SIRSA,SIRSA,NA,AGRICULTURE,Others,Others,"Government Schemes","Information regarding subsidies for UGPL Fram Machinery?
+","कृषि यंत्रों की सब्सिडीज की जानकारी के लिए लॉगिन करें www.agriharyanacrm.com. or contact 18001802117,0172 2521900, 0172-2571553,0172 - 2571544.",2021-01-25T15:40:46.07,2021,1
+HARYANA,KARNAL,INDRI,NA,AGRICULTURE,Cereals,Wheat,"Nutrient Management","Information regarding improved growth in wheat ?
+","गेहू  में वृदि के लिए आप  NPK (19:19:19) @1 किलोग्राम 100  लीटर पानी में मिलाकर स्प्रे करें !
+",2021-01-25T15:40:46.257,2021,1
+ODISHA,BHADRAK,TIHIDI,NA,HORTICULTURE,Vegetables,Tomato,"Cultural Practices","Cultivars of Tomato.","Cultivars of Tomato-VNR 3348,VNR 3335,VNR 3171,JULIE,DEVI.",2021-01-25T15:40:51.53,2021,1
+"UTTAR PRADESH",DEORIA,"PATHAR DEWA",NA,AGRICULTURE,Others,Others,"Government Schemes","TELL ME PM KISAN REGISTRATION STATUS INFORMATION ?
+","प्रधानमंत्री किसान सम्मान निधि योजना की आपकी चार किस्त आपके के बैंक खाते में आ चुकी है और पांचवी क़िस्त भी जल्दी आने वाली है. 01124300606
+",2021-01-25T15:41:10.03,2021,1
+MAHARASHTRA,SATARA,PHALTAN,NA,HORTICULTURE,Vegetables,Onion,"Agriculture Mechanization","FARMER ASKED ABOUT CAN SPRAY  SILICON & BORON  MIX WITH ISABION  ?","ईसबियॉन सोबत सिलिकॉन आणि बोरॉन मिक्स करून फवारणी करू शकता .",2021-01-25T15:42:14.613,2021,1
+RAJASTHAN,BARAN,CHHIPABAROD,NA,"ANIMAL HUSBANDRY",Animal,"Bovine(Cow,Buffalo)","Dairy Production","TELL ME ABOUT SUBSIDY ON DAIRY MILCH  ANIMALS  BY NABARD BANK
+","नाबार्ड बैंक के द्वारा डेयरी पशुओं पर 25 %(सामान्य वर्ग तथा OBC ) व् 33.33 %(SC ,ST ) वर्ग  के किसानो के लिए अनुदान दिया जा रहा है 
+",2021-01-25T15:42:27.343,2021,1
+"UTTAR PRADESH",RAMPUR,SHAHABAD,NA,AGRICULTURE,Cereals,Wheat,"Weed Management","Information about weed control in wheat of 70 days after sowing ?","आप गेहू की 70 दिन की फसल में खरपतवार नियंत्रण के लिए निराई करे |",2021-01-25T15:42:40.29,2021,1
+"WEST BENGAL",HOWRAH,JAGATBALLAVPUR,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","আগামী পাঁচ দিন বৃষ্টিপাতের কোনো সম্ভাবনা নেই, আকাশ সাধারণত আংশিক মেঘলা  থাকবে. আজকের প্রত্যাশিত সর্বোচ্চ তাপমাত্রা 25 ডিগ্রী সেলসিয়াস এবং সর্বনিম্ন তাপমাত্রা 14  ডিগ্রী সেলসিয়াস, এবং বাতাসের গতি 8  কিমি প্রতি ঘন্টা ",2021-01-25T15:43:32.38,2021,1

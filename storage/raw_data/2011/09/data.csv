@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+TELANGANA,WARANGAL,HASANPARTHY,NA,HORTICULTURE,Vegetables,1280,0,"control of flower droping in chilli","spraying planopix 2.5ml/10 lit water",2011-09-29T11:06:00,2011,9
+GUJARAT,JAMNAGAR,"0   ",JAYAD,HORTICULTURE,"Condiments and Spices",Fennel,74,"Asking fennel sowing time",NA,2011-09-29T11:07:00,2011,9
+KERALA,9999,"0   ",NA,HORTICULTURE,Vegetables,2114,0,"hormone application of cucumber","details given",2011-09-29T11:10:00,2011,9
+KERALA,9999,"0   ",NA,HORTICULTURE,Flowers,Anthurium,0,"Contact number of state horticulture mission","Details given",2011-09-29T11:10:00,2011,9
+DELHI,9999,"0   ",NA,HORTICULTURE,Fruits,Guava,76,"Pest attack in Guava","Spray 2 ml Metasistox in  1l of water",2011-09-29T11:11:00,2011,9
+"UTTAR PRADESH",GHAZIABAD,"0   ",JAYAD,AGRICULTURE,Pulses,"Black Gram (urd bean)",3,"urd ki leaf insect kha rahe hai","spray monocrotophas @ 2ml/lit of water",2011-09-29T11:15:00,2011,9
+KARNATAKA,GULBARGA,"0   ",NA,AGRICULTURE,Others,Others,29,"seed production companies","information given",2011-09-29T11:19:00,2011,9
+KARNATAKA,RAICHUR,"0   ",NA,HORTICULTURE,Vegetables,1280,75,"leaf curl","spray confidor 0.5ml/lt",2011-09-29T11:19:00,2011,9
+HARYANA,FARIDABAD,BALLABGARH,KHARIF,AGRICULTURE,Cereals,Wheat,1,"the sowing time of wheat crop ?","the sowing time of wheat crop is 25 oct - 15 nov.",2011-09-29T11:23:00,2011,9
+GUJARAT,RAJKOT,JASDAN,JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",29,"Asking defficiency of Megnesium in cotton","Spray MgSO4 25gm/pmp",2011-09-29T11:24:00,2011,9

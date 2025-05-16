@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,LATUR,"0   ",NA,HORTICULTURE,0,1296,78,"varities of potato.","kufri-sindhuri,chandramukhi,lavakar are the varities of potato.",2010-10-12T07:34:00,2010,10
+"JAMMU AND KASHMIR",GANDERBAL,"0   ",KHARIF,HORTICULTURE,0,Others,74,"WHICH VEGETABLES ARE SOWN AT THIS TIME?","SOWN ROUND RADISH, CARROT, SPINACH, PEA ETC ARE SOWN AT THIS TIME.",2010-10-12T07:34:00,2010,10
+"UTTAR PRADESH",BARABANKI,DARIYABAD,KHARIF,AGRICULTURE,0,"Peas (field peas/ garden peas/matar)",5,"PEA VARIETY BATAO.","ARKIL,BONBILE,AZAD PEA-3.",2010-10-12T07:36:00,2010,10
+"MADHYA PRADESH",KATNI,"0   ",JAYAD,AGRICULTURE,0,2763,3,"how to control aphid in paddy?",NA,2010-10-12T07:38:00,2010,10
+KERALA,IDUKKI,"0   ",NA,HORTICULTURE,0,Mushroom,87,"What is the optimum humidity and temperature fopr sucessful spawn running phase of oyster mushrooms","The best temperature and humidity for spawn running ranges from 28-30ºC and 80-85%, respectively.",2010-10-12T07:39:00,2010,10
+"UTTAR PRADESH",DEORIA,"0   ",JAYAD,AGRICULTURE,0,Others,29,"KCC Banwana chahte hai",NA,2010-10-12T07:49:00,2010,10
+"UTTAR PRADESH",SULTANPUR,"0   ",JAYAD,AGRICULTURE,0,1137,3,"dhan me gandhi kiet laga hai","apply to mailathiyane 5% 25 kg / hac .",2010-10-12T07:55:00,2010,10
+"UTTAR PRADESH",GHAZIPUR,"0   ",JAYAD,AGRICULTURE,0,1136,3,"insect control in bajra ?","apply to furadane 3g 25kg / hac.",2010-10-12T07:55:00,2010,10
+RAJASTHAN,HANUMANGARH,"0   ",JAYAD,HORTICULTURE,0,1285,78,"TELL ME VARITIES OF GARLIK","G-282,G-41,G-50",2010-10-12T08:00:00,2010,10
+RAJASTHAN,NAGAUR,"0   ",JAYAD,AGRICULTURE,0,"Indian rapeseed and mustard (yellow sarson)",5,"TELL ME VARITIES OF MUSTARD","T-59,PUSA BOLD,BIO-902,LAXMI,KRANTI",2010-10-12T08:00:00,2010,10

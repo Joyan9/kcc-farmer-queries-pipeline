@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+RAJASTHAN,BARAN,"0   ",KHARIF,AGRICULTURE,Cereals,Wheat,"	Plant Protection	","TELL ME TERMITE CONTROL IN WHEAT","APPLIED CHLORPYRIPOS 20EC 1LTR/BHIGA WITH IRRIGATION",2012-03-07T17:55:00,2012,3
+"HIMACHAL PRADESH",HAMIRPUR,BIJHRI,KHARIF,AGRICULTURE,Cereals,Wheat,2,"How to control yellow rust of wheat ?","spray tilt@200ml/100litres of water.",2012-03-07T17:57:00,2012,3
+"ANDHRA PRADESH",SRIKAKULAM,"0   ",NA,AGRICULTURE,Pulses,"Black Gram (urd bean)",0,"asked about market rates","given information as per the net",2012-03-07T18:03:00,2012,3
+BIHAR,SAHARSA,"0   ",RABI,HORTICULTURE,Vegetables,Tomato,75,"LEAF CURL IN TOMATO.","SPRAY METASISTOX @ 1.5ML./LIT.OF WATER.",2012-03-07T18:03:00,2012,3
+UTTARAKHAND,9999,"0   ",NA,AGRICULTURE,Oilseeds,"Indian rapeseed and mustard (yellow sarson)",3,"Lahi me keeda lag raha hai?","Spary Imidachloprid 17.8 sl @.5 ml/ltr of water",2012-03-07T18:04:00,2012,3
+"MADHYA PRADESH",DAMOH,PATHARIYA,KHARIF,AGRICULTURE,Pulses,"Peas (field peas/ garden peas/matar)",3,"how to control aphid in pea crop?","apply meta systoc 30 ml/pump for it control.",2012-03-07T18:06:00,2012,3
+"UTTAR PRADESH",BAGHPAT,BAGHPAT,KHARIF,HORTICULTURE,Vegetables,1279,76,"how to contrl white fly in brinjal crop?","you can apply methyl demeton 30 ml/pump for it control.",2012-03-07T18:10:00,2012,3
+"MADHYA PRADESH",BHIND,GOHAD,RABI,AGRICULTURE,"Sugar and Starch Crops","Sunnhemp (Patua)","Fertilizer Use and Availability","WHAT ARE THE FERTILIZER DOSE OF SUGERCANE?","APPLY N P K @ 250 KG NITROGEN 120 KG P, AND 100 KG K,",2012-03-07T18:44:00,2012,3
+"WEST BENGAL","EAST MEDINIPUR","0   ",KHARIF,AGRICULTURE,Cereals,1137,3,"CONTROL OF STEM BORER IN PADDY","SPRAY MONOCROTOPHOS @ 2 ML/LIT. OF WATER",2012-03-07T18:45:00,2012,3
+"HIMACHAL PRADESH",SOLAN,SOLAN,KHARIF,AGRICULTURE,Cereals,Wheat,2,"How to control yellow rust of wheat ?","spray tilt@200ml/100litres of water.",2012-03-07T18:56:00,2012,3

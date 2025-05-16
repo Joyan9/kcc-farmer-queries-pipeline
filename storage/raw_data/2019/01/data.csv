@@ -1,0 +1,17 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+RAJASTHAN,JHALAWAR,JHALRAPATAN,NA,AGRICULTURE,Others,Others,Weather,"TELL ME ABOUT WEATHER INFORMATION ?
+","NO RAIN POSSIBILITY IN NEXT 5 DAYS  BUT CLOUDY SKY
+",2019-01-29T12:19:14.357,2019,1
+GUJARAT,Botad,BOTAD,NA,HORTICULTURE,Fruits,Citrus,"Cultural Practices","Ask  about general information	","suggested : All information provided  thanks for calling in kisan call center	",2019-01-29T12:19:25.26,2019,1
+TAMILNADU,ARIYALUR,ARIYALUR,NA,HORTICULTURE,Fruits,Mango,"Nutrient Management","Asking about Mango foliar application	","Recommended for spray potassium nitrate 5gm / lit	",2019-01-29T12:20:31.763,2019,1
+MAHARASHTRA,BULDANA,CHIKHLI,NA,AGRICULTURE,Pulses,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Fertilizer Use and Availability","FARMER ASKED ABOUT FLOWER DROPS OF GRAM ?","Spray Plano fix 5ml/15 Lit of Water.(NAA).
+",2019-01-29T12:20:45.227,2019,1
+"ANDHRA PRADESH",KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION :"," CLOUDY WEATHER",2019-01-29T12:23:16.41,2019,1
+RAJASTHAN,NAGAUR,JAYAL,NA,AGRICULTURE,0,0,"Market Information","TELL ME PEST CONTROL OF CUMIN","25/01/2019Mandi  : NagaurCommodity : Isabgul (Psyllium)(Modal Price): 8000/Quintal",2019-01-29T12:23:19.95,2019,1
+RAJASTHAN,BARMER,SINDHARI,NA,HORTICULTURE,"Condiments and Spices",Cumin,"Nutrient Management","TELL ME NUTRIENT MANAGEMENT  IN CUMIN ?","SPRAY SOLUBLE NPK  18:18:18 GRADE 10 GM/LTR WATER 
+",2019-01-29T12:23:20.683,2019,1
+"ANDHRA PRADESH",KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION :"," CLOUDY WEATHER
+",2019-01-29T12:23:30.09,2019,1
+"HIMACHAL PRADESH",UNA,HAROLI,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather forecast?
+","In your district  weather is  cloudy but no chances of rainfall.",2019-01-29T12:23:40.34,2019,1
+"WEST BENGAL",MURSHIDABAD,JALANGI,NA,HORTICULTURE,Vegetables,Onion,"	Plant Protection	","ASKING ABOUT THE CONTROL OF THRIPS IN ONION","RECOMMENDED FOR SPRAY   DIMETHOATE 30% EC @ 2 ML  / LIT OF WATER. ",2019-01-29T12:23:57.517,2019,1

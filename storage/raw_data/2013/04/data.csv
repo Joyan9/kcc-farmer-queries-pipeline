@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,SOLAPUR,MANGALVEDHE,NA,FISHERIES,Marine,Marine,"Deep Sea Fishing and Processing","FISH BREEDS","ROHU, KATLA",2013-04-30T10:22:03,2013,4
+GUJARAT,SURAT,SURATCITY,RABI,AGRICULTURE,"Fodder Crops",Other,0,"Ask for Green-House",Info-Provided,2013-04-30T10:22:07,2013,4
+MAHARASHTRA,SANGLI,KADEGAON,KHARIF,HORTICULTURE,Flowers,Marigold,0,"WHITE FLY","SPRAY TATA MANIK",2013-04-30T10:22:12,2013,4
+TAMILNADU,TIRUVANNAMALAI,ARANI,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)","Fertilizer Use and Availability","paddy basal fertilizer","ANS : apply DAP 50 kg /ac",2013-04-30T10:22:51,2013,4
+MAHARASHTRA,RATNAGIRI,RAJAPUR,RABI,HORTICULTURE,Vegetables,1282,"	Plant Protection	","Wilt ?","Drenching of Redomil 25 gm + Humic Acid 30 ml / pump",2013-04-30T10:23:16,2013,4
+"UTTAR PRADESH",MAU,PARDAHA,NA,AGRICULTURE,Cereals,Wheat,0,"gehu ka sarkari rate kya hai",1350/ku.,2013-04-30T10:23:37,2013,4
+MAHARASHTRA,NASIK,NIPHAD,JAYAD,HORTICULTURE,Fruits,Pomegranate,"	Plant Protection	","Pomegranet-White grub","Chloropyriphos 20ml + carbondazim 20gm / 10 lit
+Humic Acid 20ml/10lit",2013-04-30T10:23:50,2013,4
+ODISHA,BALANGIR,DEOGAON,NA,AGRICULTURE,Oilseeds,"Sunflower (suryamukhi)","	Plant Protection	","LEAF EATING CATERPILLAR","CHLOROPYRIPHOS 2ml/lt",2013-04-30T10:23:51,2013,4
+"MADHYA PRADESH",BETUL,BETUL,RABI,AGRICULTURE,Pulses,"Green Gram (Moong Bean/ Moong)","	Plant Protection	","how to control sucking pest in crop?",":-apply acetamiprid @ 7.5 ml per pump",2013-04-30T10:24:04,2013,4
+RAJASTHAN,BHARATPUR,KAMAN,JAYAD,AGRICULTURE,Others,Others,0,"TEL ME COST OF SOIL TEST.","5 RS / TEST.",2013-04-30T10:24:12,2013,4

@@ -1,0 +1,16 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+KARNATAKA,"BANGALORE RURAL",DEVANHALLI,NA,AGRICULTURE,Others,Others,0,"weather report","Chance of T-storms
+Chance of
+Precipitation
+40%
+Thursday, 20",2013-06-19T07:52:38,2013,6
+MAHARASHTRA,SATARA,PHALTAN,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)",0,"sugarcane fertilizers","urea+ssp+mop+zn,fe,mg+nim",2013-06-19T07:52:45,2013,6
+PUNJAB,BHATINDA,RAMPURA,NA,AGRICULTURE,Cereals,"Paddy (Dhan)",0,"information regarding to fertilizer application  after transplanting rice","110 kg urea,27 kg dap or75 kg ssp,20 kg potash /acre  in rice",2013-06-19T07:53:43,2013,6
+MAHARASHTRA,AURANGABAD,KHULTABAD,JAYAD,AGRICULTURE,Millets,"Maize (Makka)",0,fertilizer,"15:15:15+ &#2351;&#2370;&#2352;&#2367;&#2351;&#2366;",2013-06-19T07:53:55,2013,6
+"MADHYA PRADESH",SEHORE,NASRULLAGANJ,JAYAD,AGRICULTURE,Others,Others,Weather,"weather condition of sehore ?","6 mm rain fall may chance weather condition of sehore",2013-06-19T07:54:12,2013,6
+HARYANA,KARNAL,INDRI,JAYAD,AGRICULTURE,Others,Others,0,"&#2350;&#2380;&#2360;&#2350; &#2325;&#2375; &#2348;&#2366;&#2352;&#2375; &#2350;&#2375;&#2306; &#2332;&#2366;&#2344;&#2325;&#2366;&#2352;&#2368;","&#2350;&#2380;&#2360;&#2350; &#2325;&#2375; &#2348;&#2366;&#2352;&#2375; &#2350;&#2375;&#2306; &#2332;&#2366;&#2344;&#2325;&#2366;&#2352;&#2368;
+&#2350;&#2379;&#2360;&#2350; &#2357;&#2367;&#2349;&#2366;&#2327; &#2325;&#2375; &#2309;&#2344;&#2369;&#2360;&#2366;&#2352; &#2348;&#2352;&#2360;&#2366;&#2340; &#2325;&#2375; &#2325;&#2379;&#2312; &#2310;&#2360;&#2366;&#2352; &#2344;&#2361;&#2368;&#2306; &#2361;&#2376; &#2348;&#2366;&#2342;&#2354; &#2331;&#2366;&#2319; &#2352;&#2361;&#2375;&#2306;&#2327;&#2375;&#2404;",2013-06-19T07:55:57,2013,6
+PUNJAB,BHATINDA,PHUL,NA,AGRICULTURE,Pulses,8687,0,"information regarding to suitable varieties  of guar","H.g.-365,ageta guara-112,guara-80--varieties of guar",2013-06-19T07:57:27,2013,6
+RAJASTHAN,JAIPUR,BASSI,NA,AGRICULTURE,Oilseeds,"Groundnut (pea nut/mung phalli)","	Plant Protection	","tell me vraeties of groundnut","vraeties of groundnut m 13 , hng 69 , hng 10 , ichg 00440",2013-06-19T07:57:51,2013,6
+MAHARASHTRA,JALGAON,PACHORA,JAYAD,AGRICULTURE,Millets,"Sorghum (Jowar/Great Millet)","	Plant Protection	","Herbiside ?","2,4 d sodium shar 1.25-1.6 lit/ha",2013-06-19T07:58:09,2013,6
+"UTTAR PRADESH",HARDOI,SURSA,RABI,HORTICULTURE,"Medicinal and Aromatic Plants",Mentha,"	Plant Protection	","MENTHA ME GHAS HO GAYA HAI","targa super 400ml/acre  200liter pani ke satha spray karana haI",2013-06-19T07:58:14,2013,6

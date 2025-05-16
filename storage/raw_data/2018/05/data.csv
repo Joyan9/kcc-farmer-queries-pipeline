@@ -1,0 +1,16 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH","GAUTAM BUDDHA NAGAR",DANKAUR,JAYAD,HORTICULTURE,Vegetables,"Bottle Gourd ","Cultural Practices","black spot in bottle gourd.","ap carbendazim 12% maincozeb 63% 2 gram /liter paani me ghol banaakar chhidkav kare .",2018-05-19T06:30:51.603,2018,5
+"UTTAR PRADESH",MAINPURI,KARHAL,JAYAD,AGRICULTURE,Others,Others,Weather,"Asking about weather information ?","????? ??? 24 ?? ?? ???? ??? ????? ????? ?? ??? ???????? ???? ??,????? ????? ???? ?? ???? ??.",2018-05-19T06:32:12.34,2018,5
+TAMILNADU,VILLUPPURAM,KALLAKKURICHI,RABI,AGRICULTURE,Others,Others,"Nutrient Management","Asked about black gram villupuram market rate","Recommended for black gram villupuram market rate  Rs.4569/quintal",2018-05-19T06:33:06.51,2018,5
+MAHARASHTRA,SOLAPUR,MADHA,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast??","This week weather is CLOUDY NO Possibility of rainfall",2018-05-19T06:34:29.887,2018,5
+"UTTAR PRADESH",RAMPUR,SAIDNAGAR,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)",Weather,"Please give me weather information?","Aapke yahan 20 May se 24 May  tak barish hone ki sambhawna nhi hain",2018-05-19T06:37:52.077,2018,5
+ODISHA,DHENKANAL,GONDIA,NA,AGRICULTURE,Others,Others,Weather,"RAINFALL DATA OF GONDIA,DHENKANAL","RAINFALL DATA OF GONDIA,DHENKANAL
+19/05/18-1.8MM
+20/05/18-0MM
+21/05/18-0MM
+22/05/18-0MM
+23/05/18-6.2MM",2018-05-19T06:38:37.817,2018,5
+BIHAR,KISHANGANJ,KISHANGANJ,NA,AGRICULTURE,Others,Others,Weather,"WEATHER INFORMATION","Cloudy weather in your area,but no chance of rain.",2018-05-19T06:39:32.083,2018,5
+"UTTAR PRADESH",BALRAMPUR,"REHERA BAZAAR",JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Termite control in sugarcane?","kisan bhai aap ganna me Chlorpyriphos 20% EC 1 liter/acre ki dar se sichai ke pani ke sath bund bund kar prayog kare",2018-05-19T06:42:44.847,2018,5
+"UTTAR PRADESH",BAREILLY,"AALAMPUR JAFARABAD",JAYAD,AGRICULTURE,Others,Others,Weather,"ASKED ABOUT WEATHER FORECASTING ?","Kisan Bhai This week you are likely to have a clear weather",2018-05-19T06:43:52.22,2018,5
+"UTTAR PRADESH",VARANASI,BARAGAON,JAYAD,AGRICULTURE,Others,Others,Weather,"Information about weather condition...?","There will be cloudy weather and no possibility of rain till 24 May , High wind speed may occur",2018-05-19T06:45:33.603,2018,5

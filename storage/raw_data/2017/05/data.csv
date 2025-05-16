@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,JIND,UCHANA,KHARIF,AGRICULTURE,Others,Others,Weather,"Information regarding weather in jind ?","Some clouds and no chance of rain fall today.",2017-05-14T06:11:50.527,2017,5
+BIHAR,BEGUSARAI,"CHERIA BARIARPUR",RABI,HORTICULTURE,Fruits,Papaya,"	Plant Protection	","insect  in papaya","dusting malathion 5%",2017-05-14T06:16:16.323,2017,5
+"UTTAR PRADESH",BAREILLY,DAMKHAUDA,JAYAD,AGRICULTURE,Cereals,"Paddy (Dhan)","Weed Management","weed control in the paddy...?","Pretilachlor 50% EC,400-500ml/acre 140 litar pani me spre kre",2017-05-14T06:22:40.85,2017,5
+ODISHA,BAUDH,KANTAMAL,NA,HORTICULTURE,Vegetables,"Bitter Gourd","	Plant Protection	","FRUIT FLIES IN BITTER GOURD","RECOMMENDED TO APPLY POISON BAIT OF GUR 100 GRAM+ ROTTED BANANA(3-4) + DICHLOROVOS 76EC(NUVAN/DIVAP) 10 ML PER 5 LITRE WATER TO CONTROL FRUIT FLIES IN BITTER GOURD",2017-05-14T06:23:22.543,2017,5
+PUNJAB,MANSA,BUDHLADA,NA,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"information regarding weather forecasting?","weather is clear and no chances of rainfall today",2017-05-14T06:24:09.147,2017,5
+MAHARASHTRA,PUNE,JUNNAR,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather forecast?","This week weather is Partly cloudy and no Possibility of Rainfall.",2017-05-14T06:25:26.36,2017,5
+RAJASTHAN,AJMER,MASOODA,KHARIF,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",Varieties,"TELL ME VARIETY OF BT COTTON ?","VARIETY OF BT COTTON = TULSI-4,TULSI-118, MRCH 7017, MRCH 6304, ANKUR 3028, BIO SEED 6488",2017-05-14T06:28:24.88,2017,5
+HARYANA,KARNAL,NILOKHERI,KHARIF,AGRICULTURE,Pulses,"Green Gram (Moong Bean/ Moong)",Weather,"Information regarding HAU Helpline No.?","H.A.U. Helpline no.  1800-180-3001contect :-Monday ,Wednesday,and Friday (10  am to 12 am)",2017-05-14T06:32:29.36,2017,5
+MAHARASHTRA,PUNE,JUNNAR,NA,HORTICULTURE,Vegetables,Tomato,"	Plant Protection	","asked about attack blight on tomato?","Spray Tilt 07 ml /15 Liter of Water(Propiconyazol 25%EC)-Syngenta",2017-05-14T06:32:45.91,2017,5
+HARYANA,KARNAL,ASSANDH,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather in ?","some clouds and no chance of rainfall today.",2017-05-14T06:34:24.677,2017,5

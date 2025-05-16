@@ -1,0 +1,19 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+MAHARASHTRA,LATUR,UDGIR,NA,HORTICULTURE,"Plantation Crops","Sandal Wood","Seeds and Planting Material","Farmer asked about Sandal wood cultivation ?","शेतामध्ये चंदन लागवड करायची असल्यास वनविभाग कार्यालयामध्ये जाऊन परवानगी घ्यावी लागेल आणि लागवडीसाठी लागणारी रोपे सुद्धा आपल्याला त्याच विभागांमध्ये उपलब्ध होतील धन्यवाद.",2022-11-22T15:31:11,2022,11
+RAJASTHAN,BIKANER,Khajuwala,NA,AGRICULTURE,Cereals,"Barley (Jau)",Varieties,"ASKED ABOUT TO VARIETIES OF BARLEY ?","जो की किस्में -RD-2052,2035,2552 ज्योति, (RD 2786, RD 2794 लवणता सहिष्णुता)",2022-11-22T15:31:12.233,2022,11
+RAJASTHAN,BARMER,CHOHTAN,NA,AGRICULTURE,Others,Others,"Market Information","ASKED ABOUT TO CONTACT NUMBER OF RAJ SEED ?
+","राजस्थान स्टेट सीड कॉरपोरेशन पंत कृषि भवन जयपुर मुख्यालय- 0141-2227513 / 2227317
+",2022-11-22T15:31:13.013,2022,11
+"HIMACHAL PRADESH",SHIMLA,RAMPUR,NA,HORTICULTURE,Fruits,"Kiwi Fruit","Vegetative Propagation and Tissue Culture","Information regarding varieties of Kiwi?
+","कीवी फल मे नर व मादा दो प्रकार की किस्में होती है। अधिकतर एलीसन, मुतवा और तमूरी नर किस्में बाग मे लगाई जाती है। एवोट, एलीसन ब्रूनों, हैवर्ड और मोन्टी मुख्य मादा किस्में है। इनमें हैवर्ड न्यूजीलैण्ड की सबसे अधिक उन्नत किस्में है। एलीसन व मोन्टी जिसकी मिठास सबसे अधिक है उपयुक्त पाई गई है।",2022-11-22T15:31:36.647,2022,11
+TAMILNADU,TIRUVANNAMALAI,THURINJAPURAM,NA,HORTICULTURE,Vegetables,Chillies,"Cultural Practices","asked about sowing season of chilli and ribbed gourd","கேள்வி: மிளகாய் மற்றும் பீர்க்கங்காய் விதைப்பு பருவம் பற்றிய தகவல் பதில்: மிளகாய் ஜனவரி - பிப்ரவரி வரை விதைக்கலாம். பீர்க்கங்காய் ஜூலை மற்றும் ஜனவரியில் விதைக்கலாம்.",2022-11-22T15:31:45.007,2022,11
+"UTTAR PRADESH",BARABANKI,"SIRAULI GAUSPUR",NA,AGRICULTURE,Cereals,Wheat,Varieties,"tell me information about variety of wheat ?","श्रीमान जी  गेहू की प्रजातियां  - P.B.W. - 550, W.H. - 542, D.B.W. - 110, D.B.W. - 107, C.B.W. - 38, D.B.W. - 17, H.U.W. - 468, H.D. - 3118, H.D. - 2967, Raz - 3777, P.B.W. - 343, U.P. - 2338",2022-11-22T15:31:46.21,2022,11
+"ANDHRA PRADESH",KRISHNA,GUDLAVALLERU,NA,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"Farmer asked query on Weather"," CLOUDY WEATHER,CHANCE OF SHOWERS IN YOUR AREA 
+మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2022-11-22T15:32:30.137,2022,11
+"UTTAR PRADESH",ALIGARH,BIJAULI,NA,AGRICULTURE,Others,Others,"Government Schemes","give information about application status in PM Kisan Samman Nidhi yojana ?","श्रीमान जी प्रधानमंत्री किसान सम्मान निधि योजना में आपका आवेदन हो चुका है और आपके खाते में 2000  रुपया की 7 किस्त ट्रांसफर कर दी गई हैं आपके आवेदन में भूमि का विवरण सीडेड नहीं है आप लेखपाल साहब जी से या ब्लॉक में राजकीय बीज भंडार प्रभारी जी या जनपद के उप कृषि निदेशक जी से संपर्क करें",2022-11-22T15:32:45.067,2022,11
+RAJASTHAN,CHURU,SUJANGARH,NA,HORTICULTURE,Fruits,Lemon,"	Plant Protection	","ASKED ABOUT TO INSECT CONTROL IN  LEMON ?
+","दीमक की रोकथाम के लिये क्लोरोपायरिफॉस 20%  ई.सी. 40  एम एल प्रति पौधा की दर से सिंचाई के साथ देवें।
+",2022-11-22T15:34:10.21,2022,11
+RAJASTHAN,JHALAWAR,"PIRAWA (SUNEL)",NA,AGRICULTURE,Cereals,Wheat,"Sowing Time and Weather","FARMER ASKED  ABOUT SOWING TIME OF WHEAT ?
+","गेहूं कि समय पर बुवाई 5 नवंबर से 25 नवंबर तक करें तथा पछेती बुवाई 25 नवंबर से 15 दिसंबर तक करें ",2022-11-22T15:34:25.17,2022,11

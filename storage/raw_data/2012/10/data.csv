@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",HARDOI,TODARPUR,JAYAD,AGRICULTURE,Cereals,"Oats ",2,"cane me uktha laga hai","Disease resistande variety boye",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",BADAUN,ASAFPUR,NA,HORTICULTURE,Fruits,Bail,75,"Bel ka Fruit  Sukh Jata hai","Bavesteen 2.0 gm/liter pani me mela karke spary kare",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",SAHARANPUR,DEOBAND,JAYAD,AGRICULTURE,Cereals,1137,3,"Dhan me tetali lagi hai","Qunalphas 25 EC 1.25 Liter dava  ko 700  liter pani me mela karke/Hectare spary kare",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",MAINPURI,BEWAR,JAYAD,AGRICULTURE,Cereals,1137,3,"Dhan me keeda laga hai","Maillatheyasn powder 5% 25 kg/hectare burkav kare",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",SITAPUR,REUSA,JAYAD,AGRICULTURE,Cereals,1137,3,"Dhah meGhandi Lagi hai","Maillteyan 50 EC 1.5 liter dava ko 700 liter pani me mela karke /Hectarwe spary kare",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",HARDOI,SHAHABAD,JAYAD,AGRICULTURE,Cereals,1137,3,"Bhura Fudka laga hai","Dia chlorowash 76EC 1.0 Ml / liter pani me mdela karke spary kare",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",VARANASI,HARAHUA,NA,AGRICULTURE,Others,Others,29,"Fish palan ki jankari","All infarmation de gyi",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",PRATAPGARH,KUNDA,JAYAD,AGRICULTURE,Cereals,1137,3,"Dhan  me patti lapetak laga hai","Nuvan 76EC 1.5 Ml/ liter pani me mela karke spary kare    OR  Fenwelrate  .04% 25 kg/hectare burkav kare",2012-10-01T06:10:00,2012,10
+"UTTAR PRADESH",JAUNPUR,"BADLA PUR",NA,AGRICULTURE,Cereals,1137,"	Plant Protection	","dhan ki patti pili pad rahi hai.","Spray of hexaconazole @ 400 ml./acre with 300-350 lit. water.",2012-10-01T06:18:00,2012,10
+"UTTAR PRADESH",DEORIA,TARKALUA,NA,AGRICULTURE,Others,Others,22,"Dubgass ke liye kunsi kunsi harbicide dale","Glyphoset @ 3-3.5 lit/ ha",2012-10-01T06:18:00,2012,10

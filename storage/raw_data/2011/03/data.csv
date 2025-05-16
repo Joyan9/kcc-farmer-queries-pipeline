@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+GUJARAT,KACHCHH,"0   ",KHARIF,AGRICULTURE,0,"Castor (Rehri, Rendi, Arandi) ","Fertilizer Use and Availability","Asking about Sulphar dusting in castor","Suggest to spray sulphar dust",2011-03-03T10:02:00,2011,3
+"HIMACHAL PRADESH",MANDI,DHARMPUR,KHARIF,AGRICULTURE,0,Wheat,2,"How to control yellow rust disease on wheat?","Spray Cantaf 5 EC @ 400 gm in 200 litres of water per acre.",2011-03-03T10:07:00,2011,3
+"UTTAR PRADESH",JHANSI,"0   ",RABI,HORTICULTURE,0,Tomato,75,"fungal disease in tomato","apply mancozeb @2gm  /lit. of water",2011-03-03T10:07:00,2011,3
+RAJASTHAN,BHILWARA,"0   ",KHARIF,AGRICULTURE,0,"Green Gram (Moong Bean/ Moong)",5,"TELL ME VARIETIES OF GREEN GRAM.","K-851,PDM-11.",2011-03-03T10:09:00,2011,3
+"HIMACHAL PRADESH",KANGRA,"0   ",KHARIF,AGRICULTURE,0,Wheat,2,"How to control yellow rust disease on wheat?","Spray Tilt 25 Ec @ 200 ml in 200 litres of water per acre.",2011-03-03T10:10:00,2011,3
+PUNJAB,LUDHIANA,"0   ",KHARIF,AGRICULTURE,0,Wheat,2,"control of yellow rust in wheat crop ?","spray tilt @ 200 ml in 200 litres of water per acre.",2011-03-03T10:14:00,2011,3
+KARNATAKA,"BANGALORE RURAL","0   ",NA,AGRICULTURE,0,Others,15,"subsidy for poultry","information given",2011-03-03T10:15:00,2011,3
+"UTTAR PRADESH",ALLAHABAD,"0   ",RABI,AGRICULTURE,0,Wheat,3,"wheat me chuha ka control","aluminium phosfite kee tikiya bilo me dalkar bil ko mitti se daba dena chahiye",2011-03-03T10:16:00,2011,3
+"UTTAR PRADESH",SAHARANPUR,"0   ",RABI,HORTICULTURE,0,1268,75,"mango ke baur sookh rahi hain",NA,2011-03-03T10:16:00,2011,3
+"MADHYA PRADESH",INDORE,"0   ",NA,HORTICULTURE,0,Onion,75,"how to control yellowish colour of onion?","spray metalaxyl 15ml/pump + acephate 7.5 gm/pump.",2011-03-03T10:19:00,2011,3

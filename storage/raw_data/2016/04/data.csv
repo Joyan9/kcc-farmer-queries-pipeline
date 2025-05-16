@@ -1,0 +1,13 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,FARIDABAD,FARIDABAD,KHARIF,AGRICULTURE,"Sugar and Starch Crops","Sugar Beet","Cultural Practices","TELL ME WEATHER INFORMATION","NO RAIN POSSIBILITY IN NEXT 5 DAYS,CLUDLY WEATHER",2016-04-06T09:27:32.33,2016,4
+"UTTAR PRADESH",BAGHPAT,BAGHPAT,JAYAD,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","Nutrient Management","to information about fertilizer management","to given all information.",2016-04-06T09:27:39.847,2016,4
+HARYANA,FATEHABAD,TOHANA,RABI,AGRICULTURE,Others,Others,"Bio-Pesticides and Bio-Fertilizers","sundi control in jowar ?","400 ml melathion 50 EC or 250 ml monocrotophos 36 SL or 500 ml quinalphos 25 EC in 250 liter water /acre .",2016-04-06T09:28:07.573,2016,4
+GUJARAT,AMRELI,BABRA,JAYAD,AGRICULTURE,Others,Others,"Government Schemes","Ask about subsidy information/ikhedut registration","Suggested: Contact computer operator in gram panchayat or gram sevak",2016-04-06T09:29:18.307,2016,4
+PUNJAB,JALANDHAR,BHOGPUR,RABI,AGRICULTURE,Cereals,Wheat,Weather,"information regarding weather forecasting?","weather is clear and no chances of rainfall today .",2016-04-06T09:29:30.47,2016,4
+BIHAR,KHAGARIA,ALAULI,KHARIF,AGRICULTURE,Others,Others,"Sowing Time and Weather","WEATHER INFORMATION","No chance of rain in your area",2016-04-06T09:29:31.12,2016,4
+BIHAR,MADHUBANI,GHOGHARDIHA,JAYAD,AGRICULTURE,Others,Others,"Training and Exposure Visits",TRAINING,"for agriculture based trining under kaushel vikash yojna visit district atma office",2016-04-06T09:29:34.23,2016,4
+MAHARASHTRA,PARBHANI,SONPETH,RABI,AGRICULTURE,Others,Others,Weather,"Asked About Weather report ?","Cloudy weather and no possibility of rain.",2016-04-06T09:29:53.167,2016,4
+KARNATAKA,BIJAPUR,SINDAGI,JAYAD,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT","Precipitation 25%
+CLOUDY WEATHER
+ther is no rain",2016-04-06T09:30:32.427,2016,4
+PUNJAB,BARNALA,BARNALA,RABI,AGRICULTURE,Cereals,Wheat,Weather,"information regarding weather forecasting?","weather is clear and no chances of rainfall today .",2016-04-06T09:30:40.903,2016,4

@@ -1,0 +1,25 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",MORADABAD,DILARI,NA,AGRICULTURE,Others,Others,Weather,"plz, tell me weather information for  moradabad  dist?","Kisan bhai aap ke yaha  1,2,3,4,5, august ko 7,9,12,7,12  mm tak barish ki sambhavana hai  
+",2019-07-31T20:44:44.213,2019,7
+MAHARASHTRA,JALGAON,DHARANGAON,NA,AGRICULTURE,Others,Others,Weather,"Farmer Asking About Weather Forecast Of  DHARANGAON Block ?   
+","Weather Forecast Of  DHARANGAON  Block  - THIS WEEK WEATHER IS Cloudy And Possibility Of Medium Rainfall Chances During This Week  . Max. Temp. 30(?) Min. Temp.22 (?)  , Humidity 70 , Average Windspeed 14 Km / hr 
+",2019-07-31T20:44:52.56,2019,7
+"UTTAR PRADESH",GONDA,JHANJHARI,NA,AGRICULTURE,Others,Others,Weather," Information about weather of Gonda district....?","Sir, in your area today, there is possibility of light drizzling along with the clouds between 31 july to 05 August every day.",2019-07-31T20:45:14.57,2019,7
+"UTTAR PRADESH",AZAMGARH,AHIRAULA,NA,AGRICULTURE,Others,Others,Weather,"Please Give me weather informetion in Azamgarh  ? 
+","The forecast for 02 mm of rains from 01 to 04 August will remain cloudy throughout the week.
+",2019-07-31T20:46:14.38,2019,7
+HARYANA,AMBALA,SAHA,NA,AGRICULTURE,Others,Others,Weather,"Information regarding weather?
+","Some clouds and chance of rainfall today.
+",2019-07-31T20:46:17.627,2019,7
+"UTTAR PRADESH",SONBHADRA,GHORAWAL,NA,AGRICULTURE,Others,Others,Weather,"Asking about weather information of district Sonbhadra.....?
+","Sir there is possibility of rain 01,02,03,04,05 August
+",2019-07-31T20:46:18.093,2019,7
+ODISHA,BALANGIR,LOISINGA,NA,AGRICULTURE,Others,Others,Weather,"Weather report in Loisinga block.","Rainfall on 01-08-2019(1.5 mm),02-08-2019(7.3 mm),03-08-2019(6.6 mm)  as per IMD report in Loisinga block.
+",2019-07-31T20:46:25.99,2019,7
+ODISHA,KALAHANDI,BHAWANIPATNA,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","	Plant Protection	","Sucking pest in Cotton","Very light rain of 3mm on 1August,3mm on 2 August and light rain of 6mm on 3 August is expected in Bhawanipatna block as per IMD report.",2019-07-31T20:46:31.323,2019,7
+KARNATAKA,BIJAPUR,INDI,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Asked about leaf spot Disease management in Sugarcane.
+","Recommended to Spray 2.5 g. Copper oxychloride 50WP./lit. water
+OR
+2.0 g. Mancozeb 75 WP./lit water",2019-07-31T20:47:27.233,2019,7
+"UTTAR PRADESH",AZAMGARH,MARTINGANJ,NA,AGRICULTURE,Others,Others,"Market Information","Wether information of -Azamgarh ..............?","Sir, there is the possibility of a drip from July 31 to August 5
+",2019-07-31T20:47:47.343,2019,7

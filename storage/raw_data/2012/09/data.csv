@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+TAMILNADU,NAMAKKAL,"0   ",JAYAD,HORTICULTURE,Fruits,Citrus,102,"sweet orange seedlings availability","contact to hosur fruit seedlings nursery",2012-09-17T15:55:00,2012,9
+CHHATTISGARH,DURG,3629,JAYAD,AGRICULTURE,Oilseeds,"Soybean (bhat)","	Plant Protection	","how to control caterpillor of soybean crop.","spray quinalphos @2ml/lit. of water.",2012-09-17T15:56:00,2012,9
+"MADHYA PRADESH",UJJAIN,GHATIYA,JAYAD,HORTICULTURE,Vegetables,1282,75,"how to control yellow vein mosaic in OKRA?","spray of Dimethoate @ 40ml/pump or imidachloropide@ 8-12ml/pump",2012-09-17T15:58:00,2012,9
+GUJARAT,Mehsana,"0   ",JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",2,"ask for the root growth of the cotton","I suggested for the humic acid-20 ml/pump as a spray",2012-09-17T16:00:00,2012,9
+PUNJAB,MANSA,MANSA,JAYAD,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",0,"tell me control semilooper in cotton","spray of chlortraniliprol 60 m.l.+100 ltr water /acre",2012-09-17T16:01:00,2012,9
+HARYANA,PANCHKULA,PINJORE,NA,AGRICULTURE,Others,Others,0,"WEATHER INFORMATION ?","SOME CHANCE OF RAIN .",2012-09-17T16:04:00,2012,9
+HARYANA,JHAJJAR,"0   ",JAYAD,"ANIMAL HUSBANDRY",Animal,964,"Dairy Production","INFORMATION OF DAIRY ?","CONTACT NO.1800-180-3111.",2012-09-17T16:06:00,2012,9
+MAHARASHTRA,NANDED,"0   ",JAYAD,AGRICULTURE,Others,Others,Weather,"weather forcast?","information given",2012-09-17T16:06:00,2012,9
+TAMILNADU,KANCHEEPURAM,KANCHIPURAM,JAYAD,AGRICULTURE,Others,Others,16,"detail for mushroom training","contact to TNAU mushroom unit-0422-6611336",2012-09-17T16:07:00,2012,9
+HARYANA,BHIWANI,TOSHAM,JAYAD,AGRICULTURE,"Fodder Crops",Guar,3,"how to control thirips in guara crop ?","spray of melathiyan @ 200 ml 25e.c. / 200 liter water .",2012-09-17T16:11:00,2012,9

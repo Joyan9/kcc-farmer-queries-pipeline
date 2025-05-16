@@ -1,0 +1,20 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"ANDHRA PRADESH",KURNOOL,GONEGANDLA,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)",Weather,"Farmer asked query on Weather","మీ వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లుప్రాంతములో లు పడే అవకాశం ఉంది
+",2022-07-09T11:14:21.24,2022,7
+"ANDHRA PRADESH",KURNOOL,KRISHNAGIRI,NA,AGRICULTURE,Vegetables,Tomato,Weather,"Farmer asked query on Weather","    CLOUDY WEATHER,CHANCE OF SHOWERS IN YOUR AREA 
+ మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2022-07-09T11:14:32.52,2022,7
+"MADHYA PRADESH",ASHOKNAGAR,ISAGARH,NA,AGRICULTURE,Oilseeds,"Soybean (bhat)","Weed Management","Farmer  want to know information about weed management in Soybean crop ?
+","सोयाबीन की फसल में 15 से 20 दिन की खड़ी फसल में  घांस कुल और कुछ चौड़ी पत्ती वाले खरपतवारों के लिये इमजेथापायर 35% + इमेजामॅक्स 35% WG (बिंगो , ओडिसी, डायनामोक्स ) 40 ग्राम प्रति एकड़ की दर से छिड़काव की अनुशसा है।
+",2022-07-09T11:15:03.22,2022,7
+HARYANA,HISSAR,NARNAUND,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather"," हरियाणा राज्य में मौसम आमतौर पर खुश्क रहने परन्तु 9 जुलाई से 12 जुलाई के दौरान बीच बीच में ज्यादातर क्षेत्रों में बारिश की संभावना है।आज का अधिकतम तापमान 39 डिग्री सेल्सियस व न्यूनतम तापमान 30 डिग्री सेल्सियस जबकि हवा की गति 15 से 20 किलोमीटर प्रति घंटे की चाल से चलने की संभावना है |                                                         ",2022-07-09T11:15:10.24,2022,7
+BIHAR,BUXAR,NAWANAGAR,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Cultural Practices","PADDY CULTURAL PRACTICES RELATED QUERY","प्रिय कृषक बंधु धान में खरपतवार नाशक दवा धान लगाने से 1 से 2 दिन के अंदर में  दे और खाद उर्वरक धान लगाने से पहले दे ",2022-07-09T11:15:17.777,2022,7
+HARYANA,HISSAR,ADAMPUR,NA,AGRICULTURE,Others,Others,Weather,"Farmer asked query on Weather","  आप के जिले में आज हल्के बादल छाए रहेंगे और आज  हलकी बरसात की  संभावना है अधिकतम तापमान 39 - 40 डिग्री सेल्सियस और न्यूनतम तापमान 29 - 30 डिग्री सेल्सियस और हवा की गति 27 किलोमीटर प्रति घंटा रहेगी । ",2022-07-09T11:15:37.76,2022,7
+"UTTAR PRADESH",MORADABAD,THAKURDWARA,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","Information about control of Top shoot Borer in sugarcane crop....?","श्री मान जी कारताप हाइड्रोक्लोराइड 4G,8-10kg/एकर 15-20kg यूरिया में मिलाकर बुवाई कीजिये  |
+or
+-डाईक्लोरवास 76%EC,300-350ml/ एकड़, 200 लीटर पानी में घोल बनाकर छिड़काव कीजिये|",2022-07-09T11:15:46.357,2022,7
+"UTTAR PRADESH",AURAIYA,"ERWA KATRA",NA,AGRICULTURE,Others,Others,"Government Schemes","   Information about Pradhan Mantri Kisan Samman Nidhi Yojana ?   ","PM-Kisan Helpline number- प्रधान मंत्री किसान सम्मान निधि सेंटर का नंबर 011- 23381092 OR 1800115526 OR 011-24300606 पर सोमवार से शनिवार समय 10 बजे पूर्वाह्न से 5 बजे अपराह्न तक बात कर सकते हैं I  ",2022-07-09T11:16:03.89,2022,7
+RAJASTHAN,HANUMANGARH,NOHAR,NA,AGRICULTURE,Others,"Pearl Millet (Bajra/Bulrush Millet/Spiked Millet)",Weather,"Farmer asked query on Weather","मौसम का पूर्वानुमान जिले का नाम….  hanumangarh और ब्लॉक…nohar  अगले तीन दिनों में  light  वर्षा होने की संभावना है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (39 डिग्री सेल्सियस और न्यूनतम तापमान 30 डिग्री सेल्सियस और हवा की गति 9 किलोमीटर प्रति घंटा) चलने की संभावना है।",2022-07-09T11:16:18.43,2022,7
+TAMILNADU,THANJAVUR,PAPANASAM,NA,AGRICULTURE,"Sugar and Starch Crops","Sugarcane (Noble Cane)","Nutrient Management","Asked about Paddy Top Dressing application
+","கேள்வி : கரும்பு மேல் உர மேலாண்மை பதில் :  நுண்ணூட்ட கலவை ஏக்கருக்கு 5  கிலோ வை 20  கிலோ தொழு உரத்துடன் கலந்து போடவும்   
+",2022-07-09T11:16:47.087,2022,7

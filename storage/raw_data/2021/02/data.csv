@@ -1,0 +1,20 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+"UTTAR PRADESH",ALIGARH,LODHA,NA,AGRICULTURE,Pulses,"Lentil (Masur)","Nutrient Management","How to  increase flower  in Lentil ?
+","श्रीमान  आप अल्फा नेपथीइल एसिटिक एसिड 1 ml/ 4 लीटर पानी में मिला कर स्प्रे करे 
+",2021-02-05T11:21:30.883,2021,2
+"UTTAR PRADESH",KAUSHAMBI,CHAIL,NA,AGRICULTURE,Pulses,"Green Gram (Moong Bean/ Moong)","Cultural Practices","Information about sowing time of Green Gram in Jayad Season?","श्रीमान जी,जायद सीजन में बसंत कालीन मूंग की प्रजातियों की बुवाई 15 फरवरी से 10 मार्च तक तथा ग्रीष्म कालीन प्रजातियों के लिये 10 मार्च से 10 अप्रैल का समय उपयुक्त होता है। ",2021-02-05T11:21:46.047,2021,2
+TAMILNADU,KARUR,THANTHONI,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Crop Insurance","asking about Paddy crop insurance information (2020-2021)
+","கேள்வி: நெல்  பயிர் காப்பீட்டு பற்றிய தகவல் (2020 -2021) பதில்: ஒன்றிய அளவிலான விவசாய அலுவலகத்தை தொடர்பு கொள்ளவும். தொடர்புக்கு: வேளாண் உதவி அலுவலர் உமா கலைவாணி மொபைல் எண்: 9751 374 439 அணுகவும். ",2021-02-05T11:22:23.593,2021,2
+"MADHYA PRADESH",DHAR,SARDARPUR,NA,AGRICULTURE,Others,Others,"Market Information","Farmer asked price detail of Soyabean in Badnawar mandi.","04/02/2021
+मंडी: बदनवर
+कमोडिटी: सोयाबीन
+(मोडल प्राइस): 4570 / क्विंटल",2021-02-05T11:22:25.28,2021,2
+BIHAR,PATNA,"PATNA SADAR",NA,AGRICULTURE,Others,Others,"Government Schemes","Pradhan Mantri Kisan Samman Nidhi Yojna"," किसान भाई आपका किसान पंजीकरण और आधार कार्ड का नाम मिल नहीं रहा है उसको सुधारा करा ले 
+www.dbtagriculture.bihar.gov.in ",2021-02-05T11:22:30.193,2021,2
+MAHARASHTRA,AKOLA,AKOT,NA,HORTICULTURE,Vegetables,Onion,"Fertilizer Use and Availability","farmer ask about fertilizer spray for onion crop ?","कांदा पिक फुगवणीसाठी - ००:५२:३४ (मोनो पोटॅशीअम फॉस्फेट) ६० ग्रॉम/१५ लिटर पाण्यात  घेऊन फवारणी करणे .धन्यवाद
+",2021-02-05T11:23:23.793,2021,2
+"UTTAR PRADESH",BULANDSHAHAR,SHIKARPUR,NA,AGRICULTURE,Cereals,Wheat,"Fertilizer Use and Availability","Information about Fertilizer use in Wheat crops ?","श्रीमान जी आप यूरिया 30 से 35 किलोग्राम और सागरिका 8 से 10 किलोग्राम प्रति एकड़ की दर से प्रयोग करें",2021-02-05T11:24:39.247,2021,2
+"WEST BENGAL","WEST MEDINIPUR",GARBETA-I,NA,AGRICULTURE,Cereals,"Paddy (Dhan)","Government Schemes","Asking about PM kisan sampan nidhi yajona","--Contact to block level agriculture office .",2021-02-05T11:25:52.02,2021,2
+MAHARASHTRA,BULDANA,CHIKHLI,NA,AGRICULTURE,Others,Others,"Government Schemes","FARMER ASKING ABOUT GOVERNMENT SCHEME ?","शासकीय योजनांबद्दल अधिक माहितीसाठी तालुका कृषी अधिकारी याना भेट द्या. 
+",2021-02-05T11:26:04.33,2021,2
+GUJARAT,Mehsana,MAHESANA,NA,HORTICULTURE,Vegetables,"Cowpea (Vegetable)","Cultural Practices","Farmer asked growth problem in Cow pea crop","ચોળી  ના પાકમાં છોડની વૃદ્ધિ અને વિકાસ માટે હ્યુમિક એસિડ ૯૫% ૪૦ થી ૫૦  ગ્રામ પ્રતિ પંપ નાખી છંટકાવ કરવો અને જો પાણી જોડે આપવું હોય તો (પિયત જોડે ૨૫૦ ગ્રામ આપવો).",2021-02-05T11:26:11.88,2021,2

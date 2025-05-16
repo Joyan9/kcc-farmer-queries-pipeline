@@ -1,0 +1,11 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+UTTARAKHAND,"PAURI GARHWAL",POKHRA,KHARIF,AGRICULTURE,Others,Others,Weather,"asking about weather information .?","possibility of light rainfall in 21 to 23 September",2016-09-18T16:15:38.743,2016,9
+MAHARASHTRA,NANDED,UMRI,NA,AGRICULTURE,"Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","ASKING ABOUT FERTILISER DOSE FOR","Application of 10:26:26 2 BAG + Urea 30 KG + MAGNESIUM SULPHATE  10 KG/ACRE",2016-09-18T16:15:58.64,2016,9
+BIHAR,ROHTAS,KARGAHAR,KHARIF,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","SHEATH BLIGHT IN PADDY","SPRAY CARBEDAZIME 2.5GRAM/LIT OF WATER FOR PADDY",2016-09-18T16:16:18.203,2016,9
+HARYANA,HISSAR,NARNAUND,KHARIF,AGRICULTURE,Others,Others,Weather,"information regarding weather in narnaund?","some clouds and no chance of rainfall today.",2016-09-18T16:16:25.16,2016,9
+"UTTAR PRADESH",LALITPUR,BIRDHA,KHARIF,AGRICULTURE,Others,Others,Weather,"weather information ?","kisan bhai 18 se 23 September tak halki barish ki sambhawana bani hui hai",2016-09-18T16:16:32.433,2016,9
+"UTTAR PRADESH",BARABANKI,RAMNAGAR,NA,AGRICULTURE,Cereals,"Paddy (Dhan)",Weather,"weather information ?","possibility of lightly rain fall on this week .",2016-09-18T16:17:19.233,2016,9
+ODISHA,BARGARH,BIJEPUR,NA,HORTICULTURE,Vegetables,Brinjal,"	Plant Protection	","shoot borer in brinjal","spray chloropyriphos 2 ml in 1 litre of water for shoot borer in brinjal",2016-09-18T16:17:20.237,2016,9
+BIHAR,VAISHALI,CHEHRAKALA,NA,AGRICULTURE,Others,Others,"	Field Preparation	","Insect infestation","Spray malathion @ 2ml/lit of water",2016-09-18T16:17:37.073,2016,9
+MAHARASHTRA,PUNE,INDAPUR,KHARIF,HORTICULTURE,Fruits,Pomegranate,"	Plant Protection	","cecospora on pomogranet?","spray  karzet 3 gram / liter",2016-09-18T16:17:40.053,2016,9
+BIHAR,NALANDA,"KARAI PARSURAI",NA,HORTICULTURE,Vegetables,Capsicum,"	Plant Protection	","dumping off","Spray saaf @2gm /lit of water",2016-09-18T16:18:02.563,2016,9

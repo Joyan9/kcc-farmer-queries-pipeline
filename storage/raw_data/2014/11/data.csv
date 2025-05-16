@@ -1,0 +1,12 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,Year,Month
+HARYANA,FATEHABAD,BHUNA,RABI,AGRICULTURE,Cereals,Wheat,"	Plant Protection	","How to improved growth in wheat crop?","Spray of NPK(19:19:19) @1 Kg in 100 Lt water/acre.",2014-11-28T19:12:03.547,2014,11
+HARYANA,HISSAR,NARNAUND,RABI,AGRICULTURE,Cereals,Wheat,"Fertilizer Use and Availability","Information regarding weather of hisar?","Weather of hisar are:- no chance of rainfall in next few days.",2014-11-28T19:12:11.557,2014,11
+MAHARASHTRA,AMRAVATI,DARYAPUR,JAYAD,AGRICULTURE,Others,Others,"	Field Preparation	","WEATHER ?","cloudy weather  with no rainfall",2014-11-28T19:12:24.333,2014,11
+TAMILNADU,SIVAGANGA,SAKKOTTAI,RABI,AGRICULTURE,Cereals,"Paddy (Dhan)","	Plant Protection	","paddy  Thrips control","Recommended for paddy  Thrips control Spray Fipronil 5 % SC 1.5 ml/lit of water",2014-11-28T19:13:40.9,2014,11
+"WEST BENGAL",BANKURA,INDPUR,RABI,HORTICULTURE,Vegetables,"Bitter Gourd","	Plant Protection	","CONTROL OF LEAF CURL IN BITTER GOURD","RECOMMENDED FOR SPRAY  DIMETHOATE 30% EC @ 2 ML  / LIT OF WATER",2014-11-28T19:14:18.38,2014,11
+ASSAM,TINSUKIA,HAPJAN,RABI,HORTICULTURE,Vegetables,Onion,"Fertilizer Use and Availability","ASKING FOR FERT DOSE OF ONION","RECOMMENDED HIM TO APPLY 12 KG UREA, 15 KG DAP AND 11 KG MOP PER BIGHA",2014-11-28T19:14:52.673,2014,11
+HARYANA,HISSAR,HANSI-I,RABI,AGRICULTURE,Cereals,Wheat,"	Plant Protection	","How to improved growth in wheat crop?","Spray of NPK(19:19:19) @1 Kg in 100 Lt water/acre.",2014-11-28T19:16:07.407,2014,11
+KARNATAKA,CHITRADURGA,MOLAKALMURU,NA,AGRICULTURE,Others,Others,Weather,"WEATHER REPORT","CLOUDY WEATHER IN YOUR TALUK
+0% CHANCES OF RAIN IN YOUR TALUK",2014-11-28T19:17:17.773,2014,11
+"UTTAR PRADESH",ALLAHABAD,MEJA,RABI,AGRICULTURE,Pulses,"Black Gram (urd bean)","	Water Management	","varity of wheat",pvw373,2014-11-28T19:17:46.54,2014,11
+"MADHYA PRADESH",ASHOKNAGAR,ISAGARH,RABI,AGRICULTURE,Others,Others,Weather,"Farmer want to know information about  weather forecast  ?","your district clear weather and no chance rainfall",2014-11-28T19:18:23.733,2014,11
