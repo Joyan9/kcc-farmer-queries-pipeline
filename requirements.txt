@@ -3,4 +3,4 @@ pandas
 duckdb
 pyspark
 python-dotenv
-dlt[duckdb]
+dlt[parquet]
