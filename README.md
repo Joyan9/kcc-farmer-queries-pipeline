@@ -3,4 +3,5 @@ A batch-processing data system designed to handle farmer query data from the Kis
 The system will ingest, process, and analyze approximately 47 million records of farmer queries to provide valuable insights for agricultural planning and support, with specific focus on enabling NLP applications.
 
 ## Architecture Diagram
-![Architecture Diagram](docs/KCC%20Pipeline.png)
+![Architecture Diagram](docs/KCC%20Pipeline_v2.png)
+
