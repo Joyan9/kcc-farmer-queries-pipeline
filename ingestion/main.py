@@ -53,7 +53,7 @@ def get_kcc_source(year: int,
     
     # Set up paginator with optional max offset
     paginator_config = {
-        "limit": 100,
+        "limit": 500,
         "total_path": None,
         "offset_param": 'offset',
         "limit_param": 'limit',
@@ -124,7 +124,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="KCC Data Ingestion Pipeline")
     parser.add_argument("--backfill", action="store_true", 
                         help="Run ingestion in backfill mode (loads all historical data)")
-    parser.add_argument("--max-offset", type=int, default=60000,
+    parser.add_argument("--max-offset", type=int, default=50000,
                         help="Maximum pagination offset")
     return parser.parse_args()
 
@@ -161,7 +161,7 @@ def main():
             logger.info(f"Processing {year}-{month:02d}")
             source = get_kcc_source(year=year, month=month, max_offset=args.max_offset)
             load_info = pipeline.run(source, loader_file_format="parquet")
-            logger.info(f"Loaded data for {year}-{month:02d}: {load_info}")
+            logger.info(f"Last Trace for {year}-{month:02d}: {pipeline.last_trace}")
     else:
         # Normal mode - load only last month's data
         year, month = get_last_month()
@@ -169,6 +169,7 @@ def main():
         
         source = get_kcc_source(year=year, month=month, max_offset=args.max_offset)
         load_info = pipeline.run(source, loader_file_format="parquet")
+        logger.info(f"Last Trace for {year}-{month:02d}: {pipeline.last_trace}")
         logger.info(f"Loaded data for {year}-{month:02d}: {load_info}")
     
 if __name__ == "__main__":
