@@ -160,7 +160,7 @@ def main():
         for year, month in months_to_process:
             logger.info(f"Processing {year}-{month:02d}")
             source = get_kcc_source(year=year, month=month, max_offset=args.max_offset)
-            load_info = pipeline.run(source)
+            load_info = pipeline.run(source, loader_file_format="parquet")
             logger.info(f"Loaded data for {year}-{month:02d}: {load_info}")
     else:
         # Normal mode - load only last month's data
@@ -171,13 +171,5 @@ def main():
         load_info = pipeline.run(source, loader_file_format="parquet")
         logger.info(f"Loaded data for {year}-{month:02d}: {load_info}")
     
-    # Show data statistics after loading
-    try:
-        row_counts = dataset.row_counts().df()
-        logger.info(f"Total rows: {row_counts}")
-        
-    except Exception as e:
-        logger.error(f"Error accessing dataset: {e}")
-
 if __name__ == "__main__":
     main()
