@@ -16,6 +16,7 @@ COPY ../processing/spark_job.py .
 
 # Expose Jupyter port
 EXPOSE 8888
+EXPOSE 4040
 
 # Default command: start Jupyter Lab
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--allow-root", "--no-browser"]
