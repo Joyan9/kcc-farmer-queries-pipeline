@@ -3,18 +3,15 @@ FROM bitnami/spark:latest
 USER root
 WORKDIR /app
 
-# Copy only the requirements.txt from the root
 COPY ../requirements.txt .
 
-# Install Python dependencies, including Jupyter
 RUN pip install --upgrade pip && \
     pip install -r requirements.txt && \
     pip install notebook jupyterlab
 
-# Copy the processing script
-COPY ../processing/spark_job.py .
+# Copy all scripts in processing/
+COPY ../processing/*.py .
 
-# Expose Jupyter port
 EXPOSE 8888
 EXPOSE 4040
 
