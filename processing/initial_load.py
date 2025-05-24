@@ -1,7 +1,15 @@
 import os
 import logging
-from pyspark.sql import SparkSession, functions as F, Window
+from pyspark.sql import SparkSession, functions as F
 import duckdb
+from helpers import (
+    clean_categorical_columns,
+    clean_regex_columns,
+    mask_pii,
+    generate_dim,
+    write_parquet,
+    duckdb_create_table_from_parquet
+)
 
 # ----------------- Config & Constants -----------------
 RAW_PARQUET_PATH = "/app/storage/raw_data/kcc_data_*/data.parquet"
@@ -16,68 +24,18 @@ INVALID_VALUES = {
     "season": ["NA"]
 }
 REGEX_INVALID_COLS = ["sector", "crop", "query_type", "category"]
-
 PII_PATTERNS = [
     (r"(\+91[\-\s]?\d{10})|(\b\d{10}\b)", "[PHONE]"),
     (r"[a-zA-Z0-9.\-_]+@[a-zA-Z0-9\-_]+\.[a-zA-Z.]+", "[EMAIL]"),
     (r"\b\d{9,18}\b", "[ACCOUNT]")
 ]
 
-# ----------------- Logging Setup -----------------
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s"
 )
 logger = logging.getLogger(__name__)
 
-# ----------------- Helper Functions -----------------
-def clean_categorical_columns(df, invalid_values):
-    """Replace nulls and invalids in categorical columns."""
-    for col, invalids in invalid_values.items():
-        df = df.withColumn(
-            col,
-            F.when(
-                F.col(col).isin(invalids) | F.col(col).isNull(),
-                "Not Available"
-            ).otherwise(F.col(col))
-        )
-    return df
-
-def clean_regex_columns(df, regex_cols):
-    """Replace numeric/NA/0/null in specified columns."""
-    for col in regex_cols:
-        df = df.withColumn(
-            col,
-            F.when(
-                F.col(col).rlike("^[0-9]+$") | 
-                F.col(col).isin("NA", "0") | 
-                F.col(col).isNull(),
-                "Not Available"
-            ).otherwise(F.col(col))
-        )
-    return df
-
-def mask_pii(df, col, patterns):
-    """Mask PII in a column using regex patterns."""
-    for pattern, mask in patterns:
-        df = df.withColumn(col, F.regexp_replace(F.col(col), pattern, mask))
-    return df
-
-def generate_dim(df, col, id_col):
-    """Generate a dimension table with surrogate keys."""
-    window = Window.orderBy(col)
-    return df.select(col).distinct().withColumn(id_col, F.row_number().over(window))
-
-def write_parquet(df, path):
-    df.write.mode("overwrite").parquet(path)
-
-def duckdb_create_table_from_parquet(conn, table_name, parquet_path):
-    conn.execute(f"""
-        CREATE OR REPLACE TABLE {table_name} AS
-        SELECT * FROM parquet_scan('{parquet_path}/*.parquet')
-    """)
-
-# ----------------- Main ETL Logic -----------------
 def main():
     spark = SparkSession.builder \
         .appName("KCC Initial Star Schema Build") \
