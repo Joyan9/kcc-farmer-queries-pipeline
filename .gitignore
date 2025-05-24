@@ -1,3 +1,8 @@
+# Data files - too large for Git
+storage/processed_data/
+*.parquet
+*.duckdb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
