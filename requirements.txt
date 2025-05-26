@@ -4,3 +4,9 @@ duckdb
 pyspark
 python-dotenv
 dlt[parquet]
+matplotlib
+seaborn
+plotly
+ipywidgets
+jupyterlab
+notebook
