@@ -1,49 +1,27 @@
-import os
+# processing/initial_load.py
+
 import logging
 from pyspark.sql import SparkSession, functions as F
 import duckdb
-from helpers import (
-    clean_categorical_columns,
-    clean_regex_columns,
-    mask_pii,
-    generate_dim,
-    write_parquet,
-    duckdb_create_table_from_parquet
+from config import (
+    RAW_PARQUET_PATH, PROCESSED_DATA_DIR, DUCKDB_PATH,
+    INVALID_VALUES, REGEX_INVALID_COLS, PII_PATTERNS, RAW_SCHEMA
 )
+from helpers.cleaning import clean_categorical_columns, clean_regex_columns, mask_pii
+from helpers.dimensions import generate_dim
+from helpers.io import write_parquet, duckdb_create_table_from_parquet
 
-# ----------------- Config & Constants -----------------
-RAW_PARQUET_PATH = "/app/storage/raw_data/kcc_data_*/data.parquet"
-PROCESSED_DATA_DIR = "/app/storage/processed_data"
-DUCKDB_PATH = os.path.join(PROCESSED_DATA_DIR, "kcc_queries_processed.duckdb")
-
-INVALID_VALUES = {
-    "state_name": ["NA", "0"],
-    "district_name": ["NA", "9999"],
-    "block_name": ["NA", "0   "],
-    "category": ["0"],
-    "season": ["NA"]
-}
-REGEX_INVALID_COLS = ["sector", "crop", "query_type", "category"]
-PII_PATTERNS = [
-    (r"(\+91[\-\s]?\d{10})|(\b\d{10}\b)", "[PHONE]"),
-    (r"[a-zA-Z0-9.\-_]+@[a-zA-Z0-9\-_]+\.[a-zA-Z.]+", "[EMAIL]"),
-    (r"\b\d{9,18}\b", "[ACCOUNT]")
-]
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s"
-)
+logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def main():
+def main() -> None:
     spark = SparkSession.builder \
         .appName("KCC Initial Star Schema Build") \
         .config('spark.ui.port', '4040') \
         .getOrCreate()
     try:
-        logger.info("Reading raw data...")
-        df = spark.read.option("header", True).option("inferSchema", True).parquet(RAW_PARQUET_PATH)
+        logger.info("Reading raw data with defined schema...")
+        df = spark.read.option("header", True).schema(RAW_SCHEMA).parquet(RAW_PARQUET_PATH)
 
         logger.info("Cleaning categorical columns...")
         df_cleaned = clean_categorical_columns(df, INVALID_VALUES)
@@ -68,10 +46,11 @@ def main():
          .select("state_id", "state_name", "district_names", "block_names")
 
         logger.info("Building fact table...")
+        from pyspark.sql.functions import broadcast
         fact = df_cleaned \
-            .join(dim_category, on="category", how="left") \
-            .join(dim_sector, on="sector", how="left") \
-            .join(dim_demography, on="state_name", how="left")
+            .join(broadcast(dim_category), on="category", how="left") \
+            .join(broadcast(dim_sector), on="sector", how="left") \
+            .join(broadcast(dim_demography), on="state_name", how="left")
 
         fact_queries = fact.select(
             F.col("_dlt_id").alias("query_id"),
@@ -86,17 +65,17 @@ def main():
         )
 
         logger.info("Writing tables as Parquet...")
-        write_parquet(fact_queries, os.path.join(PROCESSED_DATA_DIR, "fct_queries"))
-        write_parquet(dim_category, os.path.join(PROCESSED_DATA_DIR, "dim_category"))
-        write_parquet(dim_sector, os.path.join(PROCESSED_DATA_DIR, "dim_sector"))
-        write_parquet(dim_demography, os.path.join(PROCESSED_DATA_DIR, "dim_demography"))
+        write_parquet(fact_queries, f"{PROCESSED_DATA_DIR}/fct_queries")
+        write_parquet(dim_category, f"{PROCESSED_DATA_DIR}/dim_category")
+        write_parquet(dim_sector, f"{PROCESSED_DATA_DIR}/dim_sector")
+        write_parquet(dim_demography, f"{PROCESSED_DATA_DIR}/dim_demography")
 
         logger.info("Loading tables into DuckDB...")
         conn = duckdb.connect(DUCKDB_PATH)
-        duckdb_create_table_from_parquet(conn, "fct_queries", os.path.join(PROCESSED_DATA_DIR, "fct_queries"))
-        duckdb_create_table_from_parquet(conn, "dim_category", os.path.join(PROCESSED_DATA_DIR, "dim_category"))
-        duckdb_create_table_from_parquet(conn, "dim_sector", os.path.join(PROCESSED_DATA_DIR, "dim_sector"))
-        duckdb_create_table_from_parquet(conn, "dim_demography", os.path.join(PROCESSED_DATA_DIR, "dim_demography"))
+        duckdb_create_table_from_parquet(conn, "fct_queries", f"{PROCESSED_DATA_DIR}/fct_queries")
+        duckdb_create_table_from_parquet(conn, "dim_category", f"{PROCESSED_DATA_DIR}/dim_category")
+        duckdb_create_table_from_parquet(conn, "dim_sector", f"{PROCESSED_DATA_DIR}/dim_sector")
+        duckdb_create_table_from_parquet(conn, "dim_demography", f"{PROCESSED_DATA_DIR}/dim_demography")
 
         logger.info("Tables created in DuckDB:")
         for table in conn.execute("SHOW TABLES").fetchall():

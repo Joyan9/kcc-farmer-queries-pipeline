@@ -1,3 +1,5 @@
+# processing/incremental_load.py
+
 import os
 import logging
 import duckdb
@@ -5,29 +7,19 @@ import pandas as pd
 from datetime import datetime, timedelta
 from pyspark.sql import SparkSession, functions as F
 import pyspark.sql.types as T
-from helpers import clean_categorical_columns, clean_regex_columns, mask_pii, ensure_duckdb_tables
 
-# Config
-PROCESSED_DATA_DIR = "/app/storage/processed_data"
-DUCKDB_PATH = os.path.join(PROCESSED_DATA_DIR, "kcc_queries_processed.duckdb")
-INVALID_VALUES = {
-    "state_name": ["NA", "0"],
-    "district_name": ["NA", "9999"],
-    "block_name": ["NA", "0   "],
-    "category": ["0"],
-    "season": ["NA"]
-}
-REGEX_INVALID_COLS = ["sector", "crop", "query_type", "category"]
-PII_PATTERNS = [
-    (r"(\+91[\-\s]?\d{10})|(\b\d{10}\b)", "[PHONE]"),
-    (r"[a-zA-Z0-9.\-_]+@[a-zA-Z0-9\-_]+\.[a-zA-Z.]+", "[EMAIL]"),
-    (r"\b\d{9,18}\b", "[ACCOUNT]")
-]
+from config import (
+    PROCESSED_DATA_DIR, DUCKDB_PATH, INVALID_VALUES, REGEX_INVALID_COLS,
+    PII_PATTERNS, RAW_SCHEMA
+)
+from helpers.cleaning import clean_categorical_columns, clean_regex_columns, mask_pii
+from helpers.io import ensure_duckdb_tables
+from typing import Optional
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def get_last_month_file():
+def get_last_month_file() -> str:
     today = datetime.today()
     first = today.replace(day=1)
     last_month = first - timedelta(days=1)
@@ -36,7 +28,7 @@ def get_last_month_file():
     file_path = f"/app/storage/raw_data/kcc_data_{year}_{month}/data.parquet"
     return file_path
 
-def main():
+def main() -> None:
     spark = SparkSession.builder.appName("KCC Incremental Load").getOrCreate()
     try:
         file_path = get_last_month_file()
@@ -45,21 +37,23 @@ def main():
             logger.warning("No new data file found for last month.")
             return
 
-        df = spark.read.option("header", True).option("inferSchema", True).parquet(file_path)
+        df = spark.read.option("header", True).schema(RAW_SCHEMA).parquet(file_path)
+        logger.info(f"Read {df.count()} rows from {file_path}")
+
         df_cleaned = clean_categorical_columns(df, INVALID_VALUES)
         df_cleaned = clean_regex_columns(df_cleaned, REGEX_INVALID_COLS)
         df_cleaned = df_cleaned.withColumn("query_type", F.regexp_replace("query_type", r"\t", ""))
         df_cleaned = mask_pii(df_cleaned, "kcc_ans", PII_PATTERNS)
+        logger.info(f"Rows after cleaning: {df_cleaned.count()}")
 
         # Load dims from DuckDB
         conn = duckdb.connect(DUCKDB_PATH)
-        # ensure duckdb tables exist - if not create blank tables
         ensure_duckdb_tables(conn)
 
         dim_category_pd = conn.execute("SELECT * FROM dim_category").df()
         dim_sector_pd = conn.execute("SELECT * FROM dim_sector").df()
         dim_demography_pd = conn.execute("SELECT * FROM dim_demography").df()
-        
+
         # schema for dim_demography
         schema = T.StructType([
             T.StructField("state_id", T.IntegerType(), False),
@@ -77,27 +71,66 @@ def main():
         dim_sector_spark = spark.createDataFrame(dim_sector_pd)
         dim_demography_spark = spark.createDataFrame(dim_demography_pd, schema=schema)
 
+        from pyspark.sql.functions import broadcast
+
         # Assign surrogate keys (reuse or add new)
         # Category
         new_categories = df_cleaned.select("category").distinct().subtract(dim_category_spark.select("category"))
         if new_categories.count() > 0:
             max_cat_id = dim_category_pd["category_id"].max() if not dim_category_pd.empty else 0
+            # Use row_number for deterministic IDs
+            from pyspark.sql.window import Window
+            window = Window.orderBy("category")
             new_categories = new_categories.withColumn(
-                "category_id", F.monotonically_increasing_id() + max_cat_id + 1
+                "category_id", F.row_number().over(window) + max_cat_id
             )
             dim_category_spark = dim_category_spark.unionByName(new_categories)
             # Update DuckDB
             conn.execute("DELETE FROM dim_category")
             conn.register("dim_category_spark", dim_category_spark.toPandas())
             conn.execute("INSERT INTO dim_category SELECT * FROM dim_category_spark")
+            logger.info(f"Added {new_categories.count()} new categories.")
 
-        # Repeat similar logic for sector and demography/state as needed...
+        # Sector
+        new_sectors = df_cleaned.select("sector").distinct().subtract(dim_sector_spark.select("sector"))
+        if new_sectors.count() > 0:
+            max_sector_id = dim_sector_pd["sector_id"].max() if not dim_sector_pd.empty else 0
+            window = Window.orderBy("sector")
+            new_sectors = new_sectors.withColumn(
+                "sector_id", F.row_number().over(window) + max_sector_id
+            )
+            dim_sector_spark = dim_sector_spark.unionByName(new_sectors)
+            conn.execute("DELETE FROM dim_sector")
+            conn.register("dim_sector_spark", dim_sector_spark.toPandas())
+            conn.execute("INSERT INTO dim_sector SELECT * FROM dim_sector_spark")
+            logger.info(f"Added {new_sectors.count()} new sectors.")
+
+        # Demography (state_name)
+        new_states = df_cleaned.select("state_name").distinct().subtract(dim_demography_spark.select("state_name"))
+        if new_states.count() > 0:
+            max_state_id = dim_demography_pd["state_id"].max() if not dim_demography_pd.empty else 0
+            window = Window.orderBy("state_name")
+            new_states = new_states.withColumn(
+                "state_id", F.row_number().over(window) + max_state_id
+            )
+            # For new states, collect district/block names
+            new_demography = df_cleaned.join(new_states, on="state_name", how="inner") \
+                .groupBy("state_name", "state_id") \
+                .agg(
+                    F.collect_set("district_name").alias("district_names"),
+                    F.collect_set("block_name").alias("block_names")
+                )
+            dim_demography_spark = dim_demography_spark.unionByName(new_demography)
+            conn.execute("DELETE FROM dim_demography")
+            conn.register("dim_demography_spark", dim_demography_spark.toPandas())
+            conn.execute("INSERT INTO dim_demography SELECT * FROM dim_demography_spark")
+            logger.info(f"Added {new_states.count()} new states to demography.")
 
         # Join cleaned data with dims to assign surrogate keys
         fact = df_cleaned \
-            .join(dim_category_spark, on="category", how="left") \
-            .join(dim_sector_spark, on="sector", how="left") \
-            .join(dim_demography_spark, on="state_name", how="left")
+            .join(broadcast(dim_category_spark), on="category", how="left") \
+            .join(broadcast(dim_sector_spark), on="sector", how="left") \
+            .join(broadcast(dim_demography_spark), on="state_name", how="left")
 
         fact_queries = fact.select(
             F.col("_dlt_id").alias("query_id"),
@@ -111,18 +144,22 @@ def main():
             "kcc_ans"
         )
 
-        # Write new fact rows to Parquet
+        logger.info(f"Writing {fact_queries.count()} new fact rows to Parquet...")
         fact_queries.write.mode("overwrite").parquet(os.path.join(PROCESSED_DATA_DIR, "fct_queries_incremental"))
 
-        # Append to DuckDB
+        logger.info("Appending new fact rows to DuckDB...")
         conn.execute("""
             INSERT INTO fct_queries
             SELECT * FROM parquet_scan('/app/storage/processed_data/fct_queries_incremental/*.parquet')
         """)
         logger.info("Incremental load complete.")
         conn.close()
+    except Exception as e:
+        logger.exception(f"Incremental ETL job failed: {e}")
+        raise
     finally:
         spark.stop()
+        logger.info("Spark session stopped.")
 
 if __name__ == "__main__":
     main()
