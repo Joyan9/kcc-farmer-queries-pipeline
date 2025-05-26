@@ -4,7 +4,8 @@ import duckdb
 import pandas as pd
 from datetime import datetime, timedelta
 from pyspark.sql import SparkSession, functions as F
-from helpers import clean_categorical_columns, clean_regex_columns, mask_pii
+import pyspark.sql.types as T
+from helpers import clean_categorical_columns, clean_regex_columns, mask_pii, ensure_duckdb_tables
 
 # Config
 PROCESSED_DATA_DIR = "/app/storage/processed_data"
@@ -52,14 +53,29 @@ def main():
 
         # Load dims from DuckDB
         conn = duckdb.connect(DUCKDB_PATH)
+        # ensure duckdb tables exist - if not create blank tables
+        ensure_duckdb_tables(conn)
+
         dim_category_pd = conn.execute("SELECT * FROM dim_category").df()
         dim_sector_pd = conn.execute("SELECT * FROM dim_sector").df()
         dim_demography_pd = conn.execute("SELECT * FROM dim_demography").df()
+        
+        # schema for dim_demography
+        schema = T.StructType([
+            T.StructField("state_id", T.IntegerType(), False),
+            T.StructField("state_name", T.StringType(), False),
+            T.StructField("district_names", T.ArrayType(T.StringType()), True),
+            T.StructField("block_names", T.ArrayType(T.StringType()), True),
+        ])
+
+        # Convert lists to arrays in Pandas
+        dim_demography_pd["district_names"] = dim_demography_pd["district_names"].apply(lambda x: x if isinstance(x, list) else [])
+        dim_demography_pd["block_names"] = dim_demography_pd["block_names"].apply(lambda x: x if isinstance(x, list) else [])
 
         # Broadcast dims for joining in Spark
         dim_category_spark = spark.createDataFrame(dim_category_pd)
         dim_sector_spark = spark.createDataFrame(dim_sector_pd)
-        dim_demography_spark = spark.createDataFrame(dim_demography_pd)
+        dim_demography_spark = spark.createDataFrame(dim_demography_pd, schema=schema)
 
         # Assign surrogate keys (reuse or add new)
         # Category
