@@ -53,23 +53,45 @@ def main() -> None:
         dim_category_pd = conn.execute("SELECT * FROM dim_category").df()
         dim_sector_pd = conn.execute("SELECT * FROM dim_sector").df()
         dim_demography_pd = conn.execute("SELECT * FROM dim_demography").df()
+        
+        CATEGORY_SCHEMA = T.StructType([
+            T.StructField("category_id", T.IntegerType(), False),
+            T.StructField("category", T.StringType(), False),
+        ])
 
-        # schema for dim_demography
-        schema = T.StructType([
+        SECTOR_SCHEMA = T.StructType([
+            T.StructField("sector_id", T.IntegerType(), False),
+            T.StructField("sector", T.StringType(), False),
+        ])
+
+        DEMOGRAPHY_SCHEMA = T.StructType([
             T.StructField("state_id", T.IntegerType(), False),
             T.StructField("state_name", T.StringType(), False),
             T.StructField("district_names", T.ArrayType(T.StringType()), True),
             T.StructField("block_names", T.ArrayType(T.StringType()), True),
         ])
 
-        # Convert lists to arrays in Pandas
-        dim_demography_pd["district_names"] = dim_demography_pd["district_names"].apply(lambda x: x if isinstance(x, list) else [])
-        dim_demography_pd["block_names"] = dim_demography_pd["block_names"].apply(lambda x: x if isinstance(x, list) else [])
+        # Category
+        if dim_category_pd.empty:
+            dim_category_spark = spark.createDataFrame([], schema=CATEGORY_SCHEMA)
+        else:
+            dim_category_spark = spark.createDataFrame(dim_category_pd, schema=CATEGORY_SCHEMA)
 
-        # Broadcast dims for joining in Spark
-        dim_category_spark = spark.createDataFrame(dim_category_pd)
-        dim_sector_spark = spark.createDataFrame(dim_sector_pd)
-        dim_demography_spark = spark.createDataFrame(dim_demography_pd, schema=schema)
+        # Sector
+        if dim_sector_pd.empty:
+            dim_sector_spark = spark.createDataFrame([], schema=SECTOR_SCHEMA)
+        else:
+            dim_sector_spark = spark.createDataFrame(dim_sector_pd, schema=SECTOR_SCHEMA)
+
+        # Demography
+        if dim_demography_pd.empty:
+            dim_demography_spark = spark.createDataFrame([], schema=DEMOGRAPHY_SCHEMA)
+        else:
+            # Convert lists to arrays in Pandas
+            dim_demography_pd["district_names"] = dim_demography_pd["district_names"].apply(lambda x: x if isinstance(x, list) else [])
+            dim_demography_pd["block_names"] = dim_demography_pd["block_names"].apply(lambda x: x if isinstance(x, list) else [])
+            dim_demography_spark = spark.createDataFrame(dim_demography_pd, schema=DEMOGRAPHY_SCHEMA)
+
 
         from pyspark.sql.functions import broadcast
 

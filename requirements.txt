@@ -9,4 +9,3 @@ seaborn
 plotly
 ipywidgets
 jupyterlab
-notebook
