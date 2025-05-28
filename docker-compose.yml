@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  ingestion:
+    build:
+      context: .
+      dockerfile: docker/ingestion.Dockerfile
+    container_name: kcc-ingestion
+    volumes:
+      - ./storage:/app/storage
+    command: ["--backfill", "--max-offset", "100"]
+    networks:
+      - kcc-network
+
+  processing:
+    build:
+      context: .
+      dockerfile: docker/processing.Dockerfile
+    container_name: kcc-processing
+    volumes:
+      - ./storage:/app/storage
+    command: ["/opt/bitnami/python/bin/python", "main.py", "--job", "initial"]
+    ports:
+      - "4040:4040"  # Spark UI
+    depends_on:
+      ingestion:
+        condition: service_completed_successfully
+    networks:
+      - kcc-network
+
+  visualize:
+    build:
+      context: .
+      dockerfile: docker/visualize.Dockerfile
+    container_name: kcc-visualize
+    volumes:
+      - ./storage:/app/storage
+    ports:
+      - "8888:8888"  # Jupyter Lab
+    depends_on:
+      processing:
+        condition: service_completed_successfully
+    networks:
+      - kcc-network
+
+networks:
+  kcc-network:
+    driver: bridge
+
+volumes:
+  storage:
+    driver: local
