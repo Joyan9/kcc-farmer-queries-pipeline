@@ -16,4 +16,4 @@ COPY visualization/notebooks/ ./notebooks/
 
 EXPOSE 8888
 
-CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--allow-root", "--no-browser", "--notebook-dir=/app/notebooks"]
+CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--allow-root", "--no-browser", "--notebook-dir=/app/notebooks", "--NotebookApp.default_url=/lab/tree/dashboard.ipynb"]
