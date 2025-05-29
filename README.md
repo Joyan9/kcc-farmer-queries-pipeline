@@ -129,8 +129,8 @@ The visualization service provides insights on:
 
 ## 🚨 Important Notes
 
-- Default ingestion limit: 60,000 rows per month (configurable)
+- Default ingestion limit: 50,000 rows per month (configurable)
 - Sample mode processes 100 rows per month for quick testing
-- Requires API key for full data access (contact Indian Government Open Data Portal)
+- Requires API key for full data access (contact Indian Government Open Data Portal). [Link to generate API Key](https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers)
 - Processing ~9M records requires significant compute resources
 
