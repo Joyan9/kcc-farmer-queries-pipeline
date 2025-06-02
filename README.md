@@ -3,26 +3,30 @@
 A batch-processing data system designed to handle farmer query data from the Kisan Call Centre (KCC) made available by the Open Data Portal from the Indian Government. The system ingests, processes, and analyzes approximately 9 million records of farmer queries to provide valuable insights for agricultural planning and support.
 
 ## Architecture Diagram
-![Architecture Diagram](docs/KCC%20Pipeline_v3.png)
+
+![Architecture Diagram](docs/architecture/KCC%20Pipeline_v3.png)
 
 ## 🏗️ System Architecture
 
-This pipeline follows a **microservices architecture** with three main components:
+This pipeline follows a **microservices architecture** with four main components:
 
-- **🔄 Ingestion Service**: Automated data extraction from KCC API with support for backfill and incremental loads
-- **⚙️ Processing Service**: ETL operations transforming raw data into a star schema for analytics
-- **📊 Visualization Service**: Interactive dashboards and analytics using Jupyter Lab
+* **🔄 Ingestion Service**: dlt-based data extraction from KCC API with support for backfill and incremental loads
+* **⚙️ Processing Service**: Processing the raw data and transforming it into a star schema for analytics
+* **📊 Visualization Service**: Interactive dashboards and analytics using Jupyter Lab
+* **🧪 Testing Service**: Test suite validating ingestion, processing logic, configurations, and end-to-end pipeline behavior
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Docker and Docker Compose
-- KCC API Key (optional for testing with sample data)
+
+* Docker and Docker Compose
+* KCC API Key ➡️ [Link to generate API Key](https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers)
 
 ### Run the Complete Pipeline
+
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Joyan9/kcc-farmer-queries-pipeline.git
 cd kcc-farmer-queries-pipeline
 
 # Start all services
@@ -30,44 +34,29 @@ docker-compose up
 ```
 
 This will:
+
 1. **Ingest** sample data (100 rows per month)
 2. **Process** data into star schema format
-3. **Launch** Jupyter Lab at http://localhost:8888 for visualization
+3. **Run** the test suite after processing completes
+4. **Launch** Jupyter Lab at [http://localhost:8888](http://localhost:8888) for visualization
 
 ### Individual Service Usage
 
-#### 🔄 Data Ingestion
+#### 🧪 Testing
+
 ```bash
-# Build ingestion service
-docker build -f docker/ingestion.Dockerfile -t kcc-ingestion .
+# Build testing service
+docker build -f docker/testing.dockerfile -t kcc-testing .
 
-# Run backfill (limited sample)
-docker run --rm -v $(pwd)/storage:/app/storage kcc-ingestion --backfill --max-offset 200
-
-# Run for last month only
-docker run --rm -v $(pwd)/storage:/app/storage kcc-ingestion
+# Run tests (unit + integration)
+docker run --rm -v $(pwd)/storage:/app/storage kcc-testing
 ```
 
-#### ⚙️ Data Processing
-```bash
-# Build processing service
-docker build -f docker/processing.Dockerfile -t kcc-processing .
+Includes:
 
-# Run initial load (backfill processing)
-docker run --rm -v $(pwd)/storage:/app/storage kcc-processing python main.py --job initial
-
-# Run incremental processing
-docker run --rm -v $(pwd)/storage:/app/storage kcc-processing python main.py --job incremental
-```
-
-#### 📊 Visualization
-```bash
-# Build visualization service
-docker build -f docker/visualize.Dockerfile -t kcc-visualize .
-
-# Launch Jupyter Lab
-docker run --rm -p 8888:8888 -v $(pwd)/storage:/app/storage -v $(pwd)/visualization/notebooks:/app/notebooks kcc-visualize
-```
+* Unit tests for ingestion helpers and argument parsing
+* Spark-based cleaning and dimension logic tests
+* Integration tests for pipeline configuration and DuckDB output
 
 ## 📁 Project Structure
 
@@ -77,60 +66,36 @@ kcc-farmer-queries-pipeline/
 ├── ingestion/                  # Data ingestion microservice
 ├── processing/                 # ETL and data transformation
 ├── visualization/              # Analytics dashboards
+├── tests/                      # Unit and integration test suite
 ├── storage/                    # Data storage (raw + processed)
 ├── docs/                       # Architecture diagrams
 └── docker-compose.yml          # Orchestration configuration
 ```
 
-## 🗄️ Data Model
+Here’s the corrected and polished version of the **📖 Documentation** section with consistent formatting, a placeholder for the finalization report, and the test coverage details clearly separated:
 
-The system implements a **star schema** for efficient analytics:
-
-- **Fact Table**: `fct_queries` (9M+ farmer queries)
-- **Dimensions**: `dim_demography`, `dim_category`, `dim_sector`
-- **Storage**: DuckDB for high-performance analytics queries
-
-## 🔧 Key Features
-
-- **🔄 Dual Processing Modes**: Backfill historical data or process incrementally
-- **🛡️ Data Quality**: PII masking, null handling, and data validation
-- **📈 Performance Optimized**: Parquet format, row limits, and efficient querying
-- **🐳 Containerized**: Complete Docker-based deployment
-- **📊 Rich Analytics**: Geographic, temporal, and categorical insights
-
-## 🎯 Use Cases
-
-- **Agricultural Policy Planning**: State and district-level farmer needs analysis
-- **Crop Support Programs**: Identify common issues by crop type and region
-- **Resource Allocation**: Understand query patterns by sector and category
-- **NLP Applications**: Clean, structured text data for machine learning models
-
-## 📊 Sample Analytics
-
-The visualization service provides insights on:
-- Geographic distribution of farmer queries
-- Seasonal patterns in agricultural concerns
-- Category and sector breakdown analysis
-- State vs. query type heatmaps
-
-## 🛠️ Technical Stack
-
-- **Data Processing**: Python, PySpark, DuckDB
-- **Storage**: Parquet files, DuckDB database
-- **Containerization**: Docker, Docker Compose
-- **Visualization**: Jupyter Lab, Plotly, Matplotlib
-- **Data Integration**: DLT (Data Load Tool)
+---
 
 ## 📖 Documentation
 
-- [Implementation Report](docs/implementation-report.md) - Detailed technical documentation
-- [Architecture Diagrams](docs/) - Visual system overview
-- [Data Model](docs/kcc_data_model.png) - Database schema reference
+* [Conception Report](docs/Bhathena-Joyan_9213297_Data%20Engineering_P1_S.pdf) – Documentation for the conception phase of the project
+* [Implementation Report](docs/Bhathena-Joyan_9213297_Data%20Engineering_P2_S.pdf) – Detailed technical documentation for the implementation phase
+* *Finalization Report* – *(To be added)*
+* [Architecture Diagrams](docs/architecture/) – Visual system overview
+* [Data Model](docs/kcc_data_model.png) – Database schema reference
+
+**Test Coverage:**
+The testing service covers core components such as:
+
+* Ingestion logic
+* Data cleaning routines
+* Dimension table generation
+* Configuration file validation
+* End-to-end pipeline validation with DuckDB
 
 ## 🚨 Important Notes
 
 - Default ingestion limit: 50,000 rows per month (configurable)
 - Sample mode processes 100 rows per month for quick testing
-- Requires API key for full data access (contact Indian Government Open Data Portal). [Link to generate API Key](https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers)
+- Requires API key for full data access. [Link to generate API Key](https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers) 
 - Processing ~9M records requires significant compute resources
-
