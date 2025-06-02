@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   ingestion:
     build:
@@ -37,6 +35,19 @@ services:
       - ./storage:/app/storage
     ports:
       - "8888:8888"  # Jupyter Lab
+    depends_on:
+      processing:
+        condition: service_completed_successfully
+    networks:
+      - kcc-network
+
+  testing:
+    build:
+      context: .
+      dockerfile: docker/testing.dockerfile
+    container_name: kcc-testing
+    volumes:
+      - ./storage:/app/storage
     depends_on:
       processing:
         condition: service_completed_successfully
