@@ -22,16 +22,31 @@ This pipeline follows a **microservices architecture** with four main components
 * Docker and Docker Compose
 * KCC API Key ➡️ [Link to generate API Key](https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers)
 
+### Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Joyan9/kcc-farmer-queries-pipeline.git
+   cd kcc-farmer-queries-pipeline
+   ```
+
+2. **Set up your API key**
+   
+   Create a `.env` file in the project root directory:
+   ```bash
+   # .env file example
+   KCC_API_KEY=1234566
+   # no need of quotes, keep the name of the env var same
+   ```
+
+3. **Start all services**
+   ```bash
+   docker-compose up
+   ```
+
 ### Run the Complete Pipeline
 
-```bash
-# Clone the repository
-git clone https://github.com/Joyan9/kcc-farmer-queries-pipeline.git
-cd kcc-farmer-queries-pipeline
-
-# Start all services
-docker-compose up
-```
+Once you've completed the setup steps above, the pipeline will start automatically when you run `docker-compose up`.
 
 This will:
 
