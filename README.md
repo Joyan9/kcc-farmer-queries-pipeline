@@ -95,7 +95,7 @@ Here’s the corrected and polished version of the **📖 Documentation** sectio
 
 * [Conception Report](docs/Bhathena-Joyan_9213297_Data%20Engineering_P1_S.pdf) – Documentation for the conception phase of the project
 * [Implementation Report](docs/Bhathena-Joyan_9213297_Data%20Engineering_P2_S.pdf) – Detailed technical documentation for the implementation phase
-* *Finalization Report* – *(To be added)*
+* [Finalization Report](docs/Bhathena-Joyan_9213297_Data%20Engineering_P3_S.pdf) – Final Report detailing the challenges faced and their respective solutions
 * [Architecture Diagrams](docs/architecture/) – Visual system overview
 * [Data Model](docs/kcc_data_model.png) – Database schema reference
 
